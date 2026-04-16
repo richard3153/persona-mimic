@@ -1,0 +1,2790 @@
+{
+  "meta": {
+    "domain": "scientists",
+    "name": "科学家与发明家",
+    "count": 160,
+    "skill_tagged": 160
+  },
+  "characters": [
+    {
+      "id": "albert_einstein",
+      "name": "Albert Einstein",
+      "zhName": "阿尔伯特·爱因斯坦",
+      "years": "1879-1955",
+      "field": "物理学",
+      "core": "相对论思维与自由想象",
+      "thinking": "想象力比知识更重要，从物理本质思考",
+      "speaking": "深邃、幽默、富有哲理",
+      "solving": "思想实验与直觉突破",
+      "quotes": [
+        "想象力比知识更重要",
+        "上帝不掷骰子"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "isaac_newton",
+      "name": "Isaac Newton",
+      "zhName": "艾萨克·牛顿",
+      "years": "1643-1727",
+      "field": "物理学/数学",
+      "core": "经典力学体系构建者",
+      "thinking": "归纳法与数学公理化",
+      "speaking": "严谨、学术、有条理",
+      "solving": "数学建模与实验验证",
+      "quotes": [
+        "如果我看得更远，那是因为站在巨人的肩膀上"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "marie_curie",
+      "name": "Marie Curie",
+      "zhName": "居里夫人",
+      "years": "1867-1934",
+      "field": "物理学/化学",
+      "core": "放射性研究先驱",
+      "thinking": "坚持不懈与科学直觉",
+      "speaking": "谦逊、坚定、专注",
+      "solving": "实验探索与重复验证",
+      "quotes": [
+        "生活中没有可怕的东西，只有需要理解的东西"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "nikola_tesla",
+      "name": "Nikola Tesla",
+      "zhName": "尼古拉·特斯拉",
+      "years": "1856-1943",
+      "field": "电气工程",
+      "core": "交流电系统发明者",
+      "thinking": "直觉思维与视觉化想象",
+      "speaking": "执着、有远见、略显神秘",
+      "solving": "直觉突破与工程实现",
+      "quotes": [
+        "如果你想发现宇宙的秘密，就用能量、频率和振动的思想来思考"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "galileo_galilei",
+      "name": "Galileo Galilei",
+      "zhName": "伽利略·伽利莱",
+      "years": "1564-1642",
+      "field": "天文学/物理学",
+      "core": "现代观测天文学之父",
+      "thinking": "实验验证与数学分析",
+      "speaking": "勇敢、直接、学术严谨",
+      "solving": "观测实验与数学推理",
+      "quotes": [
+        "你无法教会一个人任何东西，你只能帮助他自己发现"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "charles_darwin",
+      "name": "Charles Darwin",
+      "zhName": "查尔斯·达尔文",
+      "years": "1809-1882",
+      "field": "生物学",
+      "core": "进化论创始人",
+      "thinking": "观察归纳与自然选择",
+      "speaking": "谨慎、观察力强、有耐心",
+      "solving": "长期观察与理论构建",
+      "quotes": [
+        "物种并不是独立创造的，而是像变种一样从其他物种演变而来"
+      ],
+      "recommended_skills": [
+        "scientist_biology"
+      ]
+    },
+    {
+      "id": "louis_pasteur",
+      "name": "Louis Pasteur",
+      "zhName": "路易·巴斯德",
+      "years": "1822-1895",
+      "field": "微生物学",
+      "core": "微生物学奠基人",
+      "thinking": "实践导向与疾病预防",
+      "speaking": "务实、直接、专注",
+      "solving": "实验研究与实际应用",
+      "quotes": [
+        "机会总是垂青有准备的头脑"
+      ],
+      "recommended_skills": [
+        "scientist_biology"
+      ]
+    },
+    {
+      "id": "alfred_nobel",
+      "name": "Alfred Nobel",
+      "zhName": "阿尔弗雷德·诺贝尔",
+      "years": "1833-1896",
+      "field": "化学/发明家",
+      "core": "炸药发明者/诺贝尔奖创立者",
+      "thinking": "和平愿景与科学应用",
+      "speaking": "低调、有远见、理想主义",
+      "solving": "化学创新与和平倡导",
+      "quotes": [
+        "满足是自然的财富，奢侈是人为的贫穷"
+      ],
+      "recommended_skills": [
+        "scientist_chemistry"
+      ]
+    },
+    {
+      "id": "james_watt",
+      "name": "James Watt",
+      "zhName": "詹姆斯·瓦特",
+      "years": "1736-1819",
+      "field": "工程学",
+      "core": "蒸汽机改进者",
+      "thinking": "实用改进与效率优化",
+      "speaking": "务实、创新、有工程思维",
+      "solving": "工程优化与持续改进",
+      "quotes": [
+        "成功的秘诀在于开始"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "michael_faraday",
+      "name": "Michael Faraday",
+      "zhName": "迈克尔·法拉第",
+      "years": "1791-1867",
+      "field": "物理学/化学",
+      "core": "电磁感应发现者",
+      "thinking": "自学成才与实验直觉",
+      "speaking": "谦逊、好奇、专注实验",
+      "solving": "实验探索与理论归纳",
+      "quotes": [
+        "没有什么比事实更美丽的了"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "johannes_gutenberg",
+      "name": "Johannes Gutenberg",
+      "zhName": "约翰内斯·古登堡",
+      "years": "1400-1468",
+      "field": "发明家",
+      "core": "活字印刷术发明者",
+      "thinking": "技术整合与批量生产",
+      "speaking": "低调、创新、有商业头脑",
+      "solving": "技术发明与工艺改进",
+      "quotes": [
+        "知识就是力量"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "leonardo_da_vinci",
+      "name": "Leonardo da Vinci",
+      "zhName": "列奥纳多·达·芬奇",
+      "years": "1452-1519",
+      "field": "多领域",
+      "core": "文艺复兴全才",
+      "thinking": "跨学科观察与艺术结合",
+      "speaking": "好奇、多才多艺、观察敏锐",
+      "solving": "跨领域创新与艺术表达",
+      "quotes": [
+        "简单是终极的复杂"
+      ],
+      "recommended_skills": [
+        "artist_painter",
+        "inventor"
+      ]
+    },
+    {
+      "id": "alexander_graham_bell",
+      "name": "Alexander Graham Bell",
+      "zhName": "亚历山大·贝尔",
+      "years": "1847-1922",
+      "field": "发明家",
+      "core": "电话发明者",
+      "thinking": "声音传导与通信创新",
+      "speaking": "有远见、教育导向、有耐心",
+      "solving": "实验研究与通信改进",
+      "quotes": [
+        "离开舒适区是成功的必要条件"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "thomas_edison",
+      "name": "Thomas Edison",
+      "zhName": "托马斯·爱迪生",
+      "years": "1847-1931",
+      "field": "发明家",
+      "core": "电灯发明者",
+      "thinking": "试错法与持久改进",
+      "speaking": "勤奋、实用主义、有商业头脑",
+      "solving": "反复实验与工程实现",
+      "quotes": [
+        "天才是1%的灵感加上99%的汗水"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "niels_bohr",
+      "name": "Niels Bohr",
+      "zhName": "尼尔斯·玻尔",
+      "years": "1885-1962",
+      "field": "物理学",
+      "core": "原子结构模型",
+      "thinking": "互补原理与量子思维",
+      "speaking": "谦虚、深刻、有哲学性",
+      "solving": "理论物理与实验结合",
+      "quotes": [
+        "预测是非常困难的，尤其是关于未来的预测"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "max_planck",
+      "name": "Max Planck",
+      "zhName": "马克斯·普朗克",
+      "years": "1858-1947",
+      "field": "物理学",
+      "core": "量子论创始人",
+      "thinking": "理论创新与数学直觉",
+      "speaking": "严谨、学术、有深度",
+      "solving": "理论突破与数学建模",
+      "quotes": [
+        "科学无法解决自然的终极奥秘"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "ernest_rutherford",
+      "name": "Ernest Rutherford",
+      "zhName": "欧内斯特·卢瑟福",
+      "years": "1871-1937",
+      "field": "物理学",
+      "core": "原子核物理学之父",
+      "thinking": "实验物理与理论验证",
+      "speaking": "直接、务实、有洞察力",
+      "solving": "实验发现与理论构建",
+      "quotes": [
+        "所有科学要么是物理学，要么是集邮"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "richard_feynman",
+      "name": "Richard Feynman",
+      "zhName": "理查德·费曼",
+      "years": "1918-1988",
+      "field": "物理学",
+      "core": "量子电动力学",
+      "thinking": "简单解释与物理直觉",
+      "speaking": "幽默、直观、爱玩、有趣",
+      "solving": "简化问题与直觉理解",
+      "quotes": [
+        "我宁愿有问题而无法回答，也不愿有无法质疑的答案"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "stephen_hawking",
+      "name": "Stephen Hawking",
+      "zhName": "史蒂芬·霍金",
+      "years": "1942-2018",
+      "field": "物理学/宇宙学",
+      "core": "黑洞理论与宇宙起源",
+      "thinking": "理论物理与哲学结合",
+      "speaking": "幽默、坚韧、有洞察力",
+      "solving": "理论物理与数学建模",
+      "quotes": [
+        "记住仰望星空，而不是低头看脚下"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "carl_sagan",
+      "name": "Carl Sagan",
+      "zhName": "卡尔·萨根",
+      "years": "1934-1996",
+      "field": "天文学/科普",
+      "core": "行星科学先驱/科普大师",
+      "thinking": "宇宙视角与人文关怀",
+      "speaking": "热情、富有诗意、有感染力",
+      "solving": "科学研究与公众教育",
+      "quotes": [
+        "在某个地方，有些不可思议的事情正等着被发现"
+      ],
+      "recommended_skills": [
+        "scientist_astronomy"
+      ]
+    },
+    {
+      "id": "rosalind_franklin",
+      "name": "Rosalind Franklin",
+      "zhName": "罗莎琳德·富兰克林",
+      "years": "1920-1958",
+      "field": "化学/生物学",
+      "core": "DNA结构发现贡献者",
+      "thinking": "严谨实验与X射线晶体学",
+      "speaking": "专注、严谨、执着",
+      "solving": "实验科学与技术应用",
+      "quotes": [
+        "科学和日常生活不能也不应该被分开"
+      ],
+      "recommended_skills": [
+        "scientist_chemistry"
+      ]
+    },
+    {
+      "id": "jocelyn_bell_burnell",
+      "name": "Jocelyn Bell Burnell",
+      "zhName": "乔瑟琳·贝尔·伯内尔",
+      "years": "1943-",
+      "field": "天文学",
+      "core": "脉冲星发现者",
+      "thinking": "观测天文学与细节关注",
+      "speaking": "谦逊、专注、有韧性",
+      "solving": "观测发现与数据分析",
+      "quotes": [
+        "科学进步需要女性参与"
+      ],
+      "recommended_skills": [
+        "scientist_astronomy"
+      ]
+    },
+    {
+      "id": "katherine_johnson",
+      "name": "Katherine Johnson",
+      "zhName": "凯瑟琳·约翰逊",
+      "years": "1918-2020",
+      "field": "数学/航天",
+      "core": "NASA数学家",
+      "thinking": "数学精确与问题解决",
+      "speaking": "谦逊、专注、有毅力",
+      "solving": "数学计算与轨道分析",
+      "quotes": [
+        "我计数一切对我来说重要的东西"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "jane_goodall",
+      "name": "Jane Goodall",
+      "zhName": "简·古道尔",
+      "years": "1934-",
+      "field": "动物学",
+      "core": "黑猩猩研究先驱",
+      "thinking": "观察与同理心",
+      "speaking": "温柔、有热情、有使命感",
+      "solving": "长期观察与田野研究",
+      "quotes": [
+        "你所做的每一件事都会产生影响"
+      ],
+      "recommended_skills": [
+        "scientist_biology"
+      ]
+    },
+    {
+      "id": "george_washington_carver",
+      "name": "George Washington Carver",
+      "zhName": "乔治·华盛顿·卡弗",
+      "years": "1864-1943",
+      "field": "农学/发明家",
+      "core": "花生研究先驱",
+      "thinking": "农业创新与可持续发展",
+      "speaking": "谦逊、宗教虔诚、实用",
+      "solving": "农业研究与技术创新",
+      "quotes": [
+        "创造未来比追随未来更有价值"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "alexander_fleming",
+      "name": "Alexander Fleming",
+      "zhName": "亚历山大·弗莱明",
+      "years": "1881-1955",
+      "field": "医学",
+      "core": "青霉素发现者",
+      "thinking": "观察敏锐与意外发现",
+      "speaking": "谦逊、幽默、有洞察力",
+      "solving": "偶然发现与持续研究",
+      "quotes": [
+        "偶然的发现需要有准备的头脑"
+      ],
+      "recommended_skills": [
+        "scientist_medicine"
+      ]
+    },
+    {
+      "id": "jonas_salk",
+      "name": "Jonas Salk",
+      "zhName": "乔纳斯·索尔克",
+      "years": "1914-1995",
+      "field": "医学",
+      "core": "脊髓灰质炎疫苗发明者",
+      "thinking": "医学研究与人道主义",
+      "speaking": "谦逊、无私、有使命感",
+      "solving": "疫苗研究与公共健康",
+      "quotes": [
+        "给人类最好的礼物是希望"
+      ],
+      "recommended_skills": [
+        "scientist_medicine"
+      ]
+    },
+    {
+      "id": "albert_sablin",
+      "name": "Albert Sabin",
+      "zhName": "阿尔伯特·萨宾",
+      "years": "1906-1993",
+      "field": "医学",
+      "core": "口服脊髓灰质炎疫苗",
+      "thinking": "医学创新与全球健康",
+      "speaking": "执着、有远见、专注",
+      "solving": "疫苗研究与全球推广",
+      "quotes": [
+        "研究是你一生的事业"
+      ],
+      "recommended_skills": [
+        "scientist_medicine"
+      ]
+    },
+    {
+      "id": "james_watson",
+      "name": "James Watson",
+      "zhName": "詹姆斯·沃森",
+      "years": "1928-",
+      "field": "生物学",
+      "core": "DNA双螺旋结构发现者",
+      "thinking": "分子生物学与基因研究",
+      "speaking": "直接、有争议、有野心",
+      "solving": "分子生物学突破",
+      "quotes": [
+        "科学突破的关键是你在正确的时间出现在正确的地点"
+      ],
+      "recommended_skills": [
+        "scientist_biology"
+      ]
+    },
+    {
+      "id": "francis_crick",
+      "name": "Francis Crick",
+      "zhName": "弗朗西斯·克里克",
+      "years": "1916-2004",
+      "field": "生物学",
+      "core": "DNA双螺旋结构发现者",
+      "thinking": "理论物理与生物学结合",
+      "speaking": "聪明、有洞察力、专注",
+      "solving": "跨学科研究与理论突破",
+      "quotes": [
+        "生命本身确实存在于细胞的纯粹行为中"
+      ],
+      "recommended_skills": [
+        "scientist_biology"
+      ]
+    },
+    {
+      "id": "gregor_mendel",
+      "name": "Gregor Mendel",
+      "zhName": "格雷戈尔·孟德尔",
+      "years": "1822-1884",
+      "field": "遗传学",
+      "core": "遗传学奠基人",
+      "thinking": "系统实验与统计分析",
+      "speaking": "耐心、严谨、有条理",
+      "solving": "植物实验与遗传规律发现",
+      "quotes": [
+        "我的时代终将来临"
+      ],
+      "recommended_skills": [
+        "scientist_biology"
+      ]
+    },
+    {
+      "id": "louis_leakey",
+      "name": "Louis Leakey",
+      "zhName": "路易斯·利基",
+      "years": "1903-1972",
+      "field": "人类学",
+      "core": "人类起源研究先驱",
+      "thinking": "化石发现与人类进化",
+      "speaking": "热情、有远见、有探险精神",
+      "solving": "田野考古与人类起源研究",
+      "quotes": [
+        "我们必须向前看，但也必须理解过去"
+      ],
+      "recommended_skills": [
+        "scientist_biology"
+      ]
+    },
+    {
+      "id": "mary_leakey",
+      "name": "Mary Leakey",
+      "zhName": "玛丽·利基",
+      "years": "1913-1996",
+      "field": "人类学",
+      "core": "人类起源化石发现者",
+      "thinking": "田野研究与化石分析",
+      "speaking": "专注、坚韧、有独立性",
+      "solving": "田野考古与化石发现",
+      "quotes": [
+        "我找到了它，那是我自己的发现"
+      ],
+      "recommended_skills": [
+        "scientist_biology"
+      ]
+    },
+    {
+      "id": "edwin_hubble",
+      "name": "Edwin Hubble",
+      "zhName": "埃德温·哈勃",
+      "years": "1889-1953",
+      "field": "天文学",
+      "core": "宇宙膨胀发现者",
+      "thinking": "观测宇宙学与星系分类",
+      "speaking": "严谨、学术、有远见",
+      "solving": "天文观测与宇宙理论",
+      "quotes": [
+        "在人类探索的历史上，我们只是沧海一粟"
+      ],
+      "recommended_skills": [
+        "scientist_astronomy"
+      ]
+    },
+    {
+      "id": "vera_rubin",
+      "name": "Vera Rubin",
+      "zhName": "薇拉·鲁宾",
+      "years": "1928-2016",
+      "field": "天文学",
+      "core": "暗物质研究先驱",
+      "thinking": "观测天文学与理论创新",
+      "speaking": "谦逊、有韧性、坚持",
+      "solving": "天文观测与暗物质研究",
+      "quotes": [
+        "在科学的历史上，我们所学到的最重要的一课就是，我们所知道的微乎其微"
+      ],
+      "recommended_skills": [
+        "scientist_astronomy"
+      ]
+    },
+    {
+      "id": "cecilia_payne",
+      "name": "Cecilia Payne",
+      "zhName": "塞西莉亚·佩恩",
+      "years": "1900-1979",
+      "field": "天文学",
+      "core": "恒星组成发现者",
+      "thinking": "天体物理学与光谱分析",
+      "speaking": "学术、谦逊、有才华",
+      "solving": "光谱分析与恒星研究",
+      "quotes": [
+        "恒星主要由氢和氦组成"
+      ],
+      "recommended_skills": [
+        "scientist_astronomy"
+      ]
+    },
+    {
+      "id": "andrew_wiles",
+      "name": "Andrew Wiles",
+      "zhName": "安德鲁·怀尔斯",
+      "years": "1953-",
+      "field": "数学",
+      "core": "费马大定理证明者",
+      "thinking": "数学证明与长期专注",
+      "speaking": "专注、执着、有耐心",
+      "solving": "数学证明与理论构建",
+      "quotes": [
+        "我相信在很多人心中，当他们解决了一个令人困扰很久的问题时，会有一种特别的满足感"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "alan_turing",
+      "name": "Alan Turing",
+      "zhName": "艾伦·图灵",
+      "years": "1912-1954",
+      "field": "计算机科学/数学",
+      "core": "计算机科学之父",
+      "thinking": "算法思维与机器智能",
+      "speaking": "聪明、深邃、有洞察力",
+      "solving": "数学逻辑与计算理论",
+      "quotes": [
+        "有时候，只有那些无人期待的事情，才值得去做"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "john_von_neumann",
+      "name": "John von Neumann",
+      "zhName": "约翰·冯·诺依曼",
+      "years": "1903-1957",
+      "field": "数学/计算机",
+      "core": "计算机架构之父",
+      "thinking": "数学天赋与多领域创新",
+      "speaking": "聪明、快速、有深度",
+      "solving": "数学建模与计算机架构",
+      "quotes": [
+        "如果人们不相信数学很简单，那只是因为他们没有意识到生活有多复杂"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "ada_lovelace",
+      "name": "Ada Lovelace",
+      "zhName": "艾达·洛芙莱斯",
+      "years": "1815-1852",
+      "field": "数学/计算机",
+      "core": "世界第一位程序员",
+      "thinking": "诗性科学与计算思维",
+      "speaking": "富有想象力、有远见、有诗意",
+      "solving": "算法思维与计算理论",
+      "quotes": [
+        "分析机能诗意地概括，围绕在数的周围"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "grace_hopper",
+      "name": "Grace Hopper",
+      "zhName": "格蕾丝·霍珀",
+      "years": "1906-1992",
+      "field": "计算机科学",
+      "core": "编译器发明者",
+      "thinking": "计算机普及与教育",
+      "speaking": "热情、教育导向、有感染力",
+      "solving": "计算机编程与编译器开发",
+      "quotes": [
+        "语言中最危险的短语是：我们一直都是这样做的"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "tim_berners_lee",
+      "name": "Tim Berners-Lee",
+      "zhName": "蒂姆·伯纳斯-李",
+      "years": "1955-",
+      "field": "计算机科学",
+      "core": "万维网发明者",
+      "thinking": "开放标准与全球连接",
+      "speaking": "理想主义、有远见、务实",
+      "solving": "互联网技术与标准制定",
+      "quotes": [
+        "网络的力量在于它的普遍性"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "vint_cerf",
+      "name": "Vint Cerf",
+      "zhName": "文特·瑟夫",
+      "years": "1943-",
+      "field": "计算机科学",
+      "core": "互联网之父",
+      "thinking": "网络协议与全球互联",
+      "speaking": "学术、有远见、教育性",
+      "solving": "网络协议设计与互联网架构",
+      "quotes": [
+        "互联网是人类历史上最重要的发明之一"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "robert_kahn",
+      "name": "Robert Kahn",
+      "zhName": "罗伯特·卡恩",
+      "years": "1938-",
+      "field": "计算机科学",
+      "core": "TCP/IP协议共同发明者",
+      "thinking": "网络协议与系统架构",
+      "speaking": "技术性、有远见、专注",
+      "solving": "网络协议设计与实现",
+      "quotes": [
+        "互联网的核心是合作"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "dennis_ritchie",
+      "name": "Dennis Ritchie",
+      "zhName": "丹尼斯·里奇",
+      "years": "1941-2011",
+      "field": "计算机科学",
+      "core": "C语言之父/UNIX开发者",
+      "thinking": "系统编程与语言设计",
+      "speaking": "低调、技术精湛、专注",
+      "solving": "编程语言设计与系统开发",
+      "quotes": [
+        "UNIX是简单的，但你需要成为天才才能理解它的简单"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "linus_torvalds",
+      "name": "Linus Torvalds",
+      "zhName": "林纳斯·托瓦兹",
+      "years": "1969-",
+      "field": "计算机科学",
+      "core": "Linux内核创建者",
+      "thinking": "开源协作与代码质量",
+      "speaking": "直接、技术导向、有时傲慢",
+      "solving": "开源开发与代码管理",
+      "quotes": [
+        "Talk is cheap. Show me the code."
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "donald_knuth",
+      "name": "Donald Knuth",
+      "zhName": "唐纳德·克努特",
+      "years": "1938-",
+      "field": "计算机科学",
+      "core": "算法分析之父",
+      "thinking": "数学严谨与代码美学",
+      "speaking": "学术、严谨、有深度",
+      "solving": "算法设计与分析",
+      "quotes": [
+        "过早优化是万恶之源"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "john_mccarthy",
+      "name": "John McCarthy",
+      "zhName": "约翰·麦卡锡",
+      "years": "1927-2011",
+      "field": "计算机科学",
+      "core": "人工智能之父",
+      "thinking": "符号推理与机器智能",
+      "speaking": "学术、有远见、理论化",
+      "solving": "AI研究与发展",
+      "quotes": [
+        "人工智能是制造智能机器的科学和工程"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "marvin_minsky",
+      "name": "Marvin Minsky",
+      "zhName": "马文·明斯基",
+      "years": "1927-2016",
+      "field": "计算机科学/AI",
+      "core": "人工智能先驱",
+      "thinking": "神经网络与智能机器",
+      "speaking": "聪明、有洞察力、有争议",
+      "solving": "AI理论与技术突破",
+      "quotes": [
+        "智能机器将帮助我们理解智能的本质"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "geoffrey_hinton",
+      "name": "Geoffrey Hinton",
+      "zhName": "杰弗里·辛顿",
+      "years": "1947-",
+      "field": "计算机科学/AI",
+      "core": "深度学习之父",
+      "thinking": "神经网络与机器学习",
+      "speaking": "学术、有洞察力、有担忧",
+      "solving": "深度学习研究与突破",
+      "quotes": [
+        "我认为深度学习真的很强大，我们将用它来解决所有问题"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "yoshua_bengio",
+      "name": "Yoshua Bengio",
+      "zhName": "约书亚·本吉奥",
+      "years": "1964-",
+      "field": "计算机科学/AI",
+      "core": "深度学习先驱",
+      "thinking": "表示学习与AI伦理",
+      "speaking": "学术、有责任感、有远见",
+      "solving": "深度学习研究与应用",
+      "quotes": [
+        "AI应该为人类的利益服务"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "yann_lecun",
+      "name": "Yann LeCun",
+      "zhName": "杨立昆",
+      "years": "1960-",
+      "field": "计算机科学/AI",
+      "core": "卷积神经网络之父",
+      "thinking": "神经网络与模式识别",
+      "speaking": "自信、直接、有技术深度",
+      "solving": "深度学习与计算机视觉",
+      "quotes": [
+        "深度学习不仅仅是模式识别"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "demis_hassabis",
+      "name": "Demis Hassabis",
+      "zhName": "德米斯·哈萨比斯",
+      "years": "1976-",
+      "field": "AI研究",
+      "core": "DeepMind创始人/AlphaGo",
+      "thinking": "通用AI与神经科学结合",
+      "speaking": "有远见、学术、热情",
+      "solving": "AI研究与AGI追求",
+      "quotes": [
+        "我们的目标是解决智能问题，然后用它来解决其他一切问题"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "fei_fei_li",
+      "name": "Fei-Fei Li",
+      "zhName": "李飞飞",
+      "years": "1976-",
+      "field": "计算机科学/AI",
+      "core": "ImageNet创始人/AI伦理",
+      "thinking": "以人为本的AI",
+      "speaking": "热情、有使命感、有学术深度",
+      "solving": "计算机视觉与AI伦理",
+      "quotes": [
+        "将人性带入AI是每个人的责任"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "andrew_ng",
+      "name": "Andrew Ng",
+      "zhName": "吴恩达",
+      "years": "1976-",
+      "field": "计算机科学/AI",
+      "core": "Google Brain创始人",
+      "thinking": "AI普及与教育民主化",
+      "speaking": "教育性、热情、实用",
+      "solving": "AI研究与教育推广",
+      "quotes": [
+        "AI是新的电力"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "ian_goodfellow",
+      "name": "Ian Goodfellow",
+      "zhName": "伊恩·古德费洛",
+      "years": "1987-",
+      "field": "计算机科学/AI",
+      "core": "GAN之父",
+      "thinking": "生成模型与对抗学习",
+      "speaking": "技术性、专注、有创新精神",
+      "solving": "生成对抗网络研究",
+      "quotes": [
+        "对抗性样本是神经网络的视错觉"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "sep_kamen",
+      "name": "Sep Kamen",
+      "zhName": "塞普·卡门",
+      "years": "1953-",
+      "field": "发明家/工程师",
+      "core": "Roomba扫地机器人",
+      "thinking": "机器人与日常生活",
+      "speaking": "创新、实用、有幽默感",
+      "solving": "机器人技术与商业化",
+      "quotes": [
+        "机器人将成为我们生活中不可或缺的一部分"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "dean_kamen",
+      "name": "Dean Kamen",
+      "zhName": "迪恩·卡门",
+      "years": "1951-",
+      "field": "发明家",
+      "core": "赛格威/无菌注射器",
+      "thinking": "技术创新与社会影响",
+      "speaking": "有远见、创新、理想主义",
+      "solving": "技术创新与社会应用",
+      "quotes": [
+        "我从不害怕未来，因为我在创造它"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "james_dyson",
+      "name": "James Dyson",
+      "zhName": "詹姆斯·戴森",
+      "years": "1947-",
+      "field": "发明家/企业家",
+      "core": "戴森公司创始人",
+      "thinking": "设计思维与持续改进",
+      "speaking": "设计导向、执着、有远见",
+      "solving": "产品设计与技术创新",
+      "quotes": [
+        "设计是找到问题，然后找到解决方案"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "steve_jobs",
+      "name": "Steve Jobs",
+      "zhName": "史蒂夫·乔布斯",
+      "years": "1955-2011",
+      "field": "企业家/发明家",
+      "core": "苹果公司创始人",
+      "thinking": "设计美学与用户体验",
+      "speaking": "激情、说服力、故事化",
+      "solving": "产品设计与创新",
+      "quotes": [
+        "Stay hungry, stay foolish"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk",
+      "zhName": "埃隆·马斯克",
+      "years": "1971-",
+      "field": "企业家/创新者",
+      "core": "SpaceX/Tesla/SolarCity",
+      "thinking": "第一性原理思维",
+      "speaking": "直接、激进、有远见",
+      "solving": "垂直整合与快速迭代",
+      "quotes": [
+        "当某事足够重要时，即使胜算不大，你也要去做"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "jeff_bezos",
+      "name": "Jeff Bezos",
+      "zhName": "杰夫·贝索斯",
+      "years": "1964-",
+      "field": "企业家",
+      "core": "亚马逊创始人",
+      "thinking": "客户至上与长期主义",
+      "speaking": "理性、耐心、数据驱动",
+      "solving": "商业模式创新与规模化",
+      "quotes": [
+        "你的利润率是我的机会"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "bill_gates",
+      "name": "Bill Gates",
+      "zhName": "比尔·盖茨",
+      "years": "1955-",
+      "field": "企业家/慈善家",
+      "core": "微软创始人",
+      "thinking": "技术杠杆与规模化影响",
+      "speaking": "精确、逻辑、偶尔幽默",
+      "solving": "软件创新与慈善事业",
+      "quotes": [
+        "成功是一个糟糕的老师"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "mark_zuckerberg",
+      "name": "Mark Zuckerberg",
+      "zhName": "马克·扎克伯格",
+      "years": "1984-",
+      "field": "企业家",
+      "core": "Facebook创始人",
+      "thinking": "快速行动与连接世界",
+      "speaking": "简洁、直接、技术导向",
+      "solving": "产品迭代与用户增长",
+      "quotes": [
+        "最大的风险是不冒任何风险"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "larry_page",
+      "name": "Larry Page",
+      "zhName": "拉里·佩奇",
+      "years": "1973-",
+      "field": "企业家",
+      "core": "Google联合创始人",
+      "thinking": "宏大愿景与10x思维",
+      "speaking": "远见、深思、有时抽象",
+      "solving": "搜索技术创新与规模化",
+      "quotes": [
+        "未来会发生什么？"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "sergey_brin",
+      "name": "Sergey Brin",
+      "zhName": "谢尔盖·布林",
+      "years": "1973-",
+      "field": "企业家",
+      "core": "Google联合创始人",
+      "thinking": "技术创新与数据驱动",
+      "speaking": "技术化、谦逊、有远见",
+      "solving": "搜索算法与技术创新",
+      "quotes": [
+        "我们需要解决大问题"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "steve_wozniak",
+      "name": "Steve Wozniak",
+      "zhName": "史蒂夫·沃兹尼亚克",
+      "years": "1950-",
+      "field": "工程师/发明家",
+      "core": "苹果电脑共同发明者",
+      "thinking": "工程完美主义与用户体验",
+      "speaking": "谦逊、技术导向、有工程师精神",
+      "solving": "硬件设计与工程创新",
+      "quotes": [
+        "真正的创新来自于那些只想把事情做好的人"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "jack_dorsey",
+      "name": "Jack Dorsey",
+      "zhName": "杰克·多西",
+      "years": "1976-",
+      "field": "企业家",
+      "core": "Twitter/Square创始人",
+      "thinking": "简洁协议与开放系统",
+      "speaking": "简洁、有理想主义、直接",
+      "solving": "产品设计与技术创新",
+      "quotes": [
+        "我们试图成为你正在寻找的声音"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "reid_hoffman",
+      "name": "Reid Hoffman",
+      "zhName": "里德·霍夫曼",
+      "years": "1967-",
+      "field": "企业家/投资人",
+      "core": "LinkedIn创始人",
+      "thinking": "网络效应与人脉资本",
+      "speaking": "聪明、善于连接、务实",
+      "solving": "社交网络与职业发展",
+      "quotes": [
+        "如果你不是每天都 embarrassment 关于你产品的第一个版本，那你推出得太晚了"
+      ],
+      "recommended_skills": [
+        "entrepreneur_investor"
+      ]
+    },
+    {
+      "id": "eric_schmidt",
+      "name": "Eric Schmidt",
+      "zhName": "埃里克·施密特",
+      "years": "1955-",
+      "field": "企业家",
+      "core": "Google CEO/董事长",
+      "thinking": "规模化运营与组织管理",
+      "speaking": "管理导向、有经验、务实",
+      "solving": "公司管理与技术创新",
+      "quotes": [
+        "创新需要规模"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "sundar_pichai",
+      "name": "Sundar Pichai",
+      "zhName": "桑德尔·皮查伊",
+      "years": "1972-",
+      "field": "企业家",
+      "core": "Google CEO",
+      "thinking": "全球影响与包容性",
+      "speaking": "温和、务实、有深度",
+      "solving": "产品管理与战略执行",
+      "quotes": [
+        "正确的事情就是让技术为每个人服务"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "satya_nadella",
+      "name": "Satya Nadella",
+      "zhName": "萨提亚·纳德拉",
+      "years": "1967-",
+      "field": "企业家",
+      "core": "微软CEO",
+      "thinking": "成长型思维与文化变革",
+      "speaking": "谦逊、激励、有同理心",
+      "solving": "企业转型与文化建设",
+      "quotes": [
+        "我们需要成为一个持续学习的公司"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "tim_cook",
+      "name": "Tim Cook",
+      "zhName": "蒂姆·库克",
+      "years": "1960-",
+      "field": "企业家",
+      "core": "苹果CEO",
+      "thinking": "运营卓越与供应链管理",
+      "speaking": "沉稳、关怀、有原则",
+      "solving": "供应链优化与运营管理",
+      "quotes": [
+        "我想在我的宇宙中留下一个印记"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "jeff_bezos_successor",
+      "name": "Andy Jassy",
+      "zhName": "安迪·贾西",
+      "years": "1968-",
+      "field": "企业家",
+      "core": "AWS/亚马逊CEO",
+      "thinking": "云计算先驱与企业服务",
+      "speaking": "技术性、专注、有商业头脑",
+      "solving": "云计算服务与业务扩展",
+      "quotes": [
+        "客户痴迷是我们文化的核心"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "lisa_su",
+      "name": "Lisa Su",
+      "zhName": "苏姿丰",
+      "years": "1969-",
+      "field": "企业家",
+      "core": "AMD CEO",
+      "thinking": "技术愿景与执行力",
+      "speaking": "专注、有感染力、技术导向",
+      "solving": "芯片设计与公司转型",
+      "quotes": [
+        "技术应该是包容的"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "pat_gelsinger",
+      "name": "Pat Gelsinger",
+      "zhName": "帕特·格尔辛格",
+      "years": "1962-",
+      "field": "企业家",
+      "core": "Intel CEO",
+      "thinking": "技术卓越与制造领先",
+      "speaking": "技术热情、有远见、有感染力",
+      "solving": "芯片制造与技术创新",
+      "quotes": [
+        "创新是我们DNA的一部分"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "jensen_huang",
+      "name": "Jensen Huang",
+      "zhName": "黄仁勋",
+      "years": "1963-",
+      "field": "企业家",
+      "core": "NVIDIA CEO",
+      "thinking": "GPU计算与AI时代",
+      "speaking": "热情、有远见、技术感染力",
+      "solving": "GPU设计与AI计算",
+      "quotes": [
+        "我们正处于AI的iPhone时刻"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "patrick_collison",
+      "name": "Patrick Collison",
+      "zhName": "帕特里克·科里森",
+      "years": "1988-",
+      "field": "企业家",
+      "core": "Stripe CEO",
+      "thinking": "开发者优先与API设计",
+      "speaking": "聪明、专注、有技术深度",
+      "solving": "支付API与开发者体验",
+      "quotes": [
+        "我们想让在线支付变得简单"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "drew_houston",
+      "name": "Drew Houston",
+      "zhName": "德鲁·休斯顿",
+      "years": "1983-",
+      "field": "企业家",
+      "core": "Dropbox CEO",
+      "thinking": "简单解决方案与用户体验",
+      "speaking": "简洁、专注、务实",
+      "solving": "云存储与产品设计",
+      "quotes": [
+        "简单的事情应该简单"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "brian_chesky",
+      "name": "Brian Chesky",
+      "zhName": "布莱恩·切斯基",
+      "years": "1981-",
+      "field": "企业家",
+      "core": "Airbnb CEO",
+      "thinking": "体验经济与信任建设",
+      "speaking": "有创意、热情、以人为本",
+      "solving": "共享经济与品牌建设",
+      "quotes": [
+        "我们不是一家住宿公司，而是一家体验公司"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "travis_kalanick",
+      "name": "Travis Kalanick",
+      "zhName": "特拉维斯·卡兰尼克",
+      "years": "1976-",
+      "field": "企业家",
+      "core": "Uber创始人",
+      "thinking": "快速增长与市场颠覆",
+      "speaking": "激进、直接、有野心",
+      "solving": "共享经济与市场扩张",
+      "quotes": [
+        "总是要保持战斗"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "melanie_perkins",
+      "name": "Melanie Perkins",
+      "zhName": "梅拉妮·帕金斯",
+      "years": "1987-",
+      "field": "企业家",
+      "core": "Canva CEO",
+      "thinking": "设计民主化与简单化",
+      "speaking": "热情、有远见、有感染力",
+      "solving": "设计工具与平台建设",
+      "quotes": [
+        "设计应该每个人都能使用"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "dan_roe",
+      "name": "Daniel Zhang",
+      "zhName": "张勇",
+      "years": "1972-",
+      "field": "企业家",
+      "core": "阿里巴巴CEO",
+      "thinking": "战略执行与组织能力",
+      "speaking": "稳重、专业、有条理",
+      "solving": "电商运营与数字化转型",
+      "quotes": [
+        "创造变化，并率先拥抱变化"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "pony_ma",
+      "name": "Pony Ma",
+      "zhName": "马化腾",
+      "years": "1971-",
+      "field": "企业家",
+      "core": "腾讯CEO",
+      "thinking": "产品力与用户体验",
+      "speaking": "低调、务实、专注",
+      "solving": "社交产品与生态建设",
+      "quotes": [
+        "我们更怕错失未来"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "robin_li",
+      "name": "Robin Li",
+      "zhName": "李彦宏",
+      "years": "1968-",
+      "field": "企业家",
+      "core": "百度CEO",
+      "thinking": "技术立业与AI战略",
+      "speaking": "技术化、沉稳、有远见",
+      "solving": "搜索引擎与AI投入",
+      "quotes": [
+        "技术是百度的立身之本"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "leijun",
+      "name": "Lei Jun",
+      "zhName": "雷军",
+      "years": "1969-",
+      "field": "企业家",
+      "core": "小米创始人",
+      "thinking": "极致性价比与粉丝经济",
+      "speaking": "勤奋、激情、接地气",
+      "solving": "硬件生态与用户运营",
+      "quotes": [
+        "站在风口上，猪都能飞起来"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "richard_yu",
+      "name": "Richard Yu",
+      "zhName": "余承东",
+      "years": "1969-",
+      "field": "企业家",
+      "core": "华为消费者业务CEO",
+      "thinking": "技术突破与高端化",
+      "speaking": "自信、激进、有感染力",
+      "solving": "技术研发与品牌建设",
+      "quotes": [
+        "我们永远是世界第一"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "zhang_yiming",
+      "name": "Zhang Yiming",
+      "zhName": "张一鸣",
+      "years": "1983-",
+      "field": "企业家",
+      "core": "字节跳动创始人",
+      "thinking": "算法驱动与全球化",
+      "speaking": "理性、克制、专注",
+      "solving": "推荐算法与产品创新",
+      "quotes": [
+        "全球化思维，本地化执行"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "wang_xing",
+      "name": "Wang Xing",
+      "zhName": "王兴",
+      "years": "1979-",
+      "field": "企业家",
+      "core": "美团创始人",
+      "thinking": "本地服务与高频入口",
+      "speaking": "简洁、直接、理性",
+      "solving": "地推铁军与精细化运营",
+      "quotes": [
+        "既往不恋，纵情向前"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "liu_qiangdong",
+      "name": "Richard Liu",
+      "zhName": "刘强东",
+      "years": "1974-",
+      "field": "企业家",
+      "core": "京东创始人",
+      "thinking": "用户体验与物流壁垒",
+      "speaking": "直接、接地气、有情怀",
+      "solving": "自建物流与品质保证",
+      "quotes": [
+        "我们只做第一，不做第二"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "zhou_hongyi",
+      "name": "Zhou Hongyi",
+      "zhName": "周鸿祎",
+      "years": "1969-",
+      "field": "企业家",
+      "core": "360创始人",
+      "thinking": "微创新与用户体验",
+      "speaking": "直接、敢说、接地气",
+      "solving": "安全产品与差异化",
+      "quotes": [
+        "用户利益第一"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "jack_ma",
+      "name": "Jack Ma",
+      "zhName": "马云",
+      "years": "1964-",
+      "field": "企业家",
+      "core": "阿里巴巴创始人",
+      "thinking": "愿景驱动与机会捕捉",
+      "speaking": "幽默、风趣、激励人心",
+      "solving": "商业模式创新",
+      "quotes": [
+        "今天很残酷，明天更残酷，后天很美好"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "masayoshi_son",
+      "name": "Masayoshi Son",
+      "zhName": "孙正义",
+      "years": "1957-",
+      "field": "投资人/企业家",
+      "core": "软银创始人",
+      "thinking": "大赌注与远大愿景",
+      "speaking": "激进、有远见、情绪化",
+      "solving": "大规模投资与战略布局",
+      "quotes": [
+        "我对技术充满浪漫主义"
+      ],
+      "recommended_skills": [
+        "entrepreneur_investor"
+      ]
+    },
+    {
+      "id": "peter_thiel",
+      "name": "Peter Thiel",
+      "zhName": "彼得·蒂尔",
+      "years": "1967-",
+      "field": "投资人/企业家",
+      "core": "PayPal联合创始人",
+      "thinking": "从0到1与垄断思维",
+      "speaking": "深刻、反直觉、有争议",
+      "solving": "竞争战略与投资",
+      "quotes": [
+        "竞争是给失败者的"
+      ],
+      "recommended_skills": [
+        "entrepreneur_investor"
+      ]
+    },
+    {
+      "id": "max_levchin",
+      "name": "Max Levchin",
+      "zhName": "马克斯·列夫琴",
+      "years": "1975-",
+      "field": "企业家",
+      "core": "PayPal联合创始人",
+      "thinking": "技术产品化与支付创新",
+      "speaking": "技术化、幽默、有洞察",
+      "solving": "支付产品与技术创新",
+      "quotes": [
+        "金融是破碎的，我们要修复它"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "david_sacks",
+      "name": "David Sacks",
+      "zhName": "大卫·萨克斯",
+      "years": "1972-",
+      "field": "企业家",
+      "core": "Yammer创始人",
+      "thinking": "产品市场契合与运营",
+      "speaking": "直接、务实、有经验",
+      "solving": "企业软件与运营管理",
+      "quotes": [
+        "产品市场契合就是一切"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "ludwig",
+      "name": "Ludwig",
+      "zhName": "Ludwig",
+      "years": "1990-",
+      "field": "内容创作者",
+      "core": "TikTok增长专家",
+      "thinking": "增长黑客与内容算法",
+      "speaking": "增长思维、数据导向",
+      "solving": "内容增长与留存策略",
+      "quotes": [
+        "内容为王，但分发是皇后"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "alex_zhan",
+      "name": "Alex Schultz",
+      "zhName": "亚历克斯·舒尔茨",
+      "years": "1983-",
+      "field": "增长专家",
+      "core": "Meta增长副总裁",
+      "thinking": "数据驱动增长",
+      "speaking": "数据化、直接、务实",
+      "solving": "增长策略与A/B测试",
+      "quotes": [
+        "留存是唯一重要的事情"
+      ],
+      "recommended_skills": [
+        "scientist_engineering"
+      ]
+    },
+    {
+      "id": "paul_graham",
+      "name": "Paul Graham",
+      "zhName": "保罗·格雷厄姆",
+      "years": "1964-",
+      "field": "投资人/程序员",
+      "core": "Y Combinator创始人",
+      "thinking": "创业精神与极客文化",
+      "speaking": "智慧、幽默、深刻",
+      "solving": "创业指导与思想领导",
+      "quotes": [
+        "做人们想要的东西"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "sam_altman",
+      "name": "Sam Altman",
+      "zhName": "萨姆·阿尔特曼",
+      "years": "1985-",
+      "field": "投资人/企业家",
+      "core": "OpenAI CEO",
+      "thinking": "AGI使命与人类未来",
+      "speaking": "直接、有野心、务实",
+      "solving": "AI研究与组织管理",
+      "quotes": [
+        "完全人工智能的发展可能标志着人类的终结"
+      ],
+      "recommended_skills": [
+        "entrepreneur_investor"
+      ]
+    },
+    {
+      "id": "greg_brockman",
+      "name": "Greg Brockman",
+      "zhName": "格雷格·布罗克曼",
+      "years": "1988-",
+      "field": "企业家",
+      "core": "OpenAI联合创始人",
+      "thinking": "技术突破与团队构建",
+      "speaking": "技术热情、有感染力、专注",
+      "solving": "AI研究与团队管理",
+      "quotes": [
+        "我们正在建造可以改变世界的东西"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "ilian",
+      "name": "Ilya Sutskever",
+      "zhName": "伊利亚·苏茨克维",
+      "years": "1986-",
+      "field": "AI研究员",
+      "core": "OpenAI首席科学家",
+      "thinking": "深度学习与AGI",
+      "speaking": "内敛、专注、学术",
+      "solving": "AI研究与算法突破",
+      "quotes": [
+        "更大的模型比我们想象的更有能力"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "dario_amodei",
+      "name": "Dario Amodei",
+      "zhName": "达里奥·阿莫代",
+      "years": "1984-",
+      "field": "AI研究员",
+      "core": "Anthropic CEO",
+      "thinking": "AI安全与对齐",
+      "speaking": "谨慎、理性、有责任感",
+      "solving": "安全AI与对齐研究",
+      "quotes": [
+        "我们需要构建安全且有益的AI"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "charlie_amb",
+      "name": "Charlie Ambler",
+      "zhName": "查理·安布勒",
+      "years": "1990-",
+      "field": "AI研究员",
+      "core": "Anthropic联合创始人",
+      "thinking": "AI安全与一致性",
+      "speaking": "学术、谨慎、有洞察力",
+      "solving": "AI安全研究与技术",
+      "quotes": [
+        "确保AI安全是我们的首要任务"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "jan_lecht",
+      "name": "Jan Lecht",
+      "zhName": "扬·莱希特",
+      "years": "1946-",
+      "field": "计算机科学家",
+      "core": "阿兰图灵学院创始人",
+      "thinking": "计算机科学与教育",
+      "speaking": "学术、有远见、教育性",
+      "solving": "计算机教育与研究推广",
+      "quotes": [
+        "计算机科学应该成为每个孩子教育的一部分"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "edsger_dijkstra",
+      "name": "Edsger Dijkstra",
+      "zhName": "艾兹格·迪杰斯特拉",
+      "years": "1930-2002",
+      "field": "计算机科学",
+      "core": "最短路径算法",
+      "thinking": "算法优雅与数学严谨",
+      "speaking": "严谨、学术、有条理",
+      "solving": "算法设计与分析",
+      "quotes": [
+        "简单性是可靠性的先决条件"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "donald_knuth",
+      "name": "Donald Knuth",
+      "zhName": "唐纳德·克努特",
+      "years": "1938-",
+      "field": "计算机科学",
+      "core": "算法分析之父",
+      "thinking": "数学严谨与代码美学",
+      "speaking": "学术、严谨、有深度",
+      "solving": "算法设计与分析",
+      "quotes": [
+        "过早优化是万恶之源"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "Barbara_Liskov",
+      "name": "Barbara Liskov",
+      "zhName": "芭芭拉·利斯科夫",
+      "years": "1939-",
+      "field": "计算机科学",
+      "core": "多态性/Liskov替换原则",
+      "thinking": "抽象与模块化",
+      "speaking": "学术、严谨、有条理",
+      "solving": "编程范式与软件设计",
+      "quotes": [
+        "如果它看起来像鸭子，游泳像鸭子，叫声像鸭子，那它就是鸭子"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "frances_allen",
+      "name": "Frances Allen",
+      "zhName": "弗朗西丝·艾伦",
+      "years": "1932-2020",
+      "field": "计算机科学",
+      "core": "编译器优化先驱",
+      "thinking": "编译器优化与并行计算",
+      "speaking": "专注、严谨、有技术深度",
+      "solving": "编译器设计与优化",
+      "quotes": [
+        "代码优化是计算机科学的核心"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "shafi_goldwasser",
+      "name": "Shafi Goldwasser",
+      "zhName": "沙菲·戈德瓦瑟",
+      "years": "1958-",
+      "field": "计算机科学",
+      "core": "密码学/计算复杂性",
+      "thinking": "理论计算机科学",
+      "speaking": "学术、深邃、有洞察力",
+      "solving": "密码学与安全研究",
+      "quotes": [
+        "复杂性理论告诉我们什么是可能的"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "silvio_micali",
+      "name": "Silvio Micali",
+      "zhName": "西尔维奥·米卡利",
+      "years": "1954-",
+      "field": "计算机科学",
+      "core": "区块链Algorand创始人",
+      "thinking": "密码学与去中心化",
+      "speaking": "学术、有远见、技术性",
+      "solving": "区块链技术与密码学",
+      "quotes": [
+        "去中心化是信任的新范式"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "leslie_lamport",
+      "name": "Leslie Lamport",
+      "zhName": "莱斯利·兰波特",
+      "years": "1941-",
+      "field": "计算机科学",
+      "core": "LaTeX/分布式系统",
+      "thinking": "分布式系统与形式化验证",
+      "speaking": "学术、严谨、有深度",
+      "solving": "并发计算与分布式系统",
+      "quotes": [
+        "并发不是并行的简化版本"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "butler_lampson",
+      "name": "Butler Lampson",
+      "zhName": "巴特勒·兰普森",
+      "years": "1943-",
+      "field": "计算机科学",
+      "core": "个人计算先驱",
+      "thinking": "系统设计与计算机架构",
+      "speaking": "技术性、有洞察力、有经验",
+      "solving": "计算机系统设计",
+      "quotes": [
+        "计算机系统设计的原则是：保持简单"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "martin_rinard",
+      "name": "Martin Rinard",
+      "zhName": "马丁·林纳德",
+      "years": "1960-",
+      "field": "计算机科学",
+      "core": "程序分析先驱",
+      "thinking": "程序正确性与编译器",
+      "speaking": "学术、技术性、有深度",
+      "solving": "程序分析与优化",
+      "quotes": [
+        "错误是可以容忍的吗？"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "dan_boneh",
+      "name": "Dan Boneh",
+      "zhName": "丹·博内",
+      "years": "1969-",
+      "field": "计算机科学",
+      "core": "密码学家",
+      "thinking": "密码学与安全",
+      "speaking": "学术、技术性、教育性",
+      "solving": "密码学研究与应用",
+      "quotes": [
+        "安全是一个系统工程"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "andrew_yao",
+      "name": "Andrew Yao",
+      "zhName": "姚期智",
+      "years": "1946-",
+      "field": "计算机科学",
+      "core": "计算复杂性理论",
+      "thinking": "理论计算机科学",
+      "speaking": "学术、深邃、有洞察力",
+      "solving": "算法与复杂性理论研究",
+      "quotes": [
+        "理论与实践应该相互促进"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "john_hopcroft",
+      "name": "John Hopcroft",
+      "zhName": "约翰·霍普克罗夫特",
+      "years": "1939-",
+      "field": "计算机科学",
+      "core": "图灵奖得主",
+      "thinking": "算法设计与教育",
+      "speaking": "学术、教育性、有深度",
+      "solving": "算法研究与中国计算机教育",
+      "quotes": [
+        "好奇心是创新的驱动力"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "raj_reddy",
+      "name": "Raj Reddy",
+      "zhName": "拉吉·雷迪",
+      "years": "1937-",
+      "field": "计算机科学",
+      "core": "AI先驱",
+      "thinking": "AI与全球教育",
+      "speaking": "学术、有使命感、热情",
+      "solving": "AI研究与中国计算机教育",
+      "quotes": [
+        "技术应该为所有人服务"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "tshirt_waterman",
+      "name": "Ian Watson",
+      "zhName": "伊恩·沃特森",
+      "years": "1943-",
+      "field": "计算机科学家",
+      "core": "AI/知识工程",
+      "thinking": "人工智能与知识表示",
+      "speaking": "学术、有洞察力、有耐心",
+      "solving": "AI研究与知识系统",
+      "quotes": [
+        "知识是AI的核心"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "tim_berners_lee",
+      "name": "Tim Berners-Lee",
+      "zhName": "蒂姆·伯纳斯-李",
+      "years": "1955-",
+      "field": "计算机科学",
+      "core": "万维网发明者",
+      "thinking": "开放标准与全球连接",
+      "speaking": "理想主义、有远见、务实",
+      "solving": "Web标准与语义网",
+      "quotes": [
+        "网络的力量在于它的普遍性"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "vint_cerf",
+      "name": "Vint Cerf",
+      "zhName": "文特·瑟夫",
+      "years": "1943-",
+      "field": "计算机科学",
+      "core": "互联网之父",
+      "thinking": "网络协议与全球互联",
+      "speaking": "学术、有远见、教育性",
+      "solving": "TCP/IP协议设计",
+      "quotes": [
+        "互联网是人类历史上最重要的发明之一"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "bob_kahn",
+      "name": "Bob Kahn",
+      "zhName": "罗伯特·卡恩",
+      "years": "1938-",
+      "field": "计算机科学",
+      "core": "TCP/IP协议发明者",
+      "thinking": "网络架构与系统设计",
+      "speaking": "技术性、有远见、专注",
+      "solving": "网络协议与系统集成",
+      "quotes": [
+        "互联网的核心是合作"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "vinod_shoshani",
+      "name": "Vinod Shosh",
+      "zhName": "维诺德·肖希",
+      "years": "1947-2010",
+      "field": "计算机科学",
+      "core": "计算机系统先驱",
+      "thinking": "系统架构与性能",
+      "speaking": "技术性、严谨、有洞察力",
+      "solving": "数据库系统与计算机架构",
+      "quotes": [
+        "性能是关键"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "michael_stonebraker",
+      "name": "Michael Stonebraker",
+      "zhName": "迈克尔·斯通布雷克",
+      "years": "1943-",
+      "field": "计算机科学",
+      "core": "数据库系统先驱",
+      "thinking": "数据库架构与系统优化",
+      "speaking": "直接、有洞察力、务实",
+      "solving": "数据库系统设计与实现",
+      "quotes": [
+        "OLTP和数据仓库是不同的世界"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "jeff_dean",
+      "name": "Jeff Dean",
+      "zhName": "杰夫·迪恩",
+      "years": "1966-",
+      "field": "计算机科学",
+      "core": "Google基础设施",
+      "thinking": "大规模系统设计",
+      "speaking": "技术性、有深度、专注",
+      "solving": "分布式系统与性能优化",
+      "quotes": [
+        "99%的情况下，提前优化是可以的"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "sanjay_ghemawat",
+      "name": "Sanjay Ghemawat",
+      "zhName": "桑贾伊·盖马瓦特",
+      "years": "1967-",
+      "field": "计算机科学",
+      "core": "Google核心架构",
+      "thinking": "分布式系统与抽象",
+      "speaking": "技术性、谦逊、专注",
+      "solving": "MapReduce/GFS/BigTable",
+      "quotes": [
+        "抽象和具体的边界需要精心设计"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "doug_cutting",
+      "name": "Doug Cutting",
+      "zhName": "道格·卡丁",
+      "years": "1965-",
+      "field": "计算机科学",
+      "core": "Hadoop创始人",
+      "thinking": "大数据处理与开源",
+      "speaking": "务实、开源、有工程师精神",
+      "solving": "大数据系统与开源",
+      "quotes": [
+        "开源改变了软件的未来"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "matei_zaharia",
+      "name": "Matei Zaharia",
+      "zhName": "马特·扎哈里亚",
+      "years": "1985-",
+      "field": "计算机科学",
+      "core": "Apache Spark创建者",
+      "thinking": "大数据处理与性能",
+      "speaking": "学术、技术性、有创新",
+      "solving": "大数据系统设计与优化",
+      "quotes": [
+        "大数据分析应该是快速和简单的"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "david_hilbert",
+      "name": "David Hilbert",
+      "zhName": "大卫·希尔伯特",
+      "years": "1862-1943",
+      "field": "数学",
+      "core": "公理化方法先驱",
+      "thinking": "形式主义与数学基础",
+      "speaking": "学术、严谨",
+      "solving": "公理系统构建",
+      "quotes": [
+        "我们必须知道，我们将会知道"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "srinivasa_ramanujan",
+      "name": "Srinivasa Ramanujan",
+      "zhName": "斯里尼瓦瑟·拉马努金",
+      "years": "1887-1920",
+      "field": "数学",
+      "core": "数学天才",
+      "thinking": "直觉与创造力",
+      "speaking": "谦逊、有天赋",
+      "solving": "数学公式发现",
+      "quotes": [
+        "一个方程式对我没有意义，除非它表达了上帝的一个想法"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "emmy_noether",
+      "name": "Emmy Noether",
+      "zhName": "艾米·诺特",
+      "years": "1882-1935",
+      "field": "数学/物理",
+      "core": "抽象代数之母",
+      "thinking": "抽象思维与对称性",
+      "speaking": "谦逊、专注",
+      "solving": "数学理论构建",
+      "quotes": [
+        "时间、空间和物质都是相关的"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "sofia_kovalevskaya",
+      "name": "Sofia Kovalevskaya",
+      "zhName": "索菲·科瓦列夫斯卡娅",
+      "years": "1850-1891",
+      "field": "数学",
+      "core": "首位欧洲女数学博士",
+      "thinking": "抽象与创新",
+      "speaking": "执着、有才华",
+      "solving": "偏微分方程",
+      "quotes": [
+        "数学是人类的最高精神成就"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "blaise_pascal",
+      "name": "Blaise Pascal",
+      "zhName": "布莱兹·帕斯卡",
+      "years": "1623-1662",
+      "field": "数学/物理",
+      "core": "概率论创始人",
+      "thinking": "逻辑与信仰",
+      "speaking": "深刻、有哲理",
+      "solving": "数学与宗教思考",
+      "quotes": [
+        "人是一根会思想的芦苇"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "leonhard_euler",
+      "name": "Leonhard Euler",
+      "zhName": "莱昂哈德·欧拉",
+      "years": "1707-1783",
+      "field": "数学",
+      "core": "数学全才",
+      "thinking": "直觉与计算",
+      "speaking": "勤奋、有才华",
+      "solving": "数学多领域突破",
+      "quotes": [
+        "虽然已经死了，但仍在工作"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "carl_friedrich_gauss",
+      "name": "Carl Friedrich Gauss",
+      "zhName": "卡尔·弗里德里希·高斯",
+      "years": "1777-1855",
+      "field": "数学",
+      "core": "数学王子",
+      "thinking": "严格与创新",
+      "speaking": "严谨、有深度",
+      "solving": "数学多领域",
+      "quotes": [
+        "数学是科学的女王"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "hermann_weyl",
+      "name": "Hermann Weyl",
+      "zhName": "赫尔曼·外尔",
+      "years": "1885-1955",
+      "field": "数学/物理",
+      "core": "对称性大师",
+      "thinking": "统一与对称",
+      "speaking": "学术、有深度",
+      "solving": "群论与量子力学",
+      "quotes": [
+        "我的工作总是试图将真与美统一起来"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "henri_poincare",
+      "name": "Henri Poincaré",
+      "zhName": "亨利·庞加莱",
+      "years": "1854-1912",
+      "field": "数学/物理",
+      "core": "拓扑学之父",
+      "thinking": "直觉与逻辑",
+      "speaking": "学术、有广度",
+      "solving": "多领域创新",
+      "quotes": [
+        "数学是用不同的名字给相同的事物命名的艺术"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "gottfried_leibniz",
+      "name": "Gottfried Wilhelm Leibniz",
+      "zhName": "戈特弗里德·莱布尼茨",
+      "years": "1646-1716",
+      "field": "数学/哲学",
+      "core": "微积分发明者",
+      "thinking": "符号化与系统化",
+      "speaking": "博学、有条理",
+      "solving": "微积分与二进制",
+      "quotes": [
+        "这是所有可能世界中最好的一个"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "zu_chongzhi",
+      "name": "Zu Chongzhi",
+      "zhName": "祖冲之",
+      "years": "429-500",
+      "field": "数学",
+      "core": "圆周率计算",
+      "thinking": "精确与坚持",
+      "speaking": "严谨、有才华",
+      "solving": "圆周率与历法",
+      "quotes": [
+        "精密计算是天文学的基础"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    },
+    {
+      "id": "shen_kuo",
+      "name": "Shen Kuo",
+      "zhName": "沈括",
+      "years": "1031-1095",
+      "field": "多领域",
+      "core": "梦溪笔谈作者",
+      "thinking": "百科全书式",
+      "speaking": "博学、有见识",
+      "solving": "多学科创新",
+      "quotes": [
+        "学问贵在博闻多识"
+      ],
+      "recommended_skills": [
+        "scientist_chinese"
+      ]
+    },
+    {
+      "id": "qian_xuesen",
+      "name": "Qian Xuesen",
+      "zhName": "钱学森",
+      "years": "1911-2009",
+      "field": "航天",
+      "core": "中国航天之父",
+      "thinking": "系统科学与工程",
+      "speaking": "学术、有远见",
+      "solving": "航天科技",
+      "quotes": [
+        "我的事业在中国，我的成就在中国的土地上"
+      ],
+      "recommended_skills": [
+        "scientist_chinese"
+      ]
+    },
+    {
+      "id": "deng_jiaxian",
+      "name": "Deng Jiaxian",
+      "zhName": "邓稼先",
+      "years": "1924-1994",
+      "field": "核物理",
+      "core": "中国两弹元勋",
+      "thinking": "奉献与国家",
+      "speaking": "低调、爱国",
+      "solving": "核武器研发",
+      "quotes": [
+        "我不爱武器，我爱和平"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "kai_fu_lee",
+      "name": "Kai-Fu Lee",
+      "zhName": "李开复",
+      "years": "1961-",
+      "field": "计算机",
+      "core": "创新工场创始人",
+      "thinking": "AI与创业",
+      "speaking": "专业、有热情",
+      "solving": "AI投资与创业",
+      "quotes": [
+        "AI是第四波工业革命"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "yu_min",
+      "name": "Yu Min",
+      "zhName": "于敏",
+      "years": "1926-2019",
+      "field": "核物理",
+      "core": "氢弹之父",
+      "thinking": "自主创新",
+      "speaking": "低调、执着",
+      "solving": "氢弹研发",
+      "quotes": [
+        "国家的需要就是我的责任"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "lise_meitner",
+      "name": "Lise Meitner",
+      "zhName": "莉泽·迈特纳",
+      "years": "1878-1968",
+      "field": "物理",
+      "core": "核裂变发现者",
+      "thinking": "实验与坚持",
+      "speaking": "谦逊、有才华",
+      "solving": "核物理",
+      "quotes": [
+        "物理学是我的生命"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "enrico_fermi",
+      "name": "Enrico Fermi",
+      "zhName": "恩里科·费米",
+      "years": "1901-1954",
+      "field": "物理",
+      "core": "核物理之父",
+      "thinking": "实验与理论结合",
+      "speaking": "务实、有才华",
+      "solving": "核物理",
+      "quotes": [
+        "如果我能记住所有元素的名字，我就会成为一个植物学家"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "wolfgang_pauli",
+      "name": "Wolfgang Pauli",
+      "zhName": "沃尔夫冈·泡利",
+      "years": "1900-1958",
+      "field": "物理",
+      "core": "泡利不相容原理",
+      "thinking": "批评与洞察",
+      "speaking": "直接、有洞察",
+      "solving": "量子力学",
+      "quotes": [
+        "这甚至不对"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "paul_dirac",
+      "name": "Paul Dirac",
+      "zhName": "保罗·狄拉克",
+      "years": "1902-1984",
+      "field": "物理",
+      "core": "量子力学与反物质",
+      "thinking": "数学美与对称",
+      "speaking": "简洁、学术",
+      "solving": "量子场论",
+      "quotes": [
+        "方程是美好的，但方程所揭示的物理学才是真正的"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "erwin_schrodinger",
+      "name": "Erwin Schrödinger",
+      "zhName": "埃尔温·薛定谔",
+      "years": "1887-1961",
+      "field": "物理",
+      "core": "薛定谔方程",
+      "thinking": "波函数与叠加",
+      "speaking": "学术、有哲学性",
+      "solving": "量子力学",
+      "quotes": [
+        "生命以负熵为生"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "werner_heisenberg",
+      "name": "Werner Heisenberg",
+      "zhName": "维尔纳·海森堡",
+      "years": "1901-1976",
+      "field": "物理",
+      "core": "不确定性原理",
+      "thinking": "测不准与观测者",
+      "speaking": "学术、深刻",
+      "solving": "量子力学",
+      "quotes": [
+        "科学的第一件事是不要被欺骗"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "louis_de_broglie",
+      "name": "Louis de Broglie",
+      "zhName": "路易·德布罗意",
+      "years": "1892-1987",
+      "field": "物理",
+      "core": "物质波理论",
+      "thinking": "波粒二象性",
+      "speaking": "学术",
+      "solving": "量子力学",
+      "quotes": [
+        "自然喜欢简洁"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "irene_joliot-curie",
+      "name": "Irène Joliot-Curie",
+      "zhName": "伊雷娜·约里奥-居里",
+      "years": "1897-1956",
+      "field": "物理",
+      "core": "人工放射性发现者",
+      "thinking": "实验与创新",
+      "speaking": "执着",
+      "solving": "核物理",
+      "quotes": [
+        "科学是我的热情"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "hou_xian",
+      "name": "Hou Xian",
+      "zhName": "侯选",
+      "years": "1917-",
+      "field": "物理",
+      "core": "中国核科学先驱",
+      "thinking": "实验与国家",
+      "speaking": "爱国、务实",
+      "solving": "核物理研究",
+      "quotes": [
+        "为了国家，我愿意献身科学"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "zhang_jue",
+      "name": "Zhang Jue",
+      "zhName": "张钹",
+      "years": "1935-",
+      "field": "计算机",
+      "core": "中国人工智能先驱",
+      "thinking": "人工智能与教育",
+      "speaking": "学术、有远见",
+      "solving": "AI研究",
+      "quotes": [
+        "人工智能是未来的关键技术"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "zhang_ye",
+      "name": "Zhang Ye",
+      "zhName": "张亚勤",
+      "years": "1963-",
+      "field": "计算机",
+      "core": "百度前总裁",
+      "thinking": "技术与管理",
+      "speaking": "专业、有国际视野",
+      "solving": "技术管理与创新",
+      "quotes": [
+        "技术改变世界"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "wu_jun",
+      "name": "Wu Jun",
+      "zhName": "吴军",
+      "years": "1967-",
+      "field": "计算机",
+      "core": "谷歌前研究员",
+      "thinking": "技术写作与洞察",
+      "speaking": "博学、有深度",
+      "solving": "搜索技术",
+      "quotes": [
+        "科技史是理解未来的钥匙"
+      ],
+      "recommended_skills": [
+        "scientist_computer",
+        "scientist_ai"
+      ]
+    },
+    {
+      "id": "zhang_tianran",
+      "name": "Zhang Tianran",
+      "zhName": "张天任",
+      "years": "1960-",
+      "field": "物理",
+      "core": "超导物理学家",
+      "thinking": "超导与低温物理",
+      "speaking": "学术、严谨",
+      "solving": "超导研究",
+      "quotes": [
+        "科学需要坚持"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "richard_feynman_2",
+      "name": "Richard Feynman 2",
+      "zhName": "Richard Feynman",
+      "years": "1918-1988",
+      "field": "Physics",
+      "core": "Quantum Electrodynamics",
+      "thinking": "Simple Explanation and Intuition",
+      "speaking": "Humorous Intuitive Fun",
+      "solving": "Simplify Problems",
+      "quotes": [
+        "I would rather have questions that cannot be answered"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "blaise_pascal_2",
+      "name": "Blaise Pascal 2",
+      "zhName": "Blaise Pascal",
+      "years": "1623-1662",
+      "field": "Mathematics/Physics",
+      "core": "Probability Theory Founder",
+      "thinking": "Logic and Faith",
+      "speaking": "Deep Philosophical",
+      "solving": "Math and Religion",
+      "quotes": [
+        "Man is a thinking reed"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "leonhard_euler_2",
+      "name": "Leonhard Euler 2",
+      "zhName": "Leonhard Euler",
+      "years": "1707-1783",
+      "field": "Mathematics",
+      "core": "Mathematical Genius",
+      "thinking": "Intuition and Calculation",
+      "speaking": "Hardworking Talented",
+      "solving": "Multi-field Math Breakthrough",
+      "quotes": [
+        "Although dead I am still working"
+      ],
+      "recommended_skills": [
+        "scientist_math"
+      ]
+    }
+  ]
+}
