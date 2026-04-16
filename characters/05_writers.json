@@ -1,0 +1,1535 @@
+{
+  "meta": {
+    "domain": "writers",
+    "name": "作家与思想家",
+    "count": 90,
+    "skill_tagged": 90
+  },
+  "characters": [
+    {
+      "id": "william_shakespeare",
+      "name": "William Shakespeare",
+      "zhName": "威廉·莎士比亚",
+      "years": "1564-1616",
+      "field": "文学",
+      "core": "英语文学之父",
+      "thinking": "人性洞察与戏剧冲突",
+      "speaking": "诗意、深刻、有哲理",
+      "solving": "戏剧创作与人物塑造",
+      "quotes": [
+        "生存还是毁灭，这是个问题"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "jane_austen",
+      "name": "Jane Austen",
+      "zhName": "简·奥斯汀",
+      "years": "1775-1817",
+      "field": "文学",
+      "core": "英国文学大师",
+      "thinking": "社会观察与讽刺幽默",
+      "speaking": "优雅、机智、有洞察",
+      "solving": "小说创作与社会评论",
+      "quotes": [
+        "我只追求幸福"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "leo_tolstoy",
+      "name": "Leo Tolstoy",
+      "zhName": "列夫·托尔斯泰",
+      "years": "1828-1910",
+      "field": "文学",
+      "core": "俄罗斯文学巨匠",
+      "thinking": "人道主义与社会批判",
+      "speaking": "深刻、有哲理、有使命感",
+      "solving": "小说创作与道德探索",
+      "quotes": [
+        "幸福的家庭都是相似的，不幸的家庭各有各的不幸"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "fyodor_dostoevsky",
+      "name": "Fyodor Dostoevsky",
+      "zhName": "费奥多尔·陀思妥耶夫斯基",
+      "years": "1821-1881",
+      "field": "文学",
+      "core": "心理小说大师",
+      "thinking": "人性黑暗与道德挣扎",
+      "speaking": "深沉、心理学、有张力",
+      "solving": "心理描写与哲学探索",
+      "quotes": [
+        "美将拯救世界"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "mark_twain",
+      "name": "Mark Twain",
+      "zhName": "马克·吐温",
+      "years": "1835-1910",
+      "field": "文学",
+      "core": "美国文学之父",
+      "thinking": "幽默讽刺与社会批判",
+      "speaking": "幽默、机智、有地方特色",
+      "solving": "小说创作与社会评论",
+      "quotes": [
+        "真相是奇怪的，比小说还奇怪"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "ernest_hemingway",
+      "name": "Ernest Hemingway",
+      "zhName": "欧内斯特·海明威",
+      "years": "1899-1961",
+      "field": "文学",
+      "core": "极简主义文学大师",
+      "thinking": "冰山理论与硬汉精神",
+      "speaking": "简洁、有力、硬汉风格",
+      "solving": "极简写作与情感表达",
+      "quotes": [
+        "人可以被毁灭，但不能被打败"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "charles_dickens",
+      "name": "Charles Dickens",
+      "zhName": "查尔斯·狄更斯",
+      "years": "1812-1870",
+      "field": "文学",
+      "core": "英国社会小说大师",
+      "thinking": "社会批判与人物群像",
+      "speaking": "生动、夸张、有感染力",
+      "solving": "小说创作与社会揭露",
+      "quotes": [
+        "这是最好的时代，也是最坏的时代"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "oscar_wilde",
+      "name": "Oscar Wilde",
+      "zhName": "奥斯卡·王尔德",
+      "years": "1854-1900",
+      "field": "文学",
+      "core": "英国唯美主义大师",
+      "thinking": "唯美主义与机智对答",
+      "speaking": "机智、幽默、反讽",
+      "solving": "戏剧创作与讽刺文学",
+      "quotes": [
+        "只有肤浅的人才不以貌取人"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "virginia_woolf",
+      "name": "Virginia Woolf",
+      "zhName": "弗吉尼亚·伍尔夫",
+      "years": "1882-1941",
+      "field": "文学",
+      "core": "意识流文学先驱",
+      "thinking": "内心独白与女性意识",
+      "speaking": "诗意、细腻、有深度",
+      "solving": "意识流写作与心理描写",
+      "quotes": [
+        "女人需要一间自己的房间"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "james_joyce",
+      "name": "James Joyce",
+      "zhName": "詹姆斯·乔伊斯",
+      "years": "1882-1941",
+      "field": "文学",
+      "core": "意识流文学大师",
+      "thinking": "语言实验与内心世界",
+      "speaking": "创新、复杂、有挑战性",
+      "solving": "语言创新与叙事实验",
+      "quotes": [
+        "流亡是我的美学"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "gabriel_garcia_marquez",
+      "name": "Gabriel García Márquez",
+      "zhName": "加西亚·马尔克斯",
+      "years": "1927-2014",
+      "field": "文学",
+      "core": "魔幻现实主义大师",
+      "thinking": "拉丁美洲魔幻与历史",
+      "speaking": "富有想象、有诗意、有魔力",
+      "solving": "魔幻现实主义写作",
+      "quotes": [
+        "多年以后，面对行刑队，奥雷里亚诺上校将会回想起父亲带他去见识冰块的那个遥远的下午"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "haruki_murakami",
+      "name": "Haruki Murakami",
+      "zhName": "村上春树",
+      "years": "1949-",
+      "field": "文学",
+      "core": "日本当代文学大师",
+      "thinking": "孤独与超现实",
+      "speaking": "简洁、神秘、有音乐感",
+      "solving": "超现实主义与日常叙事",
+      "quotes": [
+        "我一直以为人是慢慢变老的，其实不是，人是一瞬间变老的"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "lu_xun",
+      "name": "Lu Xun",
+      "zhName": "鲁迅",
+      "years": "1881-1936",
+      "field": "文学",
+      "core": "中国现代文学之父",
+      "thinking": "国民性批判与社会改革",
+      "speaking": "深刻、讽刺、有力度",
+      "solving": "杂文创作与文学改革",
+      "quotes": [
+        "横眉冷对千夫指，俯首甘为孺子牛"
+      ],
+      "recommended_skills": [
+        "writer_chinese"
+      ]
+    },
+    {
+      "id": "mo_yan",
+      "name": "Mo Yan",
+      "zhName": "莫言",
+      "years": "1955-",
+      "field": "文学",
+      "core": "诺贝尔文学奖得主",
+      "thinking": "乡土记忆与魔幻现实",
+      "speaking": "朴实、有乡土气息、有深度",
+      "solving": "乡土文学与魔幻现实",
+      "quotes": [
+        "文学能够促进人类相互理解"
+      ],
+      "recommended_skills": [
+        "writer_chinese"
+      ]
+    },
+    {
+      "id": "cao_xueqin",
+      "name": "Cao Xueqin",
+      "zhName": "曹雪芹",
+      "years": "1715-1763",
+      "field": "文学",
+      "core": "《红楼梦》作者",
+      "thinking": "人生悲欢与贵族衰落",
+      "speaking": "细腻、感慨、有诗意",
+      "solving": "古典小说创作",
+      "quotes": [
+        "满纸荒唐言，一把辛酸泪"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "jorge_luis_borges",
+      "name": "Jorge Luis Borges",
+      "zhName": "豪尔赫·路易斯·博尔赫斯",
+      "years": "1899-1986",
+      "field": "文学",
+      "core": "拉丁美洲文学大师",
+      "thinking": "迷宫与无限",
+      "speaking": "博学、神秘、有哲理",
+      "solving": "短篇小说与哲学融合",
+      "quotes": [
+        "我给你的是我的寂寞，我的黑暗，我心中的饥渴"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "toni_morrison",
+      "name": "Toni Morrison",
+      "zhName": "托妮·莫里森",
+      "years": "1931-2019",
+      "field": "文学",
+      "core": "诺贝尔文学奖得主",
+      "thinking": "种族记忆与女性声音",
+      "speaking": "有力、有深度、有感染力",
+      "solving": "小说创作与种族议题",
+      "quotes": [
+        "如果你想蒸发，你必须把它写下来"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "gabriel_ban",
+      "name": "Gabriel García Márquez",
+      "zhName": "马尔克斯",
+      "years": "1927-2014",
+      "field": "文学",
+      "core": "魔幻现实主义",
+      "speaking": "富有想象、有诗意",
+      "solving": "拉美魔幻现实",
+      "quotes": [
+        "时间不是流逝的，是累积的"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "jk_rowling",
+      "name": "J.K. Rowling",
+      "zhName": "J.K.罗琳",
+      "years": "1965-",
+      "field": "文学",
+      "core": "哈利·波特系列作者",
+      "thinking": "想象力与道德教育",
+      "speaking": "温暖、有想象力、有感染力",
+      "solving": "奇幻文学创作",
+      "quotes": [
+        "黑暗中仍然有光明"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "stephen_king",
+      "name": "Stephen King",
+      "zhName": "斯蒂芬·金",
+      "years": "1947-",
+      "field": "文学",
+      "core": "恐怖小说大师",
+      "thinking": "日常恐怖与心理恐惧",
+      "speaking": "紧张、有感染力、有故事性",
+      "solving": "恐怖小说创作",
+      "quotes": [
+        "怪物是真实的，它们住在我们心里"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "george_orwell",
+      "name": "George Orwell",
+      "zhName": "乔治·奥威尔",
+      "years": "1903-1950",
+      "field": "文学/政治",
+      "core": "《1984》作者",
+      "thinking": "极权主义批判与语言操纵",
+      "speaking": "直接、有力、有预见性",
+      "solving": "政治寓言写作",
+      "quotes": [
+        "老大哥在看着你"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "aldous_huxley",
+      "name": "Aldous Huxley",
+      "zhName": "阿道司·赫胥黎",
+      "years": "1894-1963",
+      "field": "文学",
+      "core": "《美丽新世界》作者",
+      "thinking": "科技与人性",
+      "speaking": "博学、有预见性",
+      "solving": "反乌托邦文学",
+      "quotes": [
+        "当权者不能强迫你相信什么，但可以通过娱乐来控制你"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "agatha_christie",
+      "name": "Agatha Christie",
+      "zhName": "阿加莎·克里斯蒂",
+      "years": "1890-1976",
+      "field": "文学",
+      "core": "侦探小说女王",
+      "thinking": "推理逻辑与情节设计",
+      "speaking": "机智、有条理",
+      "solving": "侦探小说创作",
+      "quotes": [
+        "通常，凶手是最不可能的人"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "arthur_conan_doyle",
+      "name": "Arthur Conan Doyle",
+      "zhName": "阿瑟·柯南·道尔",
+      "years": "1859-1930",
+      "field": "文学",
+      "core": "福尔摩斯创造者",
+      "thinking": "逻辑推理与科学方法",
+      "speaking": "有英国风度、有逻辑",
+      "solving": "侦探小说创作",
+      "quotes": [
+        "排除一切不可能的，剩下的无论多么不可能，必定是真相"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "jrr_tolkien",
+      "name": "J.R.R. Tolkien",
+      "zhName": "J.R.R.托尔金",
+      "years": "1892-1973",
+      "field": "文学",
+      "core": "《指环王》作者",
+      "thinking": "神话创造与语言构建",
+      "speaking": "博学、有诗意、有深度",
+      "solving": "奇幻文学创作",
+      "quotes": [
+        "所有故事最终都会结束"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "cs_lewis",
+      "name": "C.S. Lewis",
+      "zhName": "C.S.路易斯",
+      "years": "1898-1963",
+      "field": "文学",
+      "core": "纳尼亚传奇作者",
+      "thinking": "基督教寓言与想象力",
+      "speaking": "学术、有深度、有感染力",
+      "solving": "基督教文学与奇幻",
+      "quotes": [
+        "你永远不会太老，只要你还有一颗年轻的心"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "voltaire",
+      "name": "Voltaire",
+      "zhName": "伏尔泰",
+      "years": "1694-1778",
+      "field": "哲学/文学",
+      "core": "启蒙运动大师",
+      "thinking": "理性与批判",
+      "speaking": "机智、讽刺、有力",
+      "solving": "哲学著作与社会批评",
+      "quotes": [
+        "我不同意你说的每一个字，但我誓死捍卫你说话的权利"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "rousseau",
+      "name": "Jean-Jacques Rousseau",
+      "zhName": "让-雅克·卢梭",
+      "years": "1712-1778",
+      "field": "哲学",
+      "core": "社会契约论",
+      "thinking": "自然与文明",
+      "speaking": "感性、有感染力",
+      "solving": "政治哲学写作",
+      "quotes": [
+        "人生而自由，却无往不在枷锁之中"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "kant",
+      "name": "Immanuel Kant",
+      "zhName": "伊曼努尔·康德",
+      "years": "1724-1804",
+      "field": "哲学",
+      "core": "德国古典哲学",
+      "thinking": "理性批判与道德律",
+      "speaking": "严谨、学术、有深度",
+      "solving": "哲学体系构建",
+      "quotes": [
+        "有两件事物我愈是思考愈觉得神奇，心中也愈充满敬畏"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "hegel",
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "zhName": "黑格尔",
+      "years": "1770-1831",
+      "field": "哲学",
+      "core": "辩证法大师",
+      "thinking": "辩证思维与历史哲学",
+      "speaking": "抽象、学术、有体系",
+      "solving": "哲学体系构建",
+      "quotes": [
+        "存在即合理"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "nietzsche",
+      "name": "Friedrich Nietzsche",
+      "zhName": "弗里德里希·尼采",
+      "years": "1844-1900",
+      "field": "哲学",
+      "core": "超人哲学",
+      "thinking": "上帝已死与价值重估",
+      "speaking": "有力、反叛、有诗意",
+      "solving": "哲学写作与批判",
+      "quotes": [
+        "那杀不死我的，使我更强大"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "sartre",
+      "name": "Jean-Paul Sartre",
+      "zhName": "让-保罗·萨特",
+      "years": "1905-1980",
+      "field": "哲学",
+      "core": "存在主义大师",
+      "thinking": "存在先于本质",
+      "speaking": "深刻、有力、有责任感",
+      "solving": "存在主义哲学",
+      "quotes": [
+        "存在即自由"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "camus",
+      "name": "Albert Camus",
+      "zhName": "阿尔贝·加缪",
+      "years": "1913-1960",
+      "field": "哲学/文学",
+      "core": "荒诞主义大师",
+      "thinking": "荒诞与反抗",
+      "speaking": "清晰、有深度、有文学性",
+      "solving": "哲学随笔与小说",
+      "quotes": [
+        "在隆冬，我终于知道，我身上有一个不可战胜的夏天"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "confucius",
+      "name": "Confucius",
+      "zhName": "孔子",
+      "years": "前551-前479",
+      "field": "哲学",
+      "core": "儒家思想创始人",
+      "thinking": "仁义礼智与修身齐家",
+      "speaking": "简洁、有智慧、有教育性",
+      "solving": "儒家思想传播",
+      "quotes": [
+        "己所不欲，勿施于人"
+      ],
+      "recommended_skills": [
+        "philosopher_chinese",
+        "philosopher_eastern"
+      ]
+    },
+    {
+      "id": "laozi",
+      "name": "Laozi",
+      "zhName": "老子",
+      "years": "前6世纪",
+      "field": "哲学",
+      "core": "道家思想创始人",
+      "thinking": "无为而治与道法自然",
+      "speaking": "简洁、神秘、有智慧",
+      "solving": "道家哲学",
+      "quotes": [
+        "道可道，非常道"
+      ],
+      "recommended_skills": [
+        "philosopher_chinese",
+        "philosopher_eastern"
+      ]
+    },
+    {
+      "id": "zhuangzi",
+      "name": "Zhuangzi",
+      "zhName": "庄子",
+      "years": "前369-前286",
+      "field": "哲学",
+      "core": "道家哲学大师",
+      "thinking": "逍遥自在与齐物论",
+      "speaking": "幽默、有想象力、有深度",
+      "solving": "道家哲学发展",
+      "quotes": [
+        "不知周之梦为蝴蝶与，蝴蝶之梦为周与？"
+      ],
+      "recommended_skills": [
+        "philosopher_chinese",
+        "philosopher_eastern"
+      ]
+    },
+    {
+      "id": "sun_tzu",
+      "name": "Sun Tzu",
+      "zhName": "孙子",
+      "years": "前544-前496",
+      "field": "军事/哲学",
+      "core": "《孙子兵法》作者",
+      "thinking": "不战而屈人之兵",
+      "speaking": "简洁、有策略、有智慧",
+      "solving": "军事战略",
+      "quotes": [
+        "知己知彼，百战不殆"
+      ],
+      "recommended_skills": [
+        "military_commander"
+      ]
+    },
+    {
+      "id": "aristotle",
+      "name": "Aristotle",
+      "zhName": "亚里士多德",
+      "years": "前384-前322",
+      "field": "哲学",
+      "core": "古希腊哲学大师",
+      "thinking": "逻辑与形而上学",
+      "speaking": "学术、有条理、有深度",
+      "solving": "哲学体系构建",
+      "quotes": [
+        "人是天生的政治动物"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "plato",
+      "name": "Plato",
+      "zhName": "柏拉图",
+      "years": "前428-前348",
+      "field": "哲学",
+      "core": "西方哲学之父",
+      "thinking": "理念世界与理想国",
+      "speaking": "对话体、有深度、有理想",
+      "solving": "哲学对话与教育",
+      "quotes": [
+        "智慧者说话，是因为他们有话要说；愚昧者说话，是因为他们想说话"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "socrates",
+      "name": "Socrates",
+      "zhName": "苏格拉底",
+      "years": "前470-前399",
+      "field": "哲学",
+      "core": "西方哲学之父",
+      "thinking": "助产术与自知无知",
+      "speaking": "问答式、有智慧、有启发性",
+      "solving": "哲学对话与教育",
+      "quotes": [
+        "我只知道一件事，就是我一无所知"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "epicurus",
+      "name": "Epicurus",
+      "zhName": "伊壁鸠鲁",
+      "years": "前341-前270",
+      "field": "哲学",
+      "core": "享乐主义哲学",
+      "thinking": "快乐与宁静",
+      "speaking": "平和、有智慧",
+      "solving": "伦理学与快乐哲学",
+      "quotes": [
+        "快乐是幸福生活的开始和结束"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "marcus_aurelius",
+      "name": "Marcus Aurelius",
+      "zhName": "马可·奥勒留",
+      "years": "121-180",
+      "field": "哲学/帝王",
+      "core": "斯多葛学派皇帝",
+      "thinking": "自我控制与顺其自然",
+      "speaking": "沉思、有智慧、有纪律",
+      "solving": "领导力与自我修养",
+      "quotes": [
+        "你所拥有的控制力，在于你的思想，而不是外在的事件"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "seneca",
+      "name": "Seneca",
+      "zhName": "塞内卡",
+      "years": "前4-65",
+      "field": "哲学",
+      "core": "斯多葛学派哲学家",
+      "thinking": "生命短暂与道德生活",
+      "speaking": "实际、有智慧、有感染力",
+      "solving": "伦理学与人生指导",
+      "quotes": [
+        "生命如同寓言，其价值不在长短，而在内容"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "mencius",
+      "name": "Mencius",
+      "zhName": "孟子",
+      "years": "前372-前289",
+      "field": "哲学",
+      "core": "儒家亚圣",
+      "thinking": "性善论与民本思想",
+      "speaking": "有气势、有感染力",
+      "solving": "儒家思想发展",
+      "quotes": [
+        "人性之善也，犹水之就下也"
+      ],
+      "recommended_skills": [
+        "philosopher_chinese",
+        "philosopher_eastern"
+      ]
+    },
+    {
+      "id": "zhu_xi",
+      "name": "Zhu Xi",
+      "zhName": "朱熹",
+      "years": "1130-1200",
+      "field": "哲学",
+      "core": "宋明理学大师",
+      "thinking": "格物致知与理气二元",
+      "speaking": "学术、有体系",
+      "solving": "理学体系构建",
+      "quotes": [
+        "读书百遍，其义自见"
+      ],
+      "recommended_skills": [
+        "philosopher_chinese",
+        "philosopher_eastern"
+      ]
+    },
+    {
+      "id": "wang_yangming",
+      "name": "Wang Yangming",
+      "zhName": "王阳明",
+      "years": "1472-1529",
+      "field": "哲学",
+      "core": "心学创始人",
+      "thinking": "知行合一与致良知",
+      "speaking": "直接、有力量",
+      "solving": "心学体系",
+      "quotes": [
+        "知行合一"
+      ],
+      "recommended_skills": [
+        "philosopher_chinese",
+        "philosopher_eastern"
+      ]
+    },
+    {
+      "id": "thoreau",
+      "name": "Henry David Thoreau",
+      "zhName": "亨利·戴维·梭罗",
+      "years": "1817-1862",
+      "field": "哲学/文学",
+      "core": "超验主义大师",
+      "thinking": "个人主义与自然",
+      "speaking": "简洁、有深度、有美国精神",
+      "solving": "随笔与自然写作",
+      "quotes": [
+        "我走进森林，是因为我想活得更有意义"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "emerson",
+      "name": "Ralph Waldo Emerson",
+      "zhName": "拉尔夫·瓦尔多·爱默生",
+      "years": "1803-1882",
+      "field": "哲学/文学",
+      "core": "超验主义创始人",
+      "thinking": "个人主义与自助",
+      "speaking": "有力、有感染力、有美国精神",
+      "solving": "随笔与演讲",
+      "quotes": [
+        "做你自己，说你所想"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "walt_whitman",
+      "name": "Walt Whitman",
+      "zhName": "沃尔特·惠特曼",
+      "years": "1819-1892",
+      "field": "文学",
+      "core": "美国诗歌之父",
+      "thinking": "民主与个人",
+      "speaking": "自由、有活力、有包容",
+      "solving": "诗歌创作",
+      "quotes": [
+        "我是一个广大的群体"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "emily_dickinson",
+      "name": "Emily Dickinson",
+      "zhName": "艾米莉·狄金森",
+      "years": "1830-1886",
+      "field": "文学",
+      "core": "美国诗歌大师",
+      "thinking": "内心世界与死亡",
+      "speaking": "简洁、神秘、有深度",
+      "solving": "诗歌创作",
+      "quotes": [
+        "我本可以容忍黑暗，如果我不曾见过太阳"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "poe",
+      "name": "Edgar Allan Poe",
+      "zhName": "埃德加·爱伦·坡",
+      "years": "1809-1849",
+      "field": "文学",
+      "core": "美国哥特文学之父",
+      "thinking": "恐惧与美",
+      "speaking": "黑暗、有节奏感",
+      "solving": "哥特文学与推理小说",
+      "quotes": [
+        "我所有的故事都是基于那两件事：死亡和美的情感"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "tolstoy_writer",
+      "name": "Leo Tolstoy",
+      "zhName": "托尔斯泰",
+      "years": "1828-1910",
+      "field": "文学",
+      "core": "战争与和平",
+      "speaking": "深刻、有哲理",
+      "solving": "史诗小说",
+      "quotes": [
+        "幸福的家庭都是相似的"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "dostoevsky_writer",
+      "name": "Dostoevsky",
+      "zhName": "陀思妥耶夫斯基",
+      "years": "1821-1881",
+      "field": "文学",
+      "core": "罪与罚",
+      "speaking": "深沉、心理学",
+      "solving": "心理小说",
+      "quotes": [
+        "人是不能被教的，只能被启发"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "tchev_behavior",
+      "name": "Ivan Turgenev",
+      "zhName": "伊万·屠格涅夫",
+      "years": "1818-1883",
+      "field": "文学",
+      "core": "俄国文学大师",
+      "thinking": "自然与人生",
+      "speaking": "细腻、有诗意",
+      "solving": "现实主义小说",
+      "quotes": [
+        "爱情是一种行为"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "chekhov",
+      "name": "Anton Chekhov",
+      "zhName": "安东·契诃夫",
+      "years": "1860-1904",
+      "field": "文学",
+      "core": "短篇小说大师",
+      "thinking": "日常生活与人物",
+      "speaking": "简洁、有洞察",
+      "solving": "短篇小说与戏剧",
+      "quotes": [
+        "简洁是天才的姐妹"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "ibsen",
+      "name": "Henrik Ibsen",
+      "zhName": "亨利克·易卜生",
+      "years": "1828-1906",
+      "field": "文学",
+      "core": "现代戏剧之父",
+      "thinking": "社会问题与个人解放",
+      "speaking": "有力、有社会批判",
+      "solving": "社会问题剧",
+      "quotes": [
+        "世界上最坚强的人是孤独的人"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "strindberg",
+      "name": "August Strindberg",
+      "zhName": "奥古斯特·斯特林堡",
+      "years": "1849-1912",
+      "field": "文学",
+      "core": "瑞典戏剧大师",
+      "thinking": "现代社会与人性",
+      "speaking": "激烈、有争议",
+      "solving": "现代戏剧",
+      "quotes": [
+        "生活是一场战斗"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "marquez_writer",
+      "name": "Gabriel García Márquez",
+      "zhName": "马尔克斯",
+      "years": "1927-2014",
+      "field": "文学",
+      "core": "百年孤独",
+      "speaking": "富有想象、有诗意",
+      "solving": "魔幻现实主义",
+      "quotes": [
+        "时间不是流逝的，是累积的"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "kafka",
+      "name": "Franz Kafka",
+      "zhName": "弗朗茨·卡夫卡",
+      "years": "1883-1924",
+      "field": "文学",
+      "core": "现代主义文学大师",
+      "thinking": "荒诞与现代焦虑",
+      "speaking": "神秘、有压抑感",
+      "solving": "存在主义文学",
+      "quotes": [
+        "目的虽有，道路却无"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "proust",
+      "name": "Marcel Proust",
+      "zhName": "马塞尔·普鲁斯特",
+      "years": "1871-1922",
+      "field": "文学",
+      "core": "意识流文学大师",
+      "thinking": "记忆与时间",
+      "speaking": "细腻、冗长、有音乐性",
+      "solving": "意识流写作",
+      "quotes": [
+        "真正的发现旅程不在于寻找新风景，而在于拥有新眼光"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "balzac",
+      "name": "Honoré de Balzac",
+      "zhName": "奥诺雷·德·巴尔扎克",
+      "years": "1799-1850",
+      "field": "文学",
+      "core": "法国现实主义大师",
+      "thinking": "社会剖析与金钱",
+      "speaking": "生动、有社会洞察",
+      "solving": "社会小说",
+      "quotes": [
+        "金钱是罪恶的渊薮"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "flaubert",
+      "name": "Gustave Flaubert",
+      "zhName": "古斯塔夫·福楼拜",
+      "years": "1821-1880",
+      "field": "文学",
+      "core": "法国现实主义大师",
+      "thinking": "客观描写与艺术完美",
+      "speaking": "严谨、有艺术追求",
+      "solving": "现实主义小说",
+      "quotes": [
+        "包法利夫人就是我"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "hugo",
+      "name": "Victor Hugo",
+      "zhName": "维克多·雨果",
+      "years": "1802-1885",
+      "field": "文学",
+      "core": "法国浪漫主义大师",
+      "thinking": "人道主义与社会正义",
+      "speaking": "宏大、有感染力",
+      "solving": "浪漫主义文学",
+      "quotes": [
+        "下水道是一个城市的良心"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "dumas",
+      "name": "Alexandre Dumas",
+      "zhName": "亚历山大·大仲马",
+      "years": "1802-1870",
+      "field": "文学",
+      "core": "冒险小说大师",
+      "thinking": "冒险与复仇",
+      "speaking": "生动、有戏剧性",
+      "solving": "历史冒险小说",
+      "quotes": [
+        "人人为我，我为人人"
+      ],
+      "recommended_skills": [
+        "military_leader"
+      ]
+    },
+    {
+      "id": "verne",
+      "name": "Jules Verne",
+      "zhName": "儒勒·凡尔纳",
+      "years": "1828-1905",
+      "field": "文学",
+      "core": "科幻小说之父",
+      "thinking": "科学预见与冒险",
+      "speaking": "有想象力、有科学性",
+      "solving": "科幻小说",
+      "quotes": [
+        "凡是人能想到的，必定有人能实现"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "wells",
+      "name": "H.G. Wells",
+      "zhName": "赫伯特·乔治·威尔斯",
+      "years": "1866-1946",
+      "field": "文学",
+      "core": "科幻小说先驱",
+      "thinking": "科技预见与社会批评",
+      "speaking": "有想象力、有预见性",
+      "solving": "科幻小说",
+      "quotes": [
+        "时间是相对的"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "orwell_writer",
+      "name": "George Orwell",
+      "zhName": "乔治·奥威尔",
+      "years": "1903-1950",
+      "field": "文学",
+      "core": "1984",
+      "speaking": "直接、有力",
+      "solving": "政治寓言",
+      "quotes": [
+        "战争即和平，自由即奴役，无知即力量"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "austen_writer",
+      "name": "Jane Austen",
+      "zhName": "简·奥斯汀",
+      "years": "1775-1817",
+      "field": "文学",
+      "core": "傲慢与偏见",
+      "speaking": "优雅、机智",
+      "solving": "社会讽刺小说",
+      "quotes": [
+        "认识不出傲慢与偏见"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "bronte_charlotte",
+      "name": "Charlotte Brontë",
+      "zhName": "夏洛蒂·勃朗特",
+      "years": "1816-1855",
+      "field": "文学",
+      "core": "简·爱作者",
+      "thinking": "女性独立与情感",
+      "speaking": "有力、有女性意识",
+      "solving": "女性小说",
+      "quotes": [
+        "我不是一个鸟；我是一个有独立意志的自由人"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "bronte_emily",
+      "name": "Emily Brontë",
+      "zhName": "艾米莉·勃朗特",
+      "years": "1818-1848",
+      "field": "文学",
+      "core": "呼啸山庄作者",
+      "thinking": "自然力量与激情",
+      "speaking": "有力、有浪漫主义",
+      "solving": "浪漫主义小说",
+      "quotes": [
+        "我没有办法笑；当风在荒原上吹的时候，我们不得不听它咆哮"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "sophie",
+      "name": "Anne Brontë",
+      "zhName": "安妮·勃朗特",
+      "years": "1820-1849",
+      "field": "文学",
+      "core": "艾格妮丝·格雷作者",
+      "thinking": "宗教信仰与道德",
+      "speaking": "虔诚、有道德感",
+      "solving": "宗教小说",
+      "quotes": [
+        "我对上帝的信任是真实的"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "sheridan",
+      "name": "Richard Brinsley Sheridan",
+      "zhName": "理查德·谢里丹",
+      "years": "1751-1816",
+      "field": "文学",
+      "core": "英国喜剧大师",
+      "thinking": "社会讽刺与机智",
+      "speaking": "机智、有喜剧天赋",
+      "solving": "喜剧创作",
+      "quotes": [
+        "诽谤是最低级的吹捧"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "shirley",
+      "name": "Charlotte Brontë 2",
+      "zhName": "夏洛蒂·勃朗特",
+      "years": "1816-1855",
+      "field": "文学",
+      "core": "雪莉作者",
+      "speaking": "有力、有女性意识",
+      "solving": "女性小说",
+      "quotes": [
+        "我只崇拜上帝"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "dickens_writer",
+      "name": "Charles Dickens",
+      "zhName": "查尔斯·狄更斯",
+      "years": "1812-1870",
+      "field": "文学",
+      "core": "雾都孤儿",
+      "speaking": "生动、有社会批判",
+      "solving": "社会小说",
+      "quotes": [
+        "这是一个智慧的年代，也是一个愚蠢的年代"
+      ],
+      "recommended_skills": [
+        "writer_philosophy"
+      ]
+    },
+    {
+      "id": "eliot_middlemarch",
+      "name": "George Eliot",
+      "zhName": "乔治·艾略特",
+      "years": "1819-1880",
+      "field": "文学",
+      "core": "米德尔马契作者",
+      "thinking": "社会现实与心理",
+      "speaking": "深刻、有洞察",
+      "solving": "心理现实主义",
+      "quotes": [
+        "小说是一种重要的艺术形式"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "twain_writer",
+      "name": "Mark Twain",
+      "zhName": "马克·吐温",
+      "years": "1835-1910",
+      "field": "文学",
+      "core": "汤姆·索亚历险记",
+      "speaking": "幽默、有地方特色",
+      "solving": "美国现实主义",
+      "quotes": [
+        "真相是奇怪的，比小说还奇怪"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "melville",
+      "name": "Herman Melville",
+      "zhName": "赫尔曼·梅尔维尔",
+      "years": "1819-1891",
+      "field": "文学",
+      "core": "白鲸作者",
+      "thinking": "人与自然/命运",
+      "speaking": "宏大、有象征意义",
+      "solving": "美国经典文学",
+      "quotes": [
+        "叫我以实玛利"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "hawthorne",
+      "name": "Nathaniel Hawthorne",
+      "zhName": "纳撒尼尔·霍桑",
+      "years": "1804-1864",
+      "field": "文学",
+      "core": "红字作者",
+      "thinking": "清教主义与罪恶",
+      "speaking": "有象征意义、有深度",
+      "solving": "美国浪漫主义",
+      "quotes": [
+        "没有秘密的心脏罪恶，就像没有隐蔽的角落罪恶"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "frost",
+      "name": "Robert Frost",
+      "zhName": "罗伯特·弗罗斯特",
+      "years": "1874-1963",
+      "field": "文学",
+      "core": "美国诗歌大师",
+      "thinking": "自然与人生选择",
+      "speaking": "简洁、有新英格兰特色",
+      "solving": "现代诗歌",
+      "quotes": [
+        "两条路在树林里分叉，我选择了人迹罕至的那一条"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "poe_writer",
+      "name": "Edgar Allan Poe",
+      "zhName": "爱伦·坡",
+      "years": "1809-1849",
+      "field": "文学",
+      "core": "乌鸦作者",
+      "speaking": "黑暗、有音乐性",
+      "solving": "哥特与推理",
+      "quotes": [
+        "我曾是年少轻狂，如今却已沧桑"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "twain_huckleberry",
+      "name": "Mark Twain 2",
+      "zhName": "马克·吐温",
+      "years": "1835-1910",
+      "field": "文学",
+      "core": "哈克贝利·费恩历险记",
+      "speaking": "口语化、有反叛精神",
+      "solving": "美国现实主义",
+      "quotes": [
+        "一旦你真的学会阅读，你将永远自由"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "dylan_thomas",
+      "name": "Dylan Thomas",
+      "zhName": "迪伦·托马斯",
+      "years": "1914-1953",
+      "field": "文学",
+      "core": "威尔士诗歌大师",
+      "thinking": "生与死的诗意",
+      "speaking": "有音乐性、有活力",
+      "solving": "现代诗歌",
+      "quotes": [
+        "不要温和地走进那个良夜"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "yeats",
+      "name": "W.B. Yeats",
+      "zhName": "威廉·巴特勒·叶芝",
+      "years": "1865-1939",
+      "field": "文学",
+      "core": "爱尔兰诗歌大师",
+      "thinking": "爱尔兰神话与时间",
+      "speaking": "有神秘感、有诗意",
+      "solving": "象征主义诗歌",
+      "quotes": [
+        "万物崩溃"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "eliot_ts",
+      "name": "T.S. Eliot",
+      "zhName": "T.S.艾略特",
+      "years": "1888-1965",
+      "field": "文学",
+      "core": "荒原作者",
+      "thinking": "现代荒原与传统",
+      "speaking": "学术、有深度",
+      "solving": "现代主义诗歌",
+      "quotes": [
+        "四月是最残忍的月份"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "auden",
+      "name": "W.H. Auden",
+      "zhName": "W.H.奥登",
+      "years": "1907-1973",
+      "field": "文学",
+      "core": "英国诗歌大师",
+      "thinking": "政治与个人",
+      "speaking": "聪明、有洞察",
+      "solving": "现代诗歌",
+      "quotes": [
+        "我们必须彼此相爱，否则就得死"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "virgil",
+      "name": "Virgil",
+      "zhName": "Virgil",
+      "years": "70BC-19BC",
+      "field": "Literature",
+      "core": "Roman Poet",
+      "thinking": "Epic and Empire",
+      "speaking": "Academic",
+      "solving": "Epic Writing",
+      "quotes": [
+        "Troy story"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "homer",
+      "name": "Homer",
+      "zhName": "Homer",
+      "years": "8th Century BC",
+      "field": "Literature",
+      "core": "Greek Poet",
+      "thinking": "Epic Tradition",
+      "speaking": "Academic",
+      "solving": "Epic Writing",
+      "quotes": [
+        "Iliad and Odyssey"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "han_fei",
+      "name": "Han Fei",
+      "zhName": "Han Fei",
+      "years": "280-233BC",
+      "field": "Philosophy",
+      "core": "Legalist Philosopher",
+      "thinking": "Rule of Law",
+      "speaking": "Sharp and Logical",
+      "solving": "Legalism",
+      "quotes": [
+        "Rule by law is better than rule by man"
+      ],
+      "recommended_skills": [
+        "philosopher_western"
+      ]
+    },
+    {
+      "id": "yu_hua",
+      "name": "Yu Hua",
+      "zhName": "Yu Hua",
+      "years": "1960-",
+      "field": "Literature",
+      "core": "Author of To Live",
+      "thinking": "Suffering and Humanity",
+      "speaking": "Deep and Moving",
+      "solving": "Contemporary Fiction",
+      "quotes": [
+        "To live is for the sake of living"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "eileen_chang",
+      "name": "Eileen Chang",
+      "zhName": "Eileen Chang",
+      "years": "1920-1995",
+      "field": "Literature",
+      "core": "Legendary Writer",
+      "thinking": "Worldly and Desolate",
+      "speaking": "Delicate and Insightful",
+      "solving": "Modern Fiction",
+      "quotes": [
+        "Life is a gorgeous robe"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    }
+  ]
+}
