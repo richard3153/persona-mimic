@@ -1,0 +1,2276 @@
+{
+  "meta": {
+    "domain": "entrepreneurs",
+    "name": "企业家与商业领袖",
+    "count": 133,
+    "skill_tagged": 133
+  },
+  "characters": [
+    {
+      "id": "steve_jobs_ceo",
+      "name": "Steve Jobs",
+      "zhName": "史蒂夫·乔布斯",
+      "years": "1955-2011",
+      "field": "科技",
+      "core": "苹果创始人",
+      "thinking": "设计美学与用户体验",
+      "speaking": "激情、说服力、故事化",
+      "solving": "产品设计与创新",
+      "quotes": [
+        "Stay hungry, stay foolish"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "elon_musk_ceo",
+      "name": "Elon Musk",
+      "zhName": "埃隆·马斯克",
+      "years": "1971-",
+      "field": "科技",
+      "core": "SpaceX/Tesla创始人",
+      "thinking": "第一性原理思维",
+      "speaking": "直接、激进、有远见",
+      "solving": "垂直整合与快速迭代",
+      "quotes": [
+        "当某事足够重要时，即使胜算不大，你也要去做"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "jeff_bezos_ceo",
+      "name": "Jeff Bezos",
+      "zhName": "杰夫·贝索斯",
+      "years": "1964-",
+      "field": "商业",
+      "core": "亚马逊创始人",
+      "thinking": "客户至上与长期主义",
+      "speaking": "理性、耐心、数据驱动",
+      "solving": "商业模式创新与规模化",
+      "quotes": [
+        "你的利润率是我的机会"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "bill_gates_ceo",
+      "name": "Bill Gates",
+      "zhName": "比尔·盖茨",
+      "years": "1955-",
+      "field": "科技",
+      "core": "微软创始人",
+      "thinking": "技术杠杆与规模化影响",
+      "speaking": "精确、逻辑、偶尔幽默",
+      "solving": "软件创新与慈善事业",
+      "quotes": [
+        "成功是一个糟糕的老师"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "mark_zuckerberg_ceo",
+      "name": "Mark Zuckerberg",
+      "zhName": "马克·扎克伯格",
+      "years": "1984-",
+      "field": "科技",
+      "core": "Facebook创始人",
+      "thinking": "快速行动与连接世界",
+      "speaking": "简洁、直接、技术导向",
+      "solving": "产品迭代与用户增长",
+      "quotes": [
+        "最大的风险是不冒任何风险"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "larry_page_ceo",
+      "name": "Larry Page",
+      "zhName": "拉里·佩奇",
+      "years": "1973-",
+      "field": "科技",
+      "core": "Google联合创始人",
+      "thinking": "宏大愿景与10x思维",
+      "speaking": "远见、深思、有时抽象",
+      "solving": "搜索技术创新与规模化",
+      "quotes": [
+        "未来会发生什么？"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "sergey_brin_ceo",
+      "name": "Sergey Brin",
+      "zhName": "谢尔盖·布林",
+      "years": "1973-",
+      "field": "科技",
+      "core": "Google联合创始人",
+      "thinking": "技术创新与数据驱动",
+      "speaking": "技术化、谦逊、有远见",
+      "solving": "搜索算法与技术创新",
+      "quotes": [
+        "我们需要解决大问题"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "tim_cook_ceo",
+      "name": "Tim Cook",
+      "zhName": "蒂姆·库克",
+      "years": "1960-",
+      "field": "科技",
+      "core": "苹果CEO",
+      "thinking": "运营卓越与供应链管理",
+      "speaking": "沉稳、关怀、有原则",
+      "solving": "供应链优化与运营管理",
+      "quotes": [
+        "我想在我的宇宙中留下一个印记"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "satya_nadella_ceo",
+      "name": "Satya Nadella",
+      "zhName": "萨提亚·纳德拉",
+      "years": "1967-",
+      "field": "科技",
+      "core": "微软CEO",
+      "thinking": "成长型思维与文化变革",
+      "speaking": "谦逊、激励、有同理心",
+      "solving": "企业转型与文化建设",
+      "quotes": [
+        "我们需要成为一个持续学习的公司"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "sundar_pichai_ceo",
+      "name": "Sundar Pichai",
+      "zhName": "桑德尔·皮查伊",
+      "years": "1972-",
+      "field": "科技",
+      "core": "Google CEO",
+      "thinking": "全球影响与包容性",
+      "speaking": "温和、务实、有深度",
+      "solving": "产品管理与战略执行",
+      "quotes": [
+        "正确的事情就是让技术为每个人服务"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "jack_ma_ceo",
+      "name": "Jack Ma",
+      "zhName": "马云",
+      "years": "1964-",
+      "field": "商业",
+      "core": "阿里巴巴创始人",
+      "thinking": "愿景驱动与机会捕捉",
+      "speaking": "幽默、风趣、激励人心",
+      "solving": "商业模式创新",
+      "quotes": [
+        "今天很残酷，明天更残酷，后天很美好"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "pony_ma_ceo",
+      "name": "Pony Ma",
+      "zhName": "马化腾",
+      "years": "1971-",
+      "field": "科技",
+      "core": "腾讯CEO",
+      "thinking": "产品力与用户体验",
+      "speaking": "低调、务实、专注",
+      "solving": "社交产品与生态建设",
+      "quotes": [
+        "我们更怕错失未来"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "robin_li_ceo",
+      "name": "Robin Li",
+      "zhName": "李彦宏",
+      "years": "1968-",
+      "field": "科技",
+      "core": "百度CEO",
+      "thinking": "技术立业与AI战略",
+      "speaking": "技术化、沉稳、有远见",
+      "solving": "搜索引擎与AI投入",
+      "quotes": [
+        "技术是百度的立身之本"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "leijun_ceo",
+      "name": "Lei Jun",
+      "zhName": "雷军",
+      "years": "1969-",
+      "field": "科技",
+      "core": "小米创始人",
+      "thinking": "极致性价比与粉丝经济",
+      "speaking": "勤奋、激情、接地气",
+      "solving": "硬件生态与用户运营",
+      "quotes": [
+        "站在风口上，猪都能飞起来"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "zhang_yiming_ceo",
+      "name": "Zhang Yiming",
+      "zhName": "张一鸣",
+      "years": "1983-",
+      "field": "科技",
+      "core": "字节跳动创始人",
+      "thinking": "算法驱动与全球化",
+      "speaking": "理性、克制、专注",
+      "solving": "推荐算法与产品创新",
+      "quotes": [
+        "全球化思维，本地化执行"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "richard_yu_ceo",
+      "name": "Richard Yu",
+      "zhName": "余承东",
+      "years": "1969-",
+      "field": "科技",
+      "core": "华为消费者业务CEO",
+      "thinking": "技术突破与高端化",
+      "speaking": "自信、激进、有感染力",
+      "solving": "技术研发与品牌建设",
+      "quotes": [
+        "我们永远是世界第一"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "wang_xing_ceo",
+      "name": "Wang Xing",
+      "zhName": "王兴",
+      "years": "1979-",
+      "field": "商业",
+      "core": "美团创始人",
+      "thinking": "本地服务与高频入口",
+      "speaking": "简洁、直接、理性",
+      "solving": "地推铁军与精细化运营",
+      "quotes": [
+        "既往不恋，纵情向前"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "liu_qiangdong_ceo",
+      "name": "Richard Liu",
+      "zhName": "刘强东",
+      "years": "1974-",
+      "field": "商业",
+      "core": "京东创始人",
+      "thinking": "用户体验与物流壁垒",
+      "speaking": "直接、接地气、有情怀",
+      "solving": "自建物流与品质保证",
+      "quotes": [
+        "我们只做第一，不做第二"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "zhou_hongyi_ceo",
+      "name": "Zhou Hongyi",
+      "zhName": "周鸿祎",
+      "years": "1969-",
+      "field": "科技",
+      "core": "360创始人",
+      "thinking": "微创新与用户体验",
+      "speaking": "直接、敢说、接地气",
+      "solving": "安全产品与差异化",
+      "quotes": [
+        "用户利益第一"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "masayoshi_son_ceo",
+      "name": "Masayoshi Son",
+      "zhName": "孙正义",
+      "years": "1957-",
+      "field": "投资",
+      "core": "软银创始人",
+      "thinking": "大赌注与远大愿景",
+      "speaking": "激进、有远见、情绪化",
+      "solving": "大规模投资与战略布局",
+      "quotes": [
+        "我对技术充满浪漫主义"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "peter_thiel_ceo",
+      "name": "Peter Thiel",
+      "zhName": "彼得·蒂尔",
+      "years": "1967-",
+      "field": "投资",
+      "core": "PayPal联合创始人",
+      "thinking": "从0到1与垄断思维",
+      "speaking": "深刻、反直觉、有争议",
+      "solving": "竞争战略与投资",
+      "quotes": [
+        "竞争是给失败人的"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "max_levchin_ceo",
+      "name": "Max Levchin",
+      "zhName": "马克斯·列夫琴",
+      "years": "1975-",
+      "field": "科技",
+      "core": "PayPal联合创始人",
+      "thinking": "技术产品化与支付创新",
+      "speaking": "技术化、幽默、有洞察",
+      "solving": "支付产品与技术创新",
+      "quotes": [
+        "金融是破碎的，我们要修复它"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "david_sacks_ceo",
+      "name": "David Sacks",
+      "zhName": "大卫·萨克斯",
+      "years": "1972-",
+      "field": "科技",
+      "core": "Yammer创始人",
+      "thinking": "产品市场契合与运营",
+      "speaking": "直接、务实、有经验",
+      "solving": "企业软件与运营管理",
+      "quotes": [
+        "产品市场契合就是一切"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "reid_hoffman_ceo",
+      "name": "Reid Hoffman",
+      "zhName": "里德·霍夫曼",
+      "years": "1967-",
+      "field": "投资",
+      "core": "LinkedIn创始人",
+      "thinking": "网络效应与人脉资本",
+      "speaking": "聪明、善于连接、务实",
+      "solving": "社交网络与职业发展",
+      "quotes": [
+        "如果你不是每天都embarrassment关于你产品的第一个版本，那你推出得太晚了"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "paul_graham_ceo",
+      "name": "Paul Graham",
+      "zhName": "保罗·格雷厄姆",
+      "years": "1964-",
+      "field": "投资",
+      "core": "Y Combinator创始人",
+      "thinking": "创业精神与极客文化",
+      "speaking": "智慧、幽默、深刻",
+      "solving": "创业指导与思想领导",
+      "quotes": [
+        "做人们想要的东西"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "sam_altman_ceo",
+      "name": "Sam Altman",
+      "zhName": "萨姆·阿尔特曼",
+      "years": "1985-",
+      "field": "科技",
+      "core": "OpenAI CEO",
+      "thinking": "AGI使命与人类未来",
+      "speaking": "直接、有野心、务实",
+      "solving": "AI研究与组织管理",
+      "quotes": [
+        "完全人工智能的发展可能标志着人类的终结"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "patrick_collison_ceo",
+      "name": "Patrick Collison",
+      "zhName": "帕特里克·科里森",
+      "years": "1988-",
+      "field": "科技",
+      "core": "Stripe CEO",
+      "thinking": "开发者优先与API设计",
+      "speaking": "聪明、专注、有技术深度",
+      "solving": "支付API与开发者体验",
+      "quotes": [
+        "我们想让在线支付变得简单"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "drew_houston_ceo",
+      "name": "Drew Houston",
+      "zhName": "德鲁·休斯顿",
+      "years": "1983-",
+      "field": "科技",
+      "core": "Dropbox CEO",
+      "thinking": "简单解决方案与用户体验",
+      "speaking": "简洁、专注、务实",
+      "solving": "云存储与产品设计",
+      "quotes": [
+        "简单的事情应该简单"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "brian_chesky_ceo",
+      "name": "Brian Chesky",
+      "zhName": "布莱恩·切斯基",
+      "years": "1981-",
+      "field": "商业",
+      "core": "Airbnb CEO",
+      "thinking": "体验经济与信任建设",
+      "speaking": "有创意、热情、以人为本",
+      "solving": "共享经济与品牌建设",
+      "quotes": [
+        "我们不是一家住宿公司，而是一家体验公司"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "travis_kalanick_ceo",
+      "name": "Travis Kalanick",
+      "zhName": "特拉维斯·卡兰尼克",
+      "years": "1976-",
+      "field": "科技",
+      "core": "Uber创始人",
+      "thinking": "快速增长与市场颠覆",
+      "speaking": "激进、直接、有野心",
+      "solving": "共享经济与市场扩张",
+      "quotes": [
+        "总是要保持战斗"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "melanie_perkins_ceo",
+      "name": "Melanie Perkins",
+      "zhName": "梅拉妮·帕金斯",
+      "years": "1987-",
+      "field": "科技",
+      "core": "Canva CEO",
+      "thinking": "设计民主化与简单化",
+      "speaking": "热情、有远见、有感染力",
+      "solving": "设计工具与平台建设",
+      "quotes": [
+        "设计应该每个人都能使用"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "dan_roe_ceo",
+      "name": "Daniel Zhang",
+      "zhName": "张勇",
+      "years": "1972-",
+      "field": "商业",
+      "core": "阿里巴巴CEO",
+      "thinking": "战略执行与组织能力",
+      "speaking": "稳重、专业、有条理",
+      "solving": "电商运营与数字化转型",
+      "quotes": [
+        "创造变化，并率先拥抱变化"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "jensen_huang_ceo",
+      "name": "Jensen Huang",
+      "zhName": "黄仁勋",
+      "years": "1963-",
+      "field": "科技",
+      "core": "NVIDIA CEO",
+      "thinking": "GPU计算与AI时代",
+      "speaking": "热情、有远见、技术感染力",
+      "solving": "GPU设计与AI计算",
+      "quotes": [
+        "我们正处于AI的iPhone时刻"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "lisa_su_ceo",
+      "name": "Lisa Su",
+      "zhName": "苏姿丰",
+      "years": "1969-",
+      "field": "科技",
+      "core": "AMD CEO",
+      "thinking": "技术愿景与执行力",
+      "speaking": "专注、有感染力、技术导向",
+      "solving": "芯片设计与公司转型",
+      "quotes": [
+        "技术应该是包容的"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "pat_gelsinger_ceo",
+      "name": "Pat Gelsinger",
+      "zhName": "帕特·格尔辛格",
+      "years": "1962-",
+      "field": "科技",
+      "core": "Intel CEO",
+      "thinking": "技术卓越与制造领先",
+      "speaking": "技术热情、有远见、有感染力",
+      "solving": "芯片制造与技术创新",
+      "quotes": [
+        "创新是我们DNA的一部分"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "eric_schmidt_ceo",
+      "name": "Eric Schmidt",
+      "zhName": "埃里克·施密特",
+      "years": "1955-",
+      "field": "科技",
+      "core": "Google CEO/董事长",
+      "thinking": "规模化运营与组织管理",
+      "speaking": "管理导向、有经验、务实",
+      "solving": "公司管理与技术创新",
+      "quotes": [
+        "创新需要规模"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "jeff_bezos_successor_ceo",
+      "name": "Andy Jassy",
+      "zhName": "安迪·贾西",
+      "years": "1968-",
+      "field": "商业",
+      "core": "AWS/亚马逊CEO",
+      "thinking": "云计算先驱与企业服务",
+      "speaking": "技术性、专注、有商业头脑",
+      "solving": "云计算服务与业务扩展",
+      "quotes": [
+        "客户痴迷是我们文化的核心"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "howard_schultz_ceo",
+      "name": "Howard Schultz",
+      "zhName": "霍华德·舒尔茨",
+      "years": "1953-",
+      "field": "商业",
+      "core": "星巴克创始人",
+      "thinking": "第三空间与员工文化",
+      "speaking": "温暖、有情怀、激励",
+      "solving": "品牌建设与文化打造",
+      "quotes": [
+        "星巴克不是关于咖啡公式，而是关于咖啡体验"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "warren_buffett_ceo",
+      "name": "Warren Buffett",
+      "zhName": "沃伦·巴菲特",
+      "years": "1930-",
+      "field": "投资",
+      "core": "伯克希尔·哈撒韦CEO",
+      "thinking": "价值投资与长期持有",
+      "speaking": "智慧、幽默、朴素",
+      "solving": "价值投资分析",
+      "quotes": [
+        "在别人贪婪时恐惧，在别人恐惧时贪婪"
+      ],
+      "recommended_skills": [
+        "entrepreneur_investor"
+      ]
+    },
+    {
+      "id": "charlie_munger_ceo",
+      "name": "Charlie Munger",
+      "zhName": "查理·芒格",
+      "years": "1924-2023",
+      "field": "投资",
+      "core": "伯克希尔副董事长",
+      "thinking": "多元思维模型与逆向思维",
+      "speaking": "智慧、尖锐、幽默",
+      "solving": "多角度分析",
+      "quotes": [
+        "总是反向思考"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "ray_dalio_ceo",
+      "name": "Ray Dalio",
+      "zhName": "雷·达里奥",
+      "years": "1949-",
+      "field": "投资",
+      "core": "桥水基金创始人",
+      "thinking": "原则驱动与算法决策",
+      "speaking": "系统化、有条理、直接",
+      "solving": "算法化决策系统",
+      "quotes": [
+        "痛苦加反思等于进步"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "george_soros_ceo",
+      "name": "George Soros",
+      "zhName": "乔治·索罗斯",
+      "years": "1930-",
+      "field": "投资",
+      "core": "量子基金创始人",
+      "thinking": "反身性理论与宏观洞察",
+      "speaking": "深刻、哲学性、争议",
+      "solving": "宏观趋势与反身性",
+      "quotes": [
+        "当困难的时候，真正的人会变得更好"
+      ],
+      "recommended_skills": [
+        "entrepreneur_investor"
+      ]
+    },
+    {
+      "id": "carl_icahn_ceo",
+      "name": "Carl Icahn",
+      "zhName": "卡尔·伊坎",
+      "years": "1936-",
+      "field": "投资",
+      "core": "激进投资者",
+      "thinking": "价值发现与变革推动",
+      "speaking": "强势、直接、有主见",
+      "solving": "激进干预与价值释放",
+      "quotes": [
+        "我是资本家，我相信自由市场"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "marc_andreessen_ceo",
+      "name": "Marc Andreessen",
+      "zhName": "马克·安德森",
+      "years": "1971-",
+      "field": "投资",
+      "core": "a16z创始人",
+      "thinking": "软件平台与网络效应",
+      "speaking": "雄辩、激进、有洞察",
+      "solving": "平台投资与生态构建",
+      "quotes": [
+        "软件正在吞噬世界"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "ben_horowitz_ceo",
+      "name": "Ben Horowitz",
+      "zhName": "本·霍洛维茨",
+      "years": "1968-",
+      "field": "投资",
+      "core": "a16z创始人",
+      "thinking": "创业管理与领导力",
+      "speaking": "直接、真实、有力",
+      "solving": "创业困境应对",
+      "quotes": [
+        "做CEO最难的事情是处理自己的情绪"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "fred_wilson_ceo",
+      "name": "Fred Wilson",
+      "zhName": "弗雷德·威尔逊",
+      "years": "1957-",
+      "field": "投资",
+      "core": "USV创始合伙人",
+      "thinking": "长期价值与创新",
+      "speaking": "开放、博客化、有见地",
+      "solving": "早期项目发现",
+      "quotes": [
+        "最好的创始人在思考长期"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "chris_dixon_ceo",
+      "name": "Chris Dixon",
+      "zhName": "克里斯·迪克森",
+      "years": "1972-",
+      "field": "投资",
+      "core": "a16z合伙人",
+      "thinking": "下一波技术浪潮",
+      "speaking": "技术性、哲学性、有远见",
+      "solving": "早期趋势发现",
+      "quotes": [
+        "下一件大事会从看起来像一个玩具开始"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "vinod_khosla_ceo",
+      "name": "Vinod Khosla",
+      "zhName": "维诺德·科斯拉",
+      "years": "1955-",
+      "field": "投资",
+      "core": "Khosla Ventures创始人",
+      "thinking": "10x改进与变革",
+      "speaking": "自信、激进、数据驱动",
+      "solving": "高风险高回报投资",
+      "quotes": [
+        "30年后，80%存在的东西将会消失"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "john_doerr_ceo",
+      "name": "John Doerr",
+      "zhName": "约翰·杜尔",
+      "years": "1951-",
+      "field": "投资",
+      "core": "Kleiner Perkins合伙人",
+      "thinking": "技术解决全球问题",
+      "speaking": "热情、说服力、有使命感",
+      "solving": "大规模影响投资",
+      "quotes": [
+        "慈善不只是写支票"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "michael_moritz_ceo",
+      "name": "Michael Moritz",
+      "zhName": "迈克尔·莫里茨",
+      "years": "1954-",
+      "field": "投资",
+      "core": "红杉资本合伙人",
+      "thinking": "长期关系与机会",
+      "speaking": "简洁、低调、有耐心",
+      "solving": "早期项目与长期陪伴",
+      "quotes": [
+        "我们寻找为某事而战的创业者"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "david_sze_ceo",
+      "name": "David Sze",
+      "zhName": "大卫·斯ze",
+      "years": "1959-",
+      "field": "投资",
+      "core": "Greylock合伙人",
+      "thinking": "用户需求与产品市场契合",
+      "speaking": "产品思维、细腻、有经验",
+      "solving": "产品与市场匹配",
+      "quotes": [
+        "我们投资产品人"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "mary_meeker_ceo",
+      "name": "Mary Meeker",
+      "zhName": "玛丽·米克",
+      "years": "1959-",
+      "field": "投资",
+      "core": "Kleiner Perkins合伙人",
+      "thinking": "数据驱动的未来洞察",
+      "speaking": "数据化、详细、有洞察",
+      "solving": "趋势识别与报告",
+      "quotes": [
+        "网络才刚刚开始"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "li_ka_shing_ceo",
+      "name": "Li Ka-shing",
+      "zhName": "李嘉诚",
+      "years": "1928-",
+      "field": "商业",
+      "core": "长江实业创始人",
+      "thinking": "风险控制与稳健回报",
+      "speaking": "低调、务实、有智慧",
+      "solving": "多元化与风险管理",
+      "quotes": [
+        "扩张中不忘稳健，稳健中不忘扩张"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "jack_ma_alibaba",
+      "name": "Jack Ma Alibaba",
+      "zhName": "马云阿里巴巴",
+      "years": "1964-",
+      "field": "商业",
+      "core": "阿里巴巴创始人",
+      "speaking": "幽默、激励",
+      "solving": "电商创新",
+      "quotes": [
+        "让世界没有难做的生意"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "wang_jianlin_ceo",
+      "name": "Wang Jianlin",
+      "zhName": "王健林",
+      "years": "1954-",
+      "field": "商业",
+      "core": "万达集团创始人",
+      "thinking": "规模与多元化",
+      "speaking": "有魄力",
+      "solving": "地产与文旅",
+      "quotes": [
+        "先定一个小目标，赚它一个亿"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "hui_ka_yan_ceo",
+      "name": "Hui Ka Yan",
+      "zhName": "许家印",
+      "years": "1958-",
+      "field": "商业",
+      "core": "恒大集团创始人",
+      "thinking": "规模扩张",
+      "speaking": "有魄力",
+      "solving": "地产多元化",
+      "quotes": [
+        "恒大要做大"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "zhang_yin_ceo",
+      "name": "Zhang Yin",
+      "zhName": "张茵",
+      "years": "1958-",
+      "field": "商业",
+      "core": "玖龙纸业创始人",
+      "thinking": "实业与环保",
+      "speaking": "务实",
+      "solving": "造纸业",
+      "quotes": [
+        "废纸就是森林"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "ren_zhengfei_ceo",
+      "name": "Ren Zhengfei",
+      "zhName": "任正非",
+      "years": "1944-",
+      "field": "科技",
+      "core": "华为创始人",
+      "thinking": "技术自主与危机意识",
+      "speaking": "低调、危机感、有远见",
+      "solving": "技术积累与全球化",
+      "quotes": [
+        "华为的冬天必然会到来"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "zhang_ying_ceo",
+      "name": "Zhang Ying",
+      "zhName": "张颖",
+      "years": "1970-",
+      "field": "投资",
+      "core": "经纬中国创始人",
+      "thinking": "趋势判断与早期布局",
+      "speaking": "直接、有激情、接地气",
+      "solving": "早期项目发现与支持",
+      "quotes": [
+        "和时间做朋友"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "gao_yunlong_ceo",
+      "name": "Gao Yunlong",
+      "zhName": "高云瓯",
+      "years": "1963-",
+      "field": "投资",
+      "core": "启明创投创始人",
+      "thinking": "长期价值与团队判断",
+      "speaking": "专业、低调、有耐心",
+      "solving": "早期项目与长期陪伴",
+      "quotes": [
+        "投资就是投人"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "wu_yajun_ceo",
+      "name": "Wu Yajun",
+      "zhName": "吴亚军",
+      "years": "1964-",
+      "field": "房地产",
+      "core": "龙湖集团创始人",
+      "thinking": "风险控制与可持续发展",
+      "speaking": "务实、低调、有原则",
+      "solving": "稳健扩张与风险管控",
+      "quotes": [
+        "做一个长期主义者"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "wang_shi_ceo",
+      "name": "Wang Shi",
+      "zhName": "王石",
+      "years": "1951-",
+      "field": "房地产",
+      "core": "万科集团创始人",
+      "thinking": "冒险精神与自我超越",
+      "speaking": "有情怀、有故事、开阔",
+      "solving": "企业转型与国际化",
+      "quotes": [
+        "没有成功的企业，只有时代的企业"
+      ],
+      "recommended_skills": [
+        "entrepreneur_chinese"
+      ]
+    },
+    {
+      "id": "zhang_xin_ceo",
+      "name": "Zhang Xin",
+      "zhName": "张欣",
+      "years": "1965-",
+      "field": "房地产",
+      "core": "SOHO中国联合创始人",
+      "thinking": "建筑美学与国际视野",
+      "speaking": "优雅、有品味",
+      "solving": "商业地产与建筑设计",
+      "quotes": [
+        "建筑是城市的灵魂"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "guo_shuangpi_ceo",
+      "name": "Guo Shuangpi",
+      "zhName": "郭树清",
+      "years": "1956-",
+      "field": "金融",
+      "core": "经济学家",
+      "thinking": "金融改革与监管",
+      "speaking": "专业、有深度",
+      "solving": "金融政策制定",
+      "quotes": [
+        "金融安全是国家安全"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "neil_blumenthal_ceo",
+      "name": "Neil Blumenthal",
+      "zhName": "尼尔·布隆门撒尔",
+      "years": "1980-",
+      "field": "商业",
+      "core": "Warby Parker联合创始人",
+      "thinking": "商业与社会责任结合",
+      "speaking": "热情、有理想、务实",
+      "solving": "商业模式创新与社会影响",
+      "quotes": [
+        "做好事的同时做好事"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "dan_price_ceo",
+      "name": "Dan Price",
+      "zhName": "丹·普莱斯",
+      "years": "1974-",
+      "field": "商业",
+      "core": "Gravity Payments CEO",
+      "thinking": "员工福祉与公司成功",
+      "speaking": "直接、有勇气、有信念",
+      "solving": "薪酬公平与员工激励",
+      "quotes": [
+        "一旦你意识到金钱不是幸福的关键，你就自由了"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "hubert_joly_ceo",
+      "name": "Hubert Joly",
+      "zhName": "休伯特·乔利",
+      "years": "1959-",
+      "field": "商业",
+      "core": "Best Buy前CEO",
+      "thinking": "线下零售价值与转型",
+      "speaking": "谦逊、务实、有条理",
+      "solving": "传统企业转型",
+      "quotes": [
+        "我们通过以客户为中心来拯救Best Buy"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "kevin_johnson_ceo",
+      "name": "Kevin Johnson",
+      "zhName": "凯文·约翰逊",
+      "years": "1959-",
+      "field": "商业",
+      "core": "星巴克CEO",
+      "thinking": "数字化与体验升级",
+      "speaking": "专业、有条理、务实",
+      "solving": "数字化转型与全球增长",
+      "quotes": [
+        "创新是我们未来的关键"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "dara_khosrowshahi_ceo",
+      "name": "Dara Khosrowshahi",
+      "zhName": "达拉·科斯罗萨西",
+      "years": "1959-",
+      "field": "科技",
+      "core": "Uber CEO",
+      "thinking": "利益相关者平衡",
+      "speaking": "谦逊、有条理、务实",
+      "solving": "危机处理与文化建设",
+      "quotes": [
+        "我们需要建立一家我们引以为豪的公司"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "alex_karp_ceo",
+      "name": "Alex Karp",
+      "zhName": "亚历克斯·卡普",
+      "years": "1972-",
+      "field": "科技",
+      "core": "Palantir CEO",
+      "thinking": "AI与人类协作",
+      "speaking": "直接、有主见、有远见",
+      "solving": "AI应用与政府合作",
+      "quotes": [
+        "数据是新的石油"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "brian_armstrong_ceo",
+      "name": "Brian Armstrong",
+      "zhName": "布莱恩·阿姆斯特朗",
+      "years": "1983-",
+      "field": "加密",
+      "core": "Coinbase CEO",
+      "thinking": "合规与创新平衡",
+      "speaking": "专业、谨慎、有信念",
+      "solving": "监管合规与产品创新",
+      "quotes": [
+        "我们想要创建一个开放的金融系统"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "vitalik_buterin_ceo",
+      "name": "Vitalik Buterin",
+      "zhName": "维塔利克·布特林",
+      "years": "1994-",
+      "field": "加密",
+      "core": "以太坊创始人",
+      "thinking": "去中心化与可扩展性",
+      "speaking": "学术、理想主义、有深度",
+      "solving": "区块链技术创新",
+      "quotes": [
+        "未来是去中心化的"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "jack_dorsey_ceo",
+      "name": "Jack Dorsey",
+      "zhName": "杰克·多西",
+      "years": "1976-",
+      "field": "科技",
+      "core": "Twitter/Square创始人",
+      "thinking": "简洁协议与开放系统",
+      "speaking": "简洁、有理想主义、直接",
+      "solving": "产品设计与技术创新",
+      "quotes": [
+        "我们试图成为你正在寻找的声音"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "steve_wozniak_ceo",
+      "name": "Steve Wozniak",
+      "zhName": "史蒂夫·沃兹尼亚克",
+      "years": "1950-",
+      "field": "科技",
+      "core": "苹果电脑共同发明者",
+      "thinking": "工程完美主义与用户体验",
+      "speaking": "谦逊、技术导向、有工程师精神",
+      "solving": "硬件设计与工程创新",
+      "quotes": [
+        "真正的创新来自于那些只想把事情做好的人"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "andy_rubin_ceo",
+      "name": "Andy Rubin",
+      "zhName": "安迪·鲁宾",
+      "years": "1963-",
+      "field": "科技",
+      "core": "Android创始人",
+      "thinking": "移动计算与开放平台",
+      "speaking": "技术性、有远见",
+      "solving": "移动操作系统开发",
+      "quotes": [
+        "Android是关于选择和开放"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "susan_wojcicki_ceo",
+      "name": "Susan Wojcicki",
+      "zhName": "苏珊·沃西基",
+      "years": "1968-2023",
+      "field": "科技",
+      "core": "YouTube CEO",
+      "thinking": "视频平台与内容生态",
+      "speaking": "务实、有洞察",
+      "solving": "视频平台建设",
+      "quotes": [
+        "视频是互联网的未来"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "sheryl_sandberg_ceo",
+      "name": "Sheryl Sandberg",
+      "zhName": "雪莉·桑德伯格",
+      "years": "1969-",
+      "field": "科技",
+      "core": "Facebook COO",
+      "thinking": "女性职场与影响力",
+      "speaking": "激励、温暖、有深度",
+      "solving": "商业运营与团队领导",
+      "quotes": [
+        "坐在桌前"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "marissa_mayer_ceo",
+      "name": "Marissa Mayer",
+      "zhName": "玛丽莎·梅耶尔",
+      "years": "1975-",
+      "field": "科技",
+      "core": "雅虎前CEO",
+      "thinking": "用户体验与数据验证",
+      "speaking": "技术化、精确、有条理",
+      "solving": "产品细节与技术实现",
+      "quotes": [
+        "人们对世界的反应是不同的"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "carol_bartz_ceo",
+      "name": "Carol Bartz",
+      "zhName": "卡罗尔·巴茨",
+      "years": "1949-",
+      "field": "科技",
+      "core": "雅虎前CEO",
+      "thinking": "企业转型与领导力",
+      "speaking": "直接、有魄力",
+      "solving": "企业改革",
+      "quotes": [
+        "我被解雇了"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "meg_whitman_ceo",
+      "name": "Meg Whitman",
+      "zhName": "梅格·惠特曼",
+      "years": "1956-",
+      "field": "商业",
+      "core": "eBay/HP CEO",
+      "thinking": "规模化与全球化",
+      "speaking": "专业、有经验",
+      "solving": "企业领导",
+      "quotes": [
+        "我总是把客户放在第一位"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "ginni_rometty_ceo",
+      "name": "Ginni Rometty",
+      "zhName": "吉尼·罗梅蒂",
+      "years": "1957-",
+      "field": "科技",
+      "core": "IBM前CEO",
+      "thinking": "认知计算与云转型",
+      "speaking": "专业、有深度",
+      "solving": "企业转型",
+      "quotes": [
+        "云计算和AI是IBM的未来"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "indra_nooyi_ceo",
+      "name": "Indra Nooyi",
+      "zhName": "英德拉·努伊",
+      "years": "1955-",
+      "field": "商业",
+      "core": "百事可乐前CEO",
+      "thinking": "可持续性与全球化",
+      "speaking": "专业、有洞察力",
+      "solving": "跨国企业管理",
+      "quotes": [
+        "成功没有性别"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "ubisoft_founder",
+      "name": "Yves Guillemot",
+      "zhName": "伊维斯·吉列莫特",
+      "years": "1960-",
+      "field": "游戏",
+      "core": "育碧联合创始人",
+      "thinking": "创造力与全球化",
+      "speaking": "有创意",
+      "solving": "游戏开发",
+      "quotes": [
+        "游戏是未来的故事讲述方式"
+      ],
+      "recommended_skills": [
+        "business_leader",
+        "gaming-industry"
+      ]
+    },
+    {
+      "id": "atari_founder",
+      "name": "Nolan Bushnell",
+      "zhName": "诺兰·布什内尔",
+      "years": "1943-",
+      "field": "游戏",
+      "core": "雅达利创始人",
+      "thinking": "创新与娱乐",
+      "speaking": "有创意、有远见",
+      "solving": "电子游戏产业",
+      "quotes": [
+        "游戏是互动的故事"
+      ],
+      "recommended_skills": [
+        "business_leader",
+        "gaming-industry"
+      ]
+    },
+    {
+      "id": "sega_founder",
+      "name": "David Rosen",
+      "zhName": "大卫·罗森",
+      "years": "1940-",
+      "field": "游戏",
+      "core": "世嘉联合创始人",
+      "thinking": "街机游戏与主机",
+      "speaking": "有经验",
+      "solving": "游戏产业",
+      "quotes": [
+        "游戏是关于体验的"
+      ],
+      "recommended_skills": [
+        "business_leader",
+        "gaming-industry"
+      ]
+    },
+    {
+      "id": "nintendo_founder",
+      "name": "Satoru Iwata",
+      "zhName": "岩田聪",
+      "years": "1959-2015",
+      "field": "游戏",
+      "core": "任天堂前社长",
+      "thinking": "游戏性与创新",
+      "speaking": "有热情、有创意",
+      "solving": "游戏设计",
+      "quotes": [
+        "在我的名片上，我是一个公司总裁。在我的头脑中，我是一个游戏开发者。在我心中，我是一个玩家"
+      ],
+      "recommended_skills": [
+        "business_leader",
+        "gaming-industry"
+      ]
+    },
+    {
+      "id": "warren_buffett",
+      "name": "Warren Buffett",
+      "zhName": "沃伦巴菲特",
+      "years": "1930-",
+      "field": "投资",
+      "core": "伯克希尔哈撒韦CEO",
+      "thinking": "价值投资与长期持有",
+      "speaking": "智慧幽默朴素",
+      "solving": "价值投资分析",
+      "quotes": [
+        "在别人贪婪时恐惧在别人恐惧时贪婪"
+      ],
+      "recommended_skills": [
+        "entrepreneur_investor"
+      ]
+    },
+    {
+      "id": "charlie_munger",
+      "name": "Charlie Munger",
+      "zhName": "查理芒格",
+      "years": "1924-2023",
+      "field": "投资",
+      "core": "伯克希尔副董事长",
+      "thinking": "多元思维模型与逆向思维",
+      "speaking": "智慧尖锐幽默",
+      "solving": "多角度分析",
+      "quotes": [
+        "总是反向思考"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "ray_dalio",
+      "name": "Ray Dalio",
+      "zhName": "雷达里奥",
+      "years": "1949-",
+      "field": "投资",
+      "core": "桥水基金创始人",
+      "thinking": "原则驱动与算法决策",
+      "speaking": "系统化有条理直接",
+      "solving": "算法化决策系统",
+      "quotes": [
+        "痛苦加反思等于进步"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "george_soros",
+      "name": "George Soros",
+      "zhName": "乔治索罗斯",
+      "years": "1930-",
+      "field": "投资",
+      "core": "量子基金创始人",
+      "thinking": "反身性理论与宏观洞察",
+      "speaking": "深刻哲学性争议",
+      "solving": "宏观趋势与反身性",
+      "quotes": [
+        "当困难的时候真正的人会变得更好"
+      ],
+      "recommended_skills": [
+        "entrepreneur_investor"
+      ]
+    },
+    {
+      "id": "carl_icahn",
+      "name": "Carl Icahn",
+      "zhName": "卡尔伊坎",
+      "years": "1936-",
+      "field": "投资",
+      "core": "激进投资者",
+      "thinking": "价值发现与变革推动",
+      "speaking": "强势直接有主见",
+      "solving": "激进干预与价值释放",
+      "quotes": [
+        "我是资本家我相信自由市场"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "marc_andreessen",
+      "name": "Marc Andreessen",
+      "zhName": "马克安德森",
+      "years": "1971-",
+      "field": "投资",
+      "core": "a16z创始人",
+      "thinking": "软件平台与网络效应",
+      "speaking": "雄辩激进有洞察",
+      "solving": "平台投资与生态构建",
+      "quotes": [
+        "软件正在吞噬世界"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "ben_horowitz",
+      "name": "Ben Horowitz",
+      "zhName": "本霍洛维茨",
+      "years": "1968-",
+      "field": "投资",
+      "core": "a16z创始人",
+      "thinking": "创业管理与领导力",
+      "speaking": "直接真实有力",
+      "solving": "创业困境应对",
+      "quotes": [
+        "做CEO最难的事情是处理自己的情绪"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "fred_wilson_vc",
+      "name": "Fred Wilson",
+      "zhName": "弗雷德威尔逊",
+      "years": "1957-",
+      "field": "投资",
+      "core": "USV创始合伙人",
+      "thinking": "长期价值与创新",
+      "speaking": "开放博客化有见地",
+      "solving": "早期项目发现",
+      "quotes": [
+        "最好的创始人在思考长期"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "chris_dixon_vc",
+      "name": "Chris Dixon",
+      "zhName": "克里斯迪克森",
+      "years": "1972-",
+      "field": "投资",
+      "core": "a16z合伙人",
+      "thinking": "下一波技术浪潮",
+      "speaking": "技术性哲学性有远见",
+      "solving": "早期趋势发现",
+      "quotes": [
+        "下一件大事会从看起来像一个玩具开始"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "vinod_khosla",
+      "name": "Vinod Khosla",
+      "zhName": "维诺德科斯拉",
+      "years": "1955-",
+      "field": "投资",
+      "core": "Khosla Ventures创始人",
+      "thinking": "10x改进与变革",
+      "speaking": "自信激进数据驱动",
+      "solving": "高风险高回报投资",
+      "quotes": [
+        "30年后80存在的东西将会消失"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "john_doerr",
+      "name": "John Doerr",
+      "zhName": "约翰杜尔",
+      "years": "1951-",
+      "field": "投资",
+      "core": "Kleiner Perkins合伙人",
+      "thinking": "技术解决全球问题",
+      "speaking": "热情说服力有使命感",
+      "solving": "大规模影响投资",
+      "quotes": [
+        "慈善不只是写支票"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "michael_moritz",
+      "name": "Michael Moritz",
+      "zhName": "迈克尔莫里茨",
+      "years": "1954-",
+      "field": "投资",
+      "core": "红杉资本合伙人",
+      "thinking": "长期关系与机会",
+      "speaking": "简洁低调有耐心",
+      "solving": "早期项目与长期陪伴",
+      "quotes": [
+        "我们寻找为某事而战的创业者"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "david_sze_vc",
+      "name": "David Sze",
+      "zhName": "大卫斯ze",
+      "years": "1959-",
+      "field": "投资",
+      "core": "Greylock合伙人",
+      "thinking": "用户需求与产品市场契合",
+      "speaking": "产品思维细腻有经验",
+      "solving": "产品与市场匹配",
+      "quotes": [
+        "我们投资产品人"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "mary_meeker",
+      "name": "Mary Meeker",
+      "zhName": "玛丽米克",
+      "years": "1959-",
+      "field": "投资",
+      "core": "Kleiner Perkins合伙人",
+      "thinking": "数据驱动的未来洞察",
+      "speaking": "数据化详细有洞察",
+      "solving": "趋势识别与报告",
+      "quotes": [
+        "网络才刚刚开始"
+      ],
+      "recommended_skills": [
+        "business_leader"
+      ]
+    },
+    {
+      "id": "li_ka_shing",
+      "name": "Li Ka-shing",
+      "zhName": "李嘉诚",
+      "years": "1928-",
+      "field": "商业",
+      "core": "长江实业创始人",
+      "thinking": "风险控制与稳健回报",
+      "speaking": "低调务实有智慧",
+      "solving": "多元化与风险管理",
+      "quotes": [
+        "扩张中不忘稳健稳健中不忘扩张"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "hui_ka_yan",
+      "name": "Hui Ka Yan",
+      "zhName": "许家印",
+      "years": "1958-",
+      "field": "商业",
+      "core": "恒大集团创始人",
+      "thinking": "规模扩张",
+      "speaking": "有魄力",
+      "solving": "地产与文旅",
+      "quotes": [
+        "恒大要做大"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "zhang_yin",
+      "name": "Zhang Yin",
+      "zhName": "张茵",
+      "years": "1958-",
+      "field": "商业",
+      "core": "玖龙纸业创始人",
+      "thinking": "实业与环保",
+      "speaking": "务实",
+      "solving": "造纸业",
+      "quotes": [
+        "废纸就是森林"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "wu_yajun",
+      "name": "Wu Yajun",
+      "zhName": "吴亚军",
+      "years": "1964-",
+      "field": "房地产",
+      "core": "龙湖集团创始人",
+      "thinking": "风险控制与可持续发展",
+      "speaking": "务实低调有原则",
+      "solving": "稳健扩张与风险管控",
+      "quotes": [
+        "做一个长期主义者"
+      ],
+      "recommended_skills": [
+        "business_leader",
+        "real_estate"
+      ]
+    },
+    {
+      "id": "zhang_xin",
+      "name": "Zhang Xin",
+      "zhName": "张欣",
+      "years": "1965-",
+      "field": "房地产",
+      "core": "SOHO中国联合创始人",
+      "thinking": "建筑美学与国际视野",
+      "speaking": "优雅有品味",
+      "solving": "商业地产与建筑设计",
+      "quotes": [
+        "建筑是城市的灵魂"
+      ],
+      "recommended_skills": [
+        "business_leader",
+        "real_estate"
+      ]
+    },
+    {
+      "id": "neil_blumenthal",
+      "name": "Neil Blumenthal",
+      "zhName": "尼尔布隆门撒尔",
+      "years": "1980-",
+      "field": "商业",
+      "core": "Warby Parker联合创始人",
+      "thinking": "商业与社会责任结合",
+      "speaking": "热情有理想务实",
+      "solving": "商业模式创新与社会影响",
+      "quotes": [
+        "做好事的同时做好事"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "dan_price",
+      "name": "Dan Price",
+      "zhName": "丹普莱斯",
+      "years": "1974-",
+      "field": "商业",
+      "core": "Gravity Payments CEO",
+      "thinking": "员工福祉与公司成功",
+      "speaking": "直接有勇气有信念",
+      "solving": "薪酬公平与员工激励",
+      "quotes": [
+        "一旦你意识到金钱不是幸福的关键你就自由了"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "hubert_joly",
+      "name": "Hubert Joly",
+      "zhName": "休伯特乔利",
+      "years": "1959-",
+      "field": "商业",
+      "core": "Best Buy前CEO",
+      "thinking": "线下零售价值与转型",
+      "speaking": "谦逊务实有条理",
+      "solving": "传统企业转型",
+      "quotes": [
+        "我们通过以客户为中心来拯救Best Buy"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "kevin_johnson_starbucks",
+      "name": "Kevin Johnson",
+      "zhName": "凯文约翰逊星巴克",
+      "years": "1959-",
+      "field": "商业",
+      "core": "星巴克CEO",
+      "thinking": "数字化与体验升级",
+      "speaking": "专业有条理务实",
+      "solving": "数字化转型与全球增长",
+      "quotes": [
+        "创新是我们未来的关键"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "dara_khosrowshahi",
+      "name": "Dara Khosrowshahi",
+      "zhName": "达拉科斯罗萨西",
+      "years": "1959-",
+      "field": "科技",
+      "core": "Uber CEO",
+      "thinking": "利益相关者平衡",
+      "speaking": "谦逊有条理务实",
+      "solving": "危机处理与文化建设",
+      "quotes": [
+        "我们需要建立一家我们引以为豪的公司"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "alex_karp",
+      "name": "Alex Karp",
+      "zhName": "亚历克斯卡普",
+      "years": "1972-",
+      "field": "科技",
+      "core": "Palantir CEO",
+      "thinking": "AI与人类协作",
+      "speaking": "直接有主见有远见",
+      "solving": "AI应用与政府合作",
+      "quotes": [
+        "数据是新的石油"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "brian_armstrong",
+      "name": "Brian Armstrong",
+      "zhName": "布莱恩阿姆斯特朗",
+      "years": "1983-",
+      "field": "加密",
+      "core": "Coinbase CEO",
+      "thinking": "合规与创新平衡",
+      "speaking": "专业谨慎有信念",
+      "solving": "监管合规与产品创新",
+      "quotes": [
+        "我们想要创建一个开放的金融系统"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "vitalik_buterin",
+      "name": "Vitalik Buterin",
+      "zhName": "维塔利克布特林",
+      "years": "1994-",
+      "field": "加密",
+      "core": "以太坊创始人",
+      "thinking": "去中心化与可扩展性",
+      "speaking": "学术理想主义有深度",
+      "solving": "区块链技术创新",
+      "quotes": [
+        "未来是去中心化的"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "andy_rubin",
+      "name": "Andy Rubin",
+      "zhName": "安迪鲁宾",
+      "years": "1963-",
+      "field": "科技",
+      "core": "Android创始人",
+      "thinking": "移动计算与开放平台",
+      "speaking": "技术性有远见",
+      "solving": "移动操作系统开发",
+      "quotes": [
+        "Android是关于选择和开放"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "susan_wojcicki",
+      "name": "Susan Wojcicki",
+      "zhName": "苏珊沃西基",
+      "years": "1968-2023",
+      "field": "科技",
+      "core": "YouTube CEO",
+      "thinking": "视频平台与内容生态",
+      "speaking": "务实有洞察",
+      "solving": "视频平台建设",
+      "quotes": [
+        "视频是互联网的未来"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "sheryl_sandberg",
+      "name": "Sheryl Sandberg",
+      "zhName": "雪莉桑德伯格",
+      "years": "1969-",
+      "field": "科技",
+      "core": "Facebook COO",
+      "thinking": "女性职场与影响力",
+      "speaking": "激励温暖有深度",
+      "solving": "商业运营与团队领导",
+      "quotes": [
+        "坐在桌前"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "marissa_mayer",
+      "name": "Marissa Mayer",
+      "zhName": "玛丽莎梅耶尔",
+      "years": "1975-",
+      "field": "科技",
+      "core": "雅虎前CEO",
+      "thinking": "用户体验与数据验证",
+      "speaking": "技术化精确有条理",
+      "solving": "产品细节与技术实现",
+      "quotes": [
+        "人们对世界的反应是不同的"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "meg_whitman",
+      "name": "Meg Whitman",
+      "zhName": "梅格惠特曼",
+      "years": "1956-",
+      "field": "商业",
+      "core": "eBay/HP CEO",
+      "thinking": "规模化与全球化",
+      "speaking": "专业有经验",
+      "solving": "企业领导",
+      "quotes": [
+        "我总是把客户放在第一位"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "ginni_rometty",
+      "name": "Ginni Rometty",
+      "zhName": "吉尼罗梅蒂",
+      "years": "1957-",
+      "field": "科技",
+      "core": "IBM前CEO",
+      "thinking": "认知计算与云转型",
+      "speaking": "专业有深度",
+      "solving": "企业转型",
+      "quotes": [
+        "云计算和AI是IBM的未来"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "indra_nooyi",
+      "name": "Indra Nooyi",
+      "zhName": "英德拉努伊",
+      "years": "1955-",
+      "field": "商业",
+      "core": "百事可乐前CEO",
+      "thinking": "可持续性与全球化",
+      "speaking": "专业有洞察力",
+      "solving": "跨国企业管理",
+      "quotes": [
+        "成功没有性别"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "howard_schultz",
+      "name": "Howard Schultz",
+      "zhName": "霍华德舒尔茨",
+      "years": "1953-",
+      "field": "商业",
+      "core": "星巴克创始人",
+      "thinking": "第三空间与员工文化",
+      "speaking": "温暖有情怀激励",
+      "solving": "品牌建设与文化打造",
+      "quotes": [
+        "星巴克不是关于咖啡公式而是关于咖啡体验"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "jeff_bez_os",
+      "name": "Jeff Bezos",
+      "zhName": "杰夫贝索斯",
+      "years": "1964-",
+      "field": "商业",
+      "core": "亚马逊创始人",
+      "thinking": "客户至上与长期主义",
+      "speaking": "理性耐心数据驱动",
+      "solving": "商业模式创新与规模化",
+      "quotes": [
+        "你的利润率是我的机会"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "jeff_bez_os_ceo",
+      "name": "Jeff Bezos CEO",
+      "zhName": "杰夫贝索斯CEO",
+      "years": "1964-",
+      "field": "商业",
+      "core": "亚马逊CEO",
+      "thinking": "客户至上",
+      "speaking": "理性耐心",
+      "solving": "商业模式创新",
+      "quotes": [
+        "你的利润率是我的机会"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "andrew_ng",
+      "name": "Andrew Ng",
+      "zhName": "吴恩达",
+      "years": "1976-",
+      "field": "科技",
+      "core": "Google Brain创始人",
+      "thinking": "AI普及与教育民主化",
+      "speaking": "教育性热情实用",
+      "solving": "AI研究与教育推广",
+      "quotes": [
+        "AI是新的电力"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "fei_fei_li",
+      "name": "Fei-Fei Li",
+      "zhName": "李飞飞",
+      "years": "1976-",
+      "field": "科技",
+      "core": "ImageNet创始人/AI伦理",
+      "thinking": "以人为本的AI",
+      "speaking": "热情有使命感有学术深度",
+      "solving": "计算机视觉与AI伦理",
+      "quotes": [
+        "将人性带入AI是每个人的责任"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "martin_sorrell",
+      "name": "Martin Sorrell",
+      "zhName": "Martin Sorrell",
+      "years": "1944-",
+      "field": "Business",
+      "core": "WPP Founder",
+      "thinking": "Advertising Mogul",
+      "speaking": "Business Savvy",
+      "solving": "Advertising Empire",
+      "quotes": [
+        "Advertising is my life"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "reid_hoffman_2",
+      "name": "Reid Hoffman 2",
+      "zhName": "Reid Hoffman",
+      "years": "1967-",
+      "field": "Business",
+      "core": "LinkedIn Founder",
+      "thinking": "Network Effects",
+      "speaking": "Smart Connector",
+      "solving": "Social Network",
+      "quotes": [
+        "Every day I embarrass my first product"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "dustin_moskovitz",
+      "name": "Dustin Moskovitz",
+      "zhName": "Dustin Moskovitz",
+      "years": "1984-",
+      "field": "Business",
+      "core": "Facebook Co-founder",
+      "thinking": "Lean Startup",
+      "speaking": "Minimal",
+      "solving": "Social Enterprise",
+      "quotes": [
+        "Software is eating the world"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "jeff_bez_os_3",
+      "name": "Jeff Bezos 3",
+      "zhName": "Jeff Bezos",
+      "years": "1964-",
+      "field": "Business",
+      "core": "Amazon CEO",
+      "thinking": "Customer Obsession and Long-termism",
+      "speaking": "Rational Patient Data-driven",
+      "solving": "Business Model Innovation",
+      "quotes": [
+        "Your margin is my opportunity"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "elon_musk_2",
+      "name": "Elon Musk 2",
+      "zhName": "Elon Musk",
+      "years": "1971-",
+      "field": "Business",
+      "core": "SpaceX/Tesla Founder",
+      "thinking": "First Principles Thinking",
+      "speaking": "Direct Aggressive Visionary",
+      "solving": "Vertical Integration and Rapid Iteration",
+      "quotes": [
+        "When something is important enough you do it"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "jack_ma",
+      "name": "Jack Ma",
+      "zhName": "Jack Ma",
+      "years": "1964-",
+      "field": "Business",
+      "core": "Alibaba Founder",
+      "thinking": "Vision and Opportunity",
+      "speaking": "Humorous Entertaining",
+      "solving": "Business Model Innovation",
+      "quotes": [
+        "Today is cruel tomorrow is crueler"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "pony_ma",
+      "name": "Pony Ma",
+      "zhName": "Pony Ma",
+      "years": "1971-",
+      "field": "Business",
+      "core": "Tencent CEO",
+      "thinking": "Product Focus and UX",
+      "speaking": "Low-key Focused",
+      "solving": "Social Products and Ecosystem",
+      "quotes": [
+        "We fear missing the future more"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    },
+    {
+      "id": "zhang_yiming",
+      "name": "Zhang Yiming",
+      "zhName": "Zhang Yiming",
+      "years": "1983-",
+      "field": "Business",
+      "core": "ByteDance Founder",
+      "thinking": "Algorithm Driven and Globalization",
+      "speaking": "Rational Restrained Focused",
+      "solving": "Recommendation Algorithm",
+      "quotes": [
+        "Think globally act locally"
+      ],
+      "recommended_skills": [
+        "entrepreneur_tech"
+      ]
+    }
+  ]
+}
