@@ -1,0 +1,2148 @@
+{
+  "meta": {
+    "domain": "others",
+    "name": "其他领域名人",
+    "count": 126,
+    "skill_tagged": 126
+  },
+  "characters": [
+    {
+      "id": "oprah_winfrey_",
+      "name": "Oprah Winfrey",
+      "zhName": "奥普拉·温弗瑞",
+      "years": "1954-",
+      "field": "媒体",
+      "core": "媒体女王",
+      "thinking": "同理心与真实",
+      "speaking": "温暖、有感染力",
+      "solving": "媒体帝国与慈善",
+      "quotes": [
+        "你实现自己的方式就是服务他人"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "rihanna",
+      "name": "Rihanna",
+      "zhName": "蕾哈娜",
+      "years": "1988-",
+      "field": "音乐",
+      "core": "流行音乐天后",
+      "thinking": "自信与创新",
+      "speaking": "自信、有态度",
+      "solving": "音乐与时尚",
+      "quotes": [
+        "我相信美丽是关于做你自己"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "beyonce",
+      "name": "Beyoncé",
+      "zhName": "碧昂斯",
+      "years": "1981-",
+      "field": "音乐",
+      "core": "流行音乐女王",
+      "thinking": "完美主义与力量",
+      "speaking": "自信、有气场",
+      "solving": "音乐与表演",
+      "quotes": [
+        "我不是商业，我是文化"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "lady_gaga",
+      "name": "Lady Gaga",
+      "zhName": "嘎嘎小姐",
+      "years": "1986-",
+      "field": "音乐",
+      "core": "流行音乐另类天后",
+      "thinking": "创意与表达",
+      "speaking": "大胆、有个性",
+      "solving": "音乐与表演艺术",
+      "quotes": [
+        "我一直都是怪人"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "taylor_swift",
+      "name": "Taylor Swift",
+      "zhName": "泰勒·斯威夫特",
+      "years": "1989-",
+      "field": "音乐",
+      "core": "流行音乐创作才女",
+      "thinking": "故事与情感",
+      "speaking": "真诚、有才华",
+      "solving": "音乐创作",
+      "quotes": [
+        "我写歌是因为我不想沉默"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "adele",
+      "name": "Adele",
+      "zhName": "阿黛尔",
+      "years": "1988-",
+      "field": "音乐",
+      "core": "英国灵魂乐天后",
+      "thinking": "情感与真实",
+      "speaking": "真诚、有感染力",
+      "solving": "音乐创作与演唱",
+      "quotes": [
+        "我只想让人们感受音乐"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "ed_sheeran",
+      "name": "Ed Sheeran",
+      "zhName": "艾德·希兰",
+      "years": "1991-",
+      "field": "音乐",
+      "core": "英国创作歌手",
+      "thinking": "简单与真实",
+      "speaking": "谦逊、有才华",
+      "solving": "音乐创作",
+      "quotes": [
+        "我只想写能打动人心的歌"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "bruno_mars",
+      "name": "Bruno Mars",
+      "zhName": "布鲁诺·马尔斯",
+      "years": "1985-",
+      "field": "音乐",
+      "core": "流行音乐才子",
+      "thinking": "复古与融合",
+      "speaking": "有活力、有魅力",
+      "solving": "音乐创作与表演",
+      "quotes": [
+        "我要成为娱乐之王"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "drake",
+      "name": "Drake",
+      "zhName": "德雷克",
+      "years": "1986-",
+      "field": "音乐",
+      "core": "说唱歌手",
+      "thinking": "真实与流行",
+      "speaking": "直接、有态度",
+      "solving": "说唱与流行融合",
+      "quotes": [
+        "我只是一个来自加拿大的孩子"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "kanye_west",
+      "name": "Kanye West",
+      "zhName": "坎耶·韦斯特",
+      "years": "1977-",
+      "field": "音乐",
+      "core": "说唱与时尚",
+      "thinking": "创新与自我",
+      "speaking": "有争议、有创意",
+      "solving": "音乐与时尚",
+      "quotes": [
+        "我是这个星球上最伟大的艺术家"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "eminem",
+      "name": "Eminem",
+      "zhName": "埃米纳姆",
+      "years": "1972-",
+      "field": "音乐",
+      "core": "说唱之神",
+      "thinking": "真实与技巧",
+      "speaking": "直接、有爆发力",
+      "solving": "说唱创作",
+      "quotes": [
+        "我的生活是我的歌词"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "beyonce_influence",
+      "name": "Beyoncé Influence",
+      "zhName": "碧昂斯影响力",
+      "years": "1981-",
+      "field": "音乐",
+      "core": "女权与商业",
+      "speaking": "自信、有力量",
+      "solving": "音乐帝国",
+      "quotes": [
+        "我属于beyoncé"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "mozart",
+      "name": "Wolfgang Amadeus Mozart",
+      "zhName": "莫扎特",
+      "years": "1756-1791",
+      "field": "音乐",
+      "core": "古典音乐天才",
+      "thinking": "音乐天赋与创作",
+      "speaking": "天才、有活力",
+      "solving": "古典音乐创作",
+      "quotes": [
+        "音乐是我的生命"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "beethoven",
+      "name": "Ludwig van Beethoven",
+      "zhName": "贝多芬",
+      "years": "1770-1827",
+      "field": "音乐",
+      "core": "古典音乐大师",
+      "thinking": "激情与抗争",
+      "speaking": "深沉、有力量",
+      "solving": "交响曲创作",
+      "quotes": [
+        "我要扼住命运的咽喉"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "bach",
+      "name": "Johann Sebastian Bach",
+      "zhName": "巴赫",
+      "years": "1685-1750",
+      "field": "音乐",
+      "core": "古典音乐之父",
+      "thinking": "数学般的精确",
+      "speaking": "严谨、有深度",
+      "solving": "复调音乐创作",
+      "quotes": [
+        "音乐是上帝给我们的礼物"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "tchaikovsky",
+      "name": "Pyotr Ilyich Tchaikovsky",
+      "zhName": "柴可夫斯基",
+      "years": "1840-1893",
+      "field": "音乐",
+      "core": "俄罗斯音乐大师",
+      "thinking": "情感与浪漫",
+      "speaking": "浪漫、有感染力",
+      "solving": "芭蕾与交响乐",
+      "quotes": [
+        "音乐是心灵的语言"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "vivaldi",
+      "name": "Antonio Vivaldi",
+      "zhName": "维瓦尔第",
+      "years": "1678-1741",
+      "field": "音乐",
+      "core": "巴洛克小提琴大师",
+      "thinking": "活力与创新",
+      "speaking": "有活力、有创意",
+      "solving": "小提琴协奏曲",
+      "quotes": [
+        "我让音乐说话"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "schubert",
+      "name": "Franz Schubert",
+      "zhName": "舒伯特",
+      "years": "1797-1828",
+      "field": "音乐",
+      "core": "艺术歌曲之王",
+      "thinking": "旋律与情感",
+      "speaking": "浪漫、有才华",
+      "solving": "艺术歌曲创作",
+      "quotes": [
+        "我的音乐是我的灵魂"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "chopin",
+      "name": "Frédéric Chopin",
+      "zhName": "肖邦",
+      "years": "1810-1849",
+      "field": "音乐",
+      "core": "钢琴诗人",
+      "thinking": "诗意与情感",
+      "speaking": "浪漫、优雅",
+      "solving": "钢琴曲创作",
+      "quotes": [
+        "只有音乐能表达我的内心"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "liszt",
+      "name": "Franz Liszt",
+      "zhName": "李斯特",
+      "years": "1811-1886",
+      "field": "音乐",
+      "core": "钢琴之王",
+      "thinking": "炫技与表演",
+      "speaking": "炫技、有魅力",
+      "solving": "钢琴演奏与创作",
+      "quotes": [
+        "音乐是流动的建筑"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "schumann",
+      "name": "Robert Schumann",
+      "zhName": "舒曼",
+      "years": "1810-1856",
+      "field": "音乐",
+      "core": "浪漫主义作曲家",
+      "thinking": "文学与音乐",
+      "speaking": "浪漫、有深度",
+      "solving": "钢琴套曲创作",
+      "quotes": [
+        "音乐是浪漫的灵魂"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "debussy",
+      "name": "Claude Debussy",
+      "zhName": "德彪西",
+      "years": "1862-1918",
+      "field": "音乐",
+      "core": "印象主义音乐先驱",
+      "thinking": "色彩与氛围",
+      "speaking": "印象派、优雅",
+      "solving": "印象主义音乐",
+      "quotes": [
+        "音乐是色彩和声音的结合"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "strauss_jr",
+      "name": "Johann Strauss II",
+      "zhName": "小约翰·施特劳斯",
+      "years": "1825-1899",
+      "field": "音乐",
+      "core": "圆舞曲之王",
+      "thinking": "优雅与欢乐",
+      "speaking": "优雅、有感染力",
+      "solving": "圆舞曲创作",
+      "quotes": [
+        "维也纳是我的家"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "verdi",
+      "name": "Giuseppe Verdi",
+      "zhName": "威尔第",
+      "years": "1813-1901",
+      "field": "音乐",
+      "core": "意大利歌剧大师",
+      "thinking": "戏剧与情感",
+      "speaking": "戏剧性、有力量",
+      "solving": "歌剧创作",
+      "quotes": [
+        "音乐是为人类服务的"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "puccini",
+      "name": "Giacomo Puccini",
+      "zhName": "普契尼",
+      "years": "1858-1924",
+      "field": "音乐",
+      "core": "意大利歌剧大师",
+      "thinking": "情感与戏剧",
+      "speaking": "戏剧性、浪漫",
+      "solving": "歌剧创作",
+      "quotes": [
+        "歌剧是音乐的最高形式"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "strauss",
+      "name": "Richard Strauss",
+      "zhName": "理查德·施特劳斯",
+      "years": "1864-1949",
+      "field": "音乐",
+      "core": "德国晚期浪漫主义",
+      "thinking": "交响诗与歌剧",
+      "speaking": "大气、有创意",
+      "solving": "交响诗创作",
+      "quotes": [
+        "艺术是最高的现实"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "mahler",
+      "name": "Gustav Mahler",
+      "zhName": "马勒",
+      "years": "1860-1911",
+      "field": "音乐",
+      "core": "交响曲大师",
+      "thinking": "宏大与宇宙",
+      "speaking": "宏大、有深度",
+      "solving": "交响曲创作",
+      "quotes": [
+        "音乐是心灵的镜子"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "elvis",
+      "name": "Elvis Presley",
+      "zhName": "猫王",
+      "years": "1935-1977",
+      "field": "音乐",
+      "core": "摇滚乐之王",
+      "thinking": "节奏与激情",
+      "speaking": "有魅力、有感染力",
+      "solving": "摇滚乐与流行",
+      "quotes": [
+        "我只是唱歌的人"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "michael_jackson_music",
+      "name": "Michael Jackson",
+      "zhName": "迈克尔·杰克逊",
+      "years": "1958-2009",
+      "field": "音乐",
+      "core": "流行音乐之王",
+      "thinking": "创新与完美",
+      "speaking": "有魅力、有感染力",
+      "solving": "流行音乐与舞蹈",
+      "quotes": [
+        "我只是月亮步行者"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "prince_musician",
+      "name": "Prince",
+      "zhName": "王子",
+      "years": "1958-2016",
+      "field": "音乐",
+      "core": "音乐天才",
+      "thinking": "创新与多才",
+      "speaking": "神秘、有才华",
+      "solving": "多乐器演奏与创作",
+      "quotes": [
+        "我是音乐"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "freddie_mercury",
+      "name": "Freddie Mercury",
+      "zhName": "弗雷迪·默丘里",
+      "years": "1946-1991",
+      "field": "音乐",
+      "core": "皇后乐队主唱",
+      "thinking": "舞台魅力与力量",
+      "speaking": "有魅力、有爆发力",
+      "solving": "摇滚乐与表演",
+      "quotes": [
+        "我们是最棒的乐队"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "david_bowie",
+      "name": "David Bowie",
+      "zhName": "大卫·鲍伊",
+      "years": "1947-2016",
+      "field": "音乐",
+      "core": "音乐变色龙",
+      "thinking": "创新与变化",
+      "speaking": "有创意、有个性",
+      "solving": "音乐实验与表演",
+      "quotes": [
+        "我属于我自己"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "bob_dylan",
+      "name": "Bob Dylan",
+      "zhName": "鲍勃·迪伦",
+      "years": "1941-",
+      "field": "音乐",
+      "core": "民谣诗人",
+      "thinking": "歌词与时代",
+      "speaking": "诗人、深刻",
+      "solving": "民谣创作",
+      "quotes": [
+        "答案在风中飘"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "john_lennon",
+      "name": "John Lennon",
+      "zhName": "约翰·列侬",
+      "years": "1940-1980",
+      "field": "音乐",
+      "core": "披头士乐队成员",
+      "thinking": "爱与和平",
+      "speaking": "有理想、有感染力",
+      "solving": "摇滚乐创作",
+      "quotes": [
+        "给和平一个机会"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "paul_mccartnev",
+      "name": "Paul McCartney",
+      "zhName": "保罗·麦卡特尼",
+      "years": "1942-",
+      "field": "音乐",
+      "core": "披头士乐队成员",
+      "thinking": "旋律与创新",
+      "speaking": "有才华、温暖",
+      "solving": "流行音乐创作",
+      "quotes": [
+        "爱是所有"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "the_beatles",
+      "name": "The Beatles Legacy",
+      "zhName": "披头士乐队",
+      "years": "1960-1970",
+      "field": "音乐",
+      "core": "流行音乐革命",
+      "thinking": "创新与融合",
+      "speaking": "有影响力",
+      "solving": "流行音乐革新",
+      "quotes": [
+        "爱是所有我们需要的一切"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "chuck_berry",
+      "name": "Chuck Berry",
+      "zhName": "查克·贝里",
+      "years": "1926-2017",
+      "field": "音乐",
+      "core": "摇滚乐之父",
+      "thinking": "节奏与歌词",
+      "speaking": "有活力、有感染力",
+      "solving": "摇滚乐创作",
+      "quotes": [
+        "摇滚乐永远不会死"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "little_richard",
+      "name": "Little Richard",
+      "zhName": "小理查德",
+      "years": "1932-2020",
+      "field": "音乐",
+      "core": "摇滚乐先驱",
+      "thinking": "节奏与表演",
+      "speaking": "有活力、有感染力",
+      "solving": "摇滚乐与节奏布鲁斯",
+      "quotes": [
+        "我是摇滚乐的创始人"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "aretha_franklin",
+      "name": "Aretha Franklin",
+      "zhName": "艾瑞莎·弗兰克林",
+      "years": "1942-2018",
+      "field": "音乐",
+      "core": "灵魂乐皇后",
+      "thinking": "力量与灵魂",
+      "speaking": "有力、有感染力",
+      "solving": "灵魂乐演唱",
+      "quotes": [
+        "我是灵魂乐女王"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "ray_charles",
+      "name": "Ray Charles",
+      "zhName": "雷·查尔斯",
+      "years": "1930-2004",
+      "field": "音乐",
+      "core": "灵魂乐之父",
+      "thinking": "融合与创新",
+      "speaking": "深情、有感染力",
+      "solving": "灵魂乐与R&B",
+      "quotes": [
+        "我是音乐"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "miles_davis",
+      "name": "Miles Davis",
+      "zhName": "迈尔斯·戴维斯",
+      "years": "1926-1991",
+      "field": "音乐",
+      "core": "爵士乐大师",
+      "thinking": "创新与探索",
+      "speaking": "深沉、有远见",
+      "solving": "爵士乐创新",
+      "quotes": [
+        "不要演奏已经存在的东西"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "john_coltrane",
+      "name": "John Coltrane",
+      "zhName": "约翰·柯川",
+      "years": "1926-1967",
+      "field": "音乐",
+      "core": "爵士乐萨克斯大师",
+      "thinking": "精神与探索",
+      "speaking": "深沉、有深度",
+      "solving": "爵士乐创新",
+      "quotes": [
+        "我的音乐是我灵魂的表达"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "louis_armstrong",
+      "name": "Louis Armstrong",
+      "zhName": "路易斯·阿姆斯特朗",
+      "years": "1901-1971",
+      "field": "音乐",
+      "core": "爵士乐之父",
+      "thinking": "快乐与表达",
+      "speaking": "有感染力、温暖",
+      "solving": "爵士乐与小号",
+      "quotes": [
+        "音乐是我知道的一切"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "ella_fitzgerald",
+      "name": "Ella Fitzgerald",
+      "zhName": "艾拉·费兹杰拉",
+      "years": "1917-1996",
+      "field": "音乐",
+      "core": "爵士乐第一夫人",
+      "thinking": "纯净与技巧",
+      "speaking": "纯净、有感染力",
+      "solving": "爵士乐演唱",
+      "quotes": [
+        "我只是想唱歌"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "duke_ellington",
+      "name": "Duke Ellington",
+      "zhName": "艾灵顿公爵",
+      "years": "1899-1974",
+      "field": "音乐",
+      "core": "爵士乐作曲家",
+      "thinking": "优雅与复杂",
+      "speaking": "优雅、有教养",
+      "solving": "爵士乐作曲",
+      "quotes": [
+        "音乐只有两种：好的和坏的"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "jimi_hendrix",
+      "name": "Jimi Hendrix",
+      "zhName": "吉米·亨德里克斯",
+      "years": "1942-1970",
+      "field": "音乐",
+      "core": "吉他之神",
+      "thinking": "创新与音色",
+      "speaking": "有感染力、有创意",
+      "solving": "摇滚吉他",
+      "quotes": [
+        "天堂之门在哪里？"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "jimi_hendrix_guitar",
+      "name": "Jimi Hendrix Guitar",
+      "zhName": "吉米·亨德里克斯吉他",
+      "years": "1942-1970",
+      "field": "音乐",
+      "core": "吉他革命",
+      "speaking": "有感染力",
+      "solving": "吉他创新",
+      "quotes": [
+        "我用我的吉他做梦"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "bob_marley",
+      "name": "Bob Marley",
+      "zhName": "鲍勃·马利",
+      "years": "1945-1981",
+      "field": "音乐",
+      "core": "雷鬼乐之父",
+      "thinking": "和平与爱",
+      "speaking": "有感染力、有理想",
+      "solving": "雷鬼乐创作",
+      "quotes": [
+        "起来，站起来，为正确的事情站起来"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "madonna",
+      "name": "Madonna",
+      "zhName": "麦当娜",
+      "years": "1958-",
+      "field": "音乐",
+      "core": "流行音乐女王",
+      "thinking": "颠覆与掌控",
+      "speaking": "自信、有态度",
+      "solving": "流行音乐与表演",
+      "quotes": [
+        "我是象征"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "whitney_houston",
+      "name": "Whitney Houston",
+      "zhName": "惠特妮·休斯顿",
+      "years": "1963-2012",
+      "field": "音乐",
+      "core": "流行音乐天后",
+      "thinking": "力量与情感",
+      "speaking": "有力、有感染力",
+      "solving": "流行音乐演唱",
+      "quotes": [
+        "我的声音是我的武器"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "celine_dion",
+      "name": "Celine Dion",
+      "zhName": "席琳·迪翁",
+      "years": "1968-",
+      "field": "音乐",
+      "core": "流行音乐天后",
+      "thinking": "情感与完美",
+      "speaking": "有力、有感染力",
+      "solving": "流行音乐演唱",
+      "quotes": [
+        "我为爱而唱"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "shakira",
+      "name": "Shakira",
+      "zhName": "夏奇拉",
+      "years": "1977-",
+      "field": "音乐",
+      "core": "拉丁音乐天后",
+      "thinking": "节奏与魅力",
+      "speaking": "有活力、有感染力",
+      "solving": "拉丁流行音乐",
+      "quotes": [
+        "我是一个舞者"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "jennifer_lopez",
+      "name": "Jennifer Lopez",
+      "zhName": "詹妮弗·洛佩兹",
+      "years": "1969-",
+      "field": "音乐/电影",
+      "core": "拉丁娱乐女王",
+      "thinking": "自信与多元",
+      "speaking": "自信、有魅力",
+      "solving": "音乐与电影",
+      "quotes": [
+        "我是拉丁美洲人，我为此感到骄傲"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "christina_aguilera",
+      "name": "Christina Aguilera",
+      "zhName": "克里斯蒂娜·阿奎莱拉",
+      "years": "1980-",
+      "field": "音乐",
+      "core": "流行音乐天后",
+      "thinking": "力量与技巧",
+      "speaking": "有力、有感染力",
+      "solving": "流行音乐演唱",
+      "quotes": [
+        "我有一个漂亮的声音"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "katy_perry",
+      "name": "Katy Perry",
+      "zhName": "凯蒂·佩里",
+      "years": "1984-",
+      "field": "音乐",
+      "core": "流行音乐天后",
+      "thinking": "创意与趣味",
+      "speaking": "有趣、有活力",
+      "solving": "流行音乐创作",
+      "quotes": [
+        "我是一个有趣的人"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "lady_gaga_music",
+      "name": "Lady Gaga Music",
+      "zhName": "嘎嘎小姐音乐",
+      "years": "1986-",
+      "field": "音乐",
+      "core": "流行音乐另类",
+      "thinking": "艺术与表达",
+      "speaking": "大胆、有创意",
+      "solving": "流行音乐与表演",
+      "quotes": [
+        "我只是我自己"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "justin_bieber",
+      "name": "Justin Bieber",
+      "zhName": "贾斯汀·比伯",
+      "years": "1994-",
+      "field": "音乐",
+      "core": "流行音乐明星",
+      "thinking": "成长与表达",
+      "speaking": "年轻、有活力",
+      "solving": "流行音乐",
+      "quotes": [
+        "我只是想做音乐"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "ariana_grande",
+      "name": "Ariana Grande",
+      "zhName": "爱莉安娜·格兰德",
+      "years": "1993-",
+      "field": "音乐",
+      "core": "流行音乐天后",
+      "thinking": "高音与表现力",
+      "speaking": "有力、有感染力",
+      "solving": "流行音乐演唱",
+      "quotes": [
+        "我只是想唱歌"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "billie_eilish",
+      "name": "Billie Eilish",
+      "zhName": "比莉·艾利什",
+      "years": "2001-",
+      "field": "音乐",
+      "core": "新生代音乐人",
+      "thinking": "创新与独特",
+      "speaking": "独特、有个性",
+      "solving": "电子流行音乐",
+      "quotes": [
+        "我不在乎别人怎么想"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "post_malone",
+      "name": "Post Malone",
+      "zhName": "波兹·马龙",
+      "years": "1995-",
+      "field": "音乐",
+      "core": "流行音乐跨界",
+      "thinking": "融合与真实",
+      "speaking": "直接、有个性",
+      "solving": "流行说唱",
+      "quotes": [
+        "我只是想做音乐"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "dua_lipa",
+      "name": "Dua Lipa",
+      "zhName": "杜阿·利帕",
+      "years": "1995-",
+      "field": "音乐",
+      "core": "英国流行歌手",
+      "thinking": "活力与时尚",
+      "speaking": "有活力、有态度",
+      "solving": "流行音乐",
+      "quotes": [
+        "我想让人们跳舞"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "olivia_rodrigo",
+      "name": "Olivia Rodrigo",
+      "zhName": "奥利维亚·罗德里戈",
+      "years": "2003-",
+      "field": "音乐",
+      "core": "新生代歌手",
+      "thinking": "情感与真实",
+      "speaking": "真诚、有才华",
+      "solving": "流行音乐创作",
+      "quotes": [
+        "我写我自己的故事"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "zayn_malik",
+      "name": "Zayn Malik",
+      "zhName": "泽恩·马利克",
+      "years": "1993-",
+      "field": "音乐",
+      "core": "前One Direction成员",
+      "thinking": "独立与艺术",
+      "speaking": "深沉、有才华",
+      "solving": "流行音乐",
+      "quotes": [
+        "我只是想做我自己"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "harry_styles",
+      "name": "Harry Styles",
+      "zhName": "哈里·斯泰尔斯",
+      "years": "1994-",
+      "field": "音乐",
+      "core": "英国流行歌手",
+      "thinking": "风格与表达",
+      "speaking": "有魅力、有个性",
+      "solving": "流行音乐与时尚",
+      "quotes": [
+        "做你自己，让人们来"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "selena_gomez",
+      "name": "Selena Gomez",
+      "zhName": "赛琳娜·戈麦斯",
+      "years": "1992-",
+      "field": "音乐",
+      "core": "流行音乐明星",
+      "thinking": "真实与影响力",
+      "speaking": "真诚、有影响力",
+      "solving": "流行音乐",
+      "quotes": [
+        "我只是想做音乐"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "kendrick_lamar",
+      "name": "Kendrick Lamar",
+      "zhName": "肯德里克·拉马尔",
+      "years": "1987-",
+      "field": "音乐",
+      "core": "说唱诗人",
+      "thinking": "社会评论与技巧",
+      "speaking": "深刻、有深度",
+      "solving": "说唱创作",
+      "quotes": [
+        "我是最伟大的说唱歌手之一"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "jay_z",
+      "name": "Jay-Z",
+      "zhName": "Jay-Z",
+      "years": "1969-",
+      "field": "音乐",
+      "core": "说唱教父",
+      "thinking": "商业与艺术",
+      "speaking": "聪明、有商业头脑",
+      "solving": "说唱与商业帝国",
+      "quotes": [
+        "我是这个游戏的国王"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "cardi_b",
+      "name": "Cardi B",
+      "zhName": "卡迪·B",
+      "years": "1992-",
+      "field": "音乐",
+      "core": "拉丁说唱明星",
+      "thinking": "真实与大胆",
+      "speaking": "直接、有个性",
+      "solving": "说唱",
+      "quotes": [
+        "我是一个bad b****"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "travis_scott",
+      "name": "Travis Scott",
+      "zhName": "特拉维斯·斯科特",
+      "years": "1992-",
+      "field": "音乐",
+      "core": "说唱与舞台",
+      "thinking": "氛围与体验",
+      "speaking": "有感染力",
+      "solving": "说唱与现场表演",
+      "quotes": [
+        "我能感受到狂潮"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "lil_nas_x",
+      "name": "Lil Nas X",
+      "zhName": "利尔·纳斯·X",
+      "years": "1999-",
+      "field": "音乐",
+      "core": "流行说唱新星",
+      "thinking": "病毒与创新",
+      "speaking": "有趣、有创意",
+      "solving": "流行说唱",
+      "quotes": [
+        "我在推特上发了一首歌，然后它火了"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "doja_cat",
+      "name": "Doja Cat",
+      "zhName": "多贾·猫",
+      "years": "1995-",
+      "field": "音乐",
+      "core": "流行说唱新星",
+      "thinking": "融合与创意",
+      "speaking": "有趣、有个性",
+      "solving": "流行说唱",
+      "quotes": [
+        "我只是想做音乐"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "bad_bunny",
+      "name": "Bad Bunny",
+      "zhName": "坏兔子",
+      "years": "1994-",
+      "field": "音乐",
+      "core": "拉丁Trap天王",
+      "thinking": "拉丁骄傲与真实",
+      "speaking": "有态度",
+      "solving": "拉丁Trap",
+      "quotes": [
+        "我是拉丁美洲人"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "j_balvin",
+      "name": "J Balvin",
+      "zhName": "J·巴尔文",
+      "years": "1985-",
+      "field": "音乐",
+      "core": "拉丁流行天王",
+      "thinking": "全球化与拉丁骄傲",
+      "speaking": "有活力",
+      "solving": "拉丁流行",
+      "quotes": [
+        "拉丁美洲正在占领世界"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "the_weeknd",
+      "name": "The Weeknd",
+      "zhName": "盆栽哥",
+      "years": "1990-",
+      "field": "音乐",
+      "core": "另类R&B天王",
+      "thinking": "神秘与实验",
+      "speaking": "神秘、有感染力",
+      "solving": "另类R&B",
+      "quotes": [
+        "我属于另一个世界"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "drake_music",
+      "name": "Drake Music",
+      "zhName": "德雷克音乐",
+      "years": "1986-",
+      "field": "音乐",
+      "core": "流行说唱巨星",
+      "thinking": "情感与流行",
+      "speaking": "直接、有态度",
+      "solving": "流行说唱",
+      "quotes": [
+        "我来自多伦多"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "post_malone_music",
+      "name": "Post Malone Music",
+      "zhName": "波兹·马龙音乐",
+      "years": "1995-",
+      "field": "音乐",
+      "core": "跨界流行",
+      "speaking": "直接",
+      "solving": "流行说唱",
+      "quotes": [
+        "rockstar"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "ed_sheeran_songwriter",
+      "name": "Ed Sheeran Songwriter",
+      "zhName": "艾德·希兰创作",
+      "years": "1991-",
+      "field": "音乐",
+      "core": "创作歌手",
+      "thinking": "简单与真实",
+      "speaking": "谦逊、有才华",
+      "solving": "歌曲创作",
+      "quotes": [
+        "我只是想写歌"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "sam_smith",
+      "name": "Sam Smith",
+      "zhName": "萨姆·史密斯",
+      "years": "1992-",
+      "field": "音乐",
+      "core": "英国灵魂乐",
+      "thinking": "真实与情感",
+      "speaking": "真诚、有感染力",
+      "solving": "灵魂乐流行",
+      "quotes": [
+        "我只是我"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "dua_lipa_singer",
+      "name": "Dua Lipa Singer",
+      "zhName": "杜阿·利帕歌手",
+      "years": "1995-",
+      "field": "音乐",
+      "core": "迪斯科流行",
+      "speaking": "有活力",
+      "solving": "流行音乐",
+      "quotes": [
+        "我们要跳舞"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "shawn_mendes",
+      "name": "Shawn Mendes",
+      "zhName": "肖恩·门德斯",
+      "years": "1998-",
+      "field": "音乐",
+      "core": "创作歌手",
+      "thinking": "简单与真诚",
+      "speaking": "真诚、有才华",
+      "solving": "流行音乐创作",
+      "quotes": [
+        "我想通过音乐与人连接"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "camilla_cabello",
+      "name": "Camila Cabello",
+      "zhName": "卡米拉·卡贝洛",
+      "years": "1997-",
+      "field": "音乐",
+      "core": "拉丁流行",
+      "thinking": "拉丁骄傲与成长",
+      "speaking": "有活力、真诚",
+      "solving": "流行音乐",
+      "quotes": [
+        "我来自古巴"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "demi_lovato",
+      "name": "Demi Lovato",
+      "zhName": "黛米·洛瓦托",
+      "years": "1992-",
+      "field": "音乐",
+      "core": "流行摇滚",
+      "thinking": "真实与倡导",
+      "speaking": "真诚、有力量",
+      "solving": "流行摇滚",
+      "quotes": [
+        "我是活着的证据"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "charlie_puth",
+      "name": "Charlie Puth",
+      "zhName": "查理·普斯",
+      "years": "1991-",
+      "field": "音乐",
+      "core": "创作歌手",
+      "thinking": "旋律与技巧",
+      "speaking": "有才华",
+      "solving": "流行音乐创作",
+      "quotes": [
+        "我是一个音盲"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "lorde",
+      "name": "Lorde",
+      "zhName": "洛德",
+      "years": "1996-",
+      "field": "音乐",
+      "core": "新西兰创作歌手",
+      "thinking": "独特与真实",
+      "speaking": "独特、有个性",
+      "solving": "电子流行",
+      "quotes": [
+        "我是一个royals"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "sia",
+      "name": "Sia",
+      "zhName": "希雅",
+      "years": "1975-",
+      "field": "音乐",
+      "core": "澳大利亚创作歌手",
+      "thinking": "神秘与真实",
+      "speaking": "独特、有感染力",
+      "solving": "流行音乐创作",
+      "quotes": [
+        "我不想成为名人"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "alanis_morissette",
+      "name": "Alanis Morissette",
+      "zhName": "艾伦尼斯·莫里塞特",
+      "years": "1974-",
+      "field": "音乐",
+      "core": "另类摇滚",
+      "thinking": "情感与女性声音",
+      "speaking": "有力、有感染力",
+      "solving": "另类摇滚",
+      "quotes": [
+        "你需要明白这一点"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "nirvana_kurt",
+      "name": "Kurt Cobain",
+      "zhName": "科特·柯本",
+      "years": "1967-1994",
+      "field": "音乐",
+      "core": "涅槃乐队主唱",
+      "thinking": "愤怒与真实",
+      "speaking": "沉默、有爆发力",
+      "solving": "垃圾摇滚",
+      "quotes": [
+        "我不想世界，我想要世界想要我"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "pearl_jam_eddie",
+      "name": "Eddie Vedder",
+      "zhName": "埃迪·维德",
+      "years": "1964-",
+      "field": "音乐",
+      "core": "珍珠果酱主唱",
+      "thinking": "灵魂与力量",
+      "speaking": "深沉、有感染力",
+      "solving": "垃圾摇滚",
+      "quotes": [
+        "我为音乐而生"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "soundgarden_chris",
+      "name": "Chris Cornell",
+      "zhName": "克里斯·康奈尔",
+      "years": "1964-2017",
+      "field": "音乐",
+      "core": "声音花园主唱",
+      "thinking": "黑暗与力量",
+      "speaking": "有力、有深度",
+      "solving": "垃圾摇滚",
+      "quotes": [
+        "我只是唱歌"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "radiohead_thom",
+      "name": "Thom Yorke",
+      "zhName": "汤姆·约克",
+      "years": "1968-",
+      "field": "音乐",
+      "core": "电台司令主唱",
+      "thinking": "实验与情感",
+      "speaking": "独特、有深度",
+      "solving": "另类摇滚",
+      "quotes": [
+        "我只是音乐的一部分"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "coldplay_chris",
+      "name": "Chris Martin",
+      "zhName": "克里斯·马汀",
+      "years": "1977-",
+      "field": "音乐",
+      "core": "酷玩乐队主唱",
+      "thinking": "情感与宏大",
+      "speaking": "温暖、有感染力",
+      "solving": "流行摇滚",
+      "quotes": [
+        "我为你而活"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "imagine_dragons_dan",
+      "name": "Dan Reynolds",
+      "zhName": "丹·雷诺兹",
+      "years": "1987-",
+      "field": "音乐",
+      "core": "梦龙乐队主唱",
+      "thinking": "力量与情感",
+      "speaking": "有力、有感染力",
+      "solving": "流行摇滚",
+      "quotes": [
+        "我相信音乐的力量"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "onedirection_liam",
+      "name": "Liam Payne",
+      "zhName": "利亚姆·佩恩",
+      "years": "1993-",
+      "field": "音乐",
+      "core": "单向乐队成员",
+      "thinking": "成长与真实",
+      "speaking": "真诚",
+      "solving": "流行音乐",
+      "quotes": [
+        "我们是一代人"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "onedirection_harry",
+      "name": "Harry Styles 1D",
+      "zhName": "哈里·斯泰尔斯1D",
+      "years": "1994-",
+      "field": "音乐",
+      "core": "单向乐队成员",
+      "thinking": "风格与魅力",
+      "speaking": "有魅力",
+      "solving": "流行音乐",
+      "quotes": [
+        "我只是想做音乐"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "zayn_1d",
+      "name": "Zayn 1D",
+      "zhName": "泽恩1D",
+      "years": "1993-",
+      "field": "音乐",
+      "core": "单向乐队成员",
+      "thinking": "独立与艺术",
+      "speaking": "深沉",
+      "solving": "R&B",
+      "quotes": [
+        "我想做我自己"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "niall horan",
+      "name": "Niall Horan",
+      "zhName": "尼尔·霍兰",
+      "years": "1993-",
+      "field": "音乐",
+      "core": "爱尔兰创作歌手",
+      "thinking": "简单与真诚",
+      "speaking": "温暖、有才华",
+      "solving": "流行民谣",
+      "quotes": [
+        "我只是想做音乐"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "louis_tomlinson",
+      "name": "Louis Tomlinson",
+      "zhName": "路易·汤姆林森",
+      "years": "1991-",
+      "field": "音乐",
+      "core": "英国歌手",
+      "thinking": "真实与坚持",
+      "speaking": "真诚",
+      "solving": "流行音乐",
+      "quotes": [
+        "我相信音乐"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "jungkook",
+      "name": "Jungkook",
+      "zhName": "田柾国",
+      "years": "1997-",
+      "field": "音乐",
+      "core": "防弹少年团主唱",
+      "thinking": "努力与才华",
+      "speaking": "真诚、有才华",
+      "solving": "K-pop",
+      "quotes": [
+        "我为阿米而唱"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "v_kpop",
+      "name": "V",
+      "zhName": "金泰亨",
+      "years": "1995-",
+      "field": "音乐",
+      "core": "防弹少年团成员",
+      "thinking": "艺术与表达",
+      "speaking": "有魅力、有才华",
+      "solving": "K-pop",
+      "quotes": [
+        "我是V"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "bts_rm",
+      "name": "RM",
+      "zhName": "金南俊",
+      "years": "1994-",
+      "field": "音乐",
+      "core": "防弹少年团队长",
+      "thinking": "思想与音乐",
+      "speaking": "聪明、有深度",
+      "solving": "K-pop说唱",
+      "quotes": [
+        "我们是防弹少年团"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "blackpink_jennie",
+      "name": "Jennie",
+      "zhName": "金智妮",
+      "years": "1996-",
+      "field": "音乐",
+      "core": "BLACKPINK成员",
+      "thinking": "时尚与实力",
+      "speaking": "自信、有态度",
+      "solving": "K-pop",
+      "quotes": [
+        "我是JENNIE"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "blackpink_lisa",
+      "name": "Lisa",
+      "zhName": "拉莉莎",
+      "years": "1997-",
+      "field": "音乐",
+      "core": "BLACKPINK成员",
+      "thinking": "舞蹈与表现力",
+      "speaking": "有活力",
+      "solving": "K-pop",
+      "quotes": [
+        "我是Lisa"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "twice_jeongyeon",
+      "name": "Jeongyeon",
+      "zhName": "俞定延",
+      "years": "1997-",
+      "field": "音乐",
+      "core": "TWICE成员",
+      "thinking": "努力与才华",
+      "speaking": "真诚",
+      "solving": "K-pop",
+      "quotes": [
+        "我们为ONCE而唱"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "exo_baekhyun",
+      "name": "Baekhyun",
+      "zhName": "边伯贤",
+      "years": "1992-",
+      "field": "音乐",
+      "core": "EXO成员",
+      "thinking": "嗓音与表演",
+      "speaking": "有才华",
+      "solving": "K-pop",
+      "quotes": [
+        "我是EXO的BAEKHYUN"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "seventeen_DK",
+      "name": "DK",
+      "zhName": "李硕珉",
+      "years": "1997-",
+      "field": "音乐",
+      "core": "SEVENTEEN成员",
+      "thinking": "开朗与才华",
+      "speaking": "有活力",
+      "solving": "K-pop",
+      "quotes": [
+        "我是DK"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "adele_25",
+      "name": "Adele 25",
+      "zhName": "Adele",
+      "years": "1988-",
+      "field": "Music",
+      "core": "25 Album",
+      "thinking": "Soul and Emotion",
+      "speaking": "Sincere",
+      "solving": "Soul Music",
+      "quotes": [
+        "I只是想让人感受"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "ed_sheeran_divide",
+      "name": "Ed Sheeran Divide",
+      "zhName": "Ed Sheeran",
+      "years": "1991-",
+      "field": "Music",
+      "core": "Divide Album",
+      "thinking": "Melody King",
+      "speaking": "Humble Talented",
+      "solving": "Songwriting",
+      "quotes": [
+        "I just want to write songs"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "drake_hotline",
+      "name": "Drake Hotline Bling",
+      "zhName": "Drake",
+      "years": "1986-",
+      "field": "Music",
+      "core": "Hotline Bling",
+      "thinking": "Rap and Pop",
+      "speaking": "Direct",
+      "solving": "Hip-hop",
+      "quotes": [
+        "I am from Toronto"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "beyonce_formation",
+      "name": "Beyonce Formation",
+      "zhName": "Beyonce Formation",
+      "years": "1981-",
+      "field": "Music",
+      "core": "Formation",
+      "thinking": "Female Power",
+      "speaking": "Powerful",
+      "solving": "R&B Innovation",
+      "quotes": [
+        "I am Beyonce"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "lady_gaga_poker",
+      "name": "Lady Gaga Poker Face",
+      "zhName": "Lady Gaga",
+      "years": "1986-",
+      "field": "Music",
+      "core": "Poker Face",
+      "thinking": "Pop Art",
+      "speaking": "Bold",
+      "solving": "Pop Art Music",
+      "quotes": [
+        "I am always a freak"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "ice_spice",
+      "name": "Ice Spice",
+      "zhName": "Ice Spice",
+      "years": "2000-",
+      "field": "Music",
+      "core": "Princess Diana",
+      "thinking": "Rap and Pop",
+      "speaking": "Bold",
+      "solving": "Rap",
+      "quotes": [
+        "I am famous"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "j_cole",
+      "name": "J. Cole",
+      "zhName": "J. Cole",
+      "years": "1985-",
+      "field": "Music",
+      "core": "2014 Forest Hills",
+      "thinking": "Conscious Rap",
+      "speaking": "Thoughtful",
+      "solving": "Hip-hop",
+      "quotes": [
+        "I am dreamville"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "lil_baby",
+      "name": "Lil Baby",
+      "zhName": "Lil Baby",
+      "years": "1994-",
+      "field": "Music",
+      "core": "Drip Too Hard",
+      "thinking": "Street Rap",
+      "speaking": "Direct",
+      "solving": "Hip-hop",
+      "quotes": [
+        "I am the one"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "camila_cabello",
+      "name": "Camila Cabello",
+      "zhName": "Camila Cabello",
+      "years": "1997-",
+      "field": "Music",
+      "core": "Havana",
+      "thinking": "Latin Pop",
+      "speaking": "Energetic Sincere",
+      "solving": "Latin Pop",
+      "quotes": [
+        "I am from Cuba"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "metallica",
+      "name": "Metallica",
+      "zhName": "Metallica",
+      "years": "1981-",
+      "field": "Music",
+      "core": "Metal Band",
+      "thinking": "Power and Speed",
+      "speaking": "Powerful",
+      "solving": "Heavy Metal",
+      "quotes": [
+        "Who are your gods"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "acdc",
+      "name": "AC/DC",
+      "zhName": "AC/DC",
+      "years": "1973-",
+      "field": "Music",
+      "core": "Hard Rock Band",
+      "thinking": "Simple Power",
+      "speaking": "Powerful",
+      "solving": "Hard Rock",
+      "quotes": [
+        "Highway to Hell"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "queen_music",
+      "name": "Queen Music",
+      "zhName": "Queen Music",
+      "years": "1970-",
+      "field": "Music",
+      "core": "Rock Legends",
+      "thinking": "Glam Rock",
+      "speaking": "Glamorous",
+      "solving": "Rock Music",
+      "quotes": [
+        "We are the champions"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "pearl_jam_eddie_vedder",
+      "name": "Pearl Jam Eddie Vedder",
+      "zhName": "Pearl Jam Eddie Vedder",
+      "years": "1964-",
+      "field": "Music",
+      "core": "Grunge Rock Band",
+      "thinking": "Soul and Power",
+      "speaking": "Soulful Powerful",
+      "solving": "Grunge Rock",
+      "quotes": [
+        "Music is my life"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "u2_bono",
+      "name": "U2 Bono",
+      "zhName": "U2 Bono",
+      "years": "1960-",
+      "field": "Music",
+      "core": "Irish Rock Band",
+      "thinking": "Social Commentary",
+      "speaking": "Passionate Socially Conscious",
+      "solving": "Rock Music",
+      "quotes": [
+        "I still have not found what I am looking for"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "radiohead_thom_yorke",
+      "name": "Radiohead Thom Yorke",
+      "zhName": "Radiohead Thom Yorke",
+      "years": "1968-",
+      "field": "Music",
+      "core": "Radiohead Band",
+      "thinking": "Experimental and Emotion",
+      "speaking": "Experimental Deep",
+      "solving": "Alt Rock",
+      "quotes": [
+        "I am just music part"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "coldplay_chris_martin",
+      "name": "Coldplay Chris Martin",
+      "zhName": "Coldplay Chris Martin",
+      "years": "1977-",
+      "field": "Music",
+      "core": "Coldplay Band",
+      "thinking": "Emotion and Grandeur",
+      "speaking": "Warm Infectious",
+      "solving": "Pop Rock",
+      "quotes": [
+        "I live for you"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "bruno_mars2",
+      "name": "Bruno Mars2",
+      "zhName": "Bruno Mars2",
+      "years": "1985-",
+      "field": "Music",
+      "core": "Funk Pop Star",
+      "thinking": "Retro Fusion",
+      "speaking": "Energetic",
+      "solving": "Funk Pop",
+      "quotes": [
+        "I want to be the king of entertainment"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "drake2",
+      "name": "Drake2",
+      "zhName": "Drake2",
+      "years": "1986-",
+      "field": "Music",
+      "core": "Pop Rap Star",
+      "thinking": "Authenticity and Pop",
+      "speaking": "Direct",
+      "solving": "Rap and Pop",
+      "quotes": [
+        "I am from Toronto"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "the_weeknd2",
+      "name": "The Weeknd2",
+      "zhName": "The Weeknd2",
+      "years": "1990-",
+      "field": "Music",
+      "core": "Alt R&B Superstar",
+      "thinking": "Mysterious and Real",
+      "speaking": "Mysterious",
+      "solving": "Alt R&B",
+      "quotes": [
+        "I belong to another world"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "bad_bunny2",
+      "name": "Bad Bunny2",
+      "zhName": "Bad Bunny2",
+      "years": "1994-",
+      "field": "Music",
+      "core": "Latin Trap King",
+      "thinking": "Latin Pride and Authenticity",
+      "speaking": "Attitude",
+      "solving": "Latin Trap",
+      "quotes": [
+        "Latin America is taking over the world"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    },
+    {
+      "id": "doja_cat2",
+      "name": "Doja Cat2",
+      "zhName": "Doja Cat2",
+      "years": "1995-",
+      "field": "Music",
+      "core": "Pop Rap Rising Star",
+      "thinking": "Creative Fusion",
+      "speaking": "Fun",
+      "solving": "Pop Rap",
+      "quotes": [
+        "I just want to make music"
+      ],
+      "recommended_skills": [
+        "musician_pop"
+      ]
+    }
+  ]
+}
