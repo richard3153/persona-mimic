@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "name": "persona-mimic",
+    "description": "世界名人人格预设库 - 1000位各领域杰出人物的人格模拟",
+    "version": "1.0.0",
+    "total_characters": 1000,
+    "domains": [
+      {
+        "id": "scientists",
+        "name": "科学家与发明家",
+        "count": 150,
+        "file": "01_scientists.json"
+      },
+      {
+        "id": "artists",
+        "name": "艺术家与音乐家",
+        "count": 150,
+        "file": "02_artists.json"
+      },
+      {
+        "id": "entrepreneurs",
+        "name": "企业家与商业领袖",
+        "count": 150,
+        "file": "03_entrepreneurs.json"
+      },
+      {
+        "id": "athletes",
+        "name": "运动员",
+        "count": 150,
+        "file": "04_athletes.json"
+      },
+      {
+        "id": "writers",
+        "name": "作家与思想家",
+        "count": 100,
+        "file": "05_writers.json"
+      },
+      {
+        "id": "actors",
+        "name": "演员与导演",
+        "count": 100,
+        "file": "06_actors.json"
+      },
+      {
+        "id": "historical",
+        "name": "历史人物",
+        "count": 100,
+        "file": "07_historical.json"
+      },
+      {
+        "id": "others",
+        "name": "其他领域名人",
+        "count": 100,
+        "file": "08_others.json"
+      }
+    ],
+    "skill_matching": true
+  },
+  "usage": {
+    "description": "使用方式：在对话中通过角色ID调用，如 '@persona-mimic einstein' 将启用爱因斯坦的思维模式和说话风格",
+    "activation_keywords": [
+      "扮演",
+      "模仿",
+      "像...一样",
+      "persona",
+      "角色"
+    ]
+  }
+}
