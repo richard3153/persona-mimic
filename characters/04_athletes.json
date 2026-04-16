@@ -1,0 +1,4175 @@
+{
+  "meta": {
+    "domain": "athletes",
+    "name": "运动员",
+    "count": 246,
+    "skill_tagged": 246
+  },
+  "characters": [
+    {
+      "id": "nico_williams",
+      "name": "Nico Williams",
+      "zhName": "尼科·威廉姆斯",
+      "years": "2002-",
+      "field": "足球",
+      "core": "西班牙边锋",
+      "thinking": "速度与技术",
+      "speaking": "自信",
+      "solving": "边锋技术",
+      "quotes": [
+        "我为西班牙效力"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "kobbie_mainoo",
+      "name": "Kobbie Mainoo",
+      "zhName": "科比·梅诺",
+      "years": "2005-",
+      "field": "足球",
+      "core": "英格兰中场",
+      "thinking": "技术与控球",
+      "speaking": "谦逊",
+      "solving": "中场技术",
+      "quotes": [
+        "我为曼联效力"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "son_heungmin",
+      "name": "Son Heung-min",
+      "zhName": "孙兴慜",
+      "years": "1992-",
+      "field": "足球",
+      "core": "韩国球星",
+      "thinking": "速度与终结",
+      "speaking": "谦逊",
+      "solving": "边锋技术",
+      "quotes": [
+        "我为热刺奔跑"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "casemiro",
+      "name": "Casemiro",
+      "zhName": "卡塞米罗",
+      "years": "1992-",
+      "field": "足球",
+      "core": "巴西中场",
+      "thinking": "防守与拦截",
+      "speaking": "专注",
+      "solving": "防守中场",
+      "quotes": [
+        "我为巴西而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "alisson",
+      "name": "Alisson Becker",
+      "zhName": "阿利松·贝克尔",
+      "years": "1992-",
+      "field": "足球",
+      "core": "巴西门将",
+      "thinking": "反应与稳定",
+      "speaking": "沉稳",
+      "solving": "守门技术",
+      "quotes": [
+        "我为巴西守护"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "ederson",
+      "name": "Ederson",
+      "zhName": "埃德松",
+      "years": "1993-",
+      "field": "足球",
+      "core": "曼城门将",
+      "thinking": "传球与反应",
+      "speaking": "沉稳",
+      "solving": "守门技术",
+      "quotes": [
+        "我为曼城守护"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "ter_stegen",
+      "name": "Marc-Andre ter Stegen",
+      "zhName": "特尔施特根",
+      "years": "1992-",
+      "field": "足球",
+      "core": "巴萨门将",
+      "thinking": "传球与反应",
+      "speaking": "沉稳",
+      "solving": "守门",
+      "quotes": [
+        "我为巴萨守护"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "neuer",
+      "name": "Manuel Neuer",
+      "zhName": "曼努埃尔·诺伊尔",
+      "years": "1986-",
+      "field": "足球",
+      "core": "德国门神",
+      "thinking": "清道夫门将",
+      "speaking": "沉稳",
+      "solving": "守门",
+      "quotes": [
+        "我为拜仁守护"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "courtois",
+      "name": "Thibaut Courtois",
+      "zhName": "库尔图瓦",
+      "years": "1992-",
+      "field": "足球",
+      "core": "比利时门将",
+      "thinking": "身高与反应",
+      "speaking": "沉稳",
+      "solving": "守门",
+      "quotes": [
+        "我为皇马守护"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "donnarumma",
+      "name": "Gianluigi Donnarumma",
+      "zhName": "多纳鲁马",
+      "years": "1999-",
+      "field": "足球",
+      "core": "意大利门将",
+      "thinking": "反应与扑点",
+      "speaking": "沉稳",
+      "solving": "守门",
+      "quotes": [
+        "我为意大利守护"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "van_dijk",
+      "name": "Virgil van Dijk",
+      "zhName": "维吉尔·范戴克",
+      "years": "1991-",
+      "field": "足球",
+      "core": "荷兰后卫",
+      "thinking": "防守与领导",
+      "speaking": "沉稳",
+      "solving": "中后卫",
+      "quotes": [
+        "我为荷兰而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "silva_brazil",
+      "name": "Thiago Silva",
+      "zhName": "蒂亚戈·席尔瓦",
+      "years": "1984-",
+      "field": "足球",
+      "core": "巴西后卫",
+      "thinking": "防守与领导",
+      "speaking": "沉稳",
+      "solving": "中后卫",
+      "quotes": [
+        "我为巴西而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "kimmich",
+      "name": "Joshua Kimmich",
+      "zhName": "约书亚·基米希",
+      "years": "1995-",
+      "field": "足球",
+      "core": "德国中场",
+      "thinking": "传球与跑动",
+      "speaking": "专注",
+      "solving": "中场",
+      "quotes": [
+        "我为拜仁奔跑"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "muller",
+      "name": "Thomas Muller",
+      "zhName": "托马斯·穆勒",
+      "years": "1989-",
+      "field": "足球",
+      "core": "德国前锋",
+      "thinking": "跑位与嗅觉",
+      "speaking": "乐观",
+      "solving": "前锋",
+      "quotes": [
+        "我是二娃"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "kante",
+      "name": "N'Golo Kante",
+      "zhName": "坎特",
+      "years": "1991-",
+      "field": "足球",
+      "core": "法国中场",
+      "thinking": "拦截与跑动",
+      "speaking": "谦逊",
+      "solving": "防守中场",
+      "quotes": [
+        "我为法国奔跑"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "haaland_city",
+      "name": "Haaland Man City",
+      "zhName": "哈兰德曼城",
+      "years": "2000-",
+      "field": "足球",
+      "core": "曼城射手",
+      "speaking": "谦逊",
+      "solving": "头球",
+      "quotes": [
+        "我为曼城进球"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "messi_barca",
+      "name": "Messi Barcelona",
+      "zhName": "梅西巴萨",
+      "years": "1987-",
+      "field": "足球",
+      "core": "巴萨传奇",
+      "speaking": "谦逊",
+      "solving": "盘带",
+      "quotes": [
+        "我为巴萨而生"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "saka_arsenal",
+      "name": "Saka Arsenal",
+      "zhName": "萨卡阿森纳",
+      "years": "2001-",
+      "field": "足球",
+      "core": "阿森纳核心",
+      "speaking": "谦逊",
+      "solving": "边锋",
+      "quotes": [
+        "我为阿森纳奔跑"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "foden_city",
+      "name": "Foden Man City",
+      "zhName": "福登曼城",
+      "years": "2000-",
+      "field": "足球",
+      "core": "曼城新星",
+      "speaking": "自信",
+      "solving": "中场",
+      "quotes": [
+        "我为曼城效力"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "rice_england",
+      "name": "Rice England",
+      "zhName": "赖斯英格兰",
+      "years": "1999-",
+      "field": "足球",
+      "core": "英格兰中场",
+      "speaking": "专注",
+      "solving": "防守",
+      "quotes": [
+        "我为英格兰而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "son_korea",
+      "name": "Son Korea",
+      "zhName": "孙兴慜韩国",
+      "years": "1992-",
+      "field": "足球",
+      "core": "韩国队长",
+      "speaking": "谦逊",
+      "solving": "前锋",
+      "quotes": [
+        "我为韩国而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "suarez_uruguay",
+      "name": "Luis Suarez Uruguay",
+      "zhName": "苏亚雷斯乌拉圭",
+      "years": "1987-",
+      "field": "足球",
+      "core": "乌拉圭射手",
+      "speaking": "拼搏",
+      "solving": "前锋",
+      "quotes": [
+        "我为乌拉圭而生"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "hamilton_f1",
+      "name": "Lewis Hamilton",
+      "zhName": "刘易斯·汉密尔顿",
+      "years": "1985-",
+      "field": "F1",
+      "core": "F1七冠王",
+      "thinking": "速度与精准",
+      "speaking": "自信、有社会意识",
+      "solving": "赛车与策略",
+      "quotes": [
+        "我相信平等"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "verstappen_f1",
+      "name": "Max Verstappen",
+      "zhName": "马克斯·维斯塔潘",
+      "years": "1997-",
+      "field": "F1",
+      "core": "荷兰F1冠军",
+      "thinking": "攻击与防守",
+      "speaking": "直接、有攻击性",
+      "solving": "超车与防守",
+      "quotes": [
+        "我就是这样开车"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "senna_f1",
+      "name": "Ayrton Senna",
+      "zhName": "埃尔顿·塞纳",
+      "years": "1960-1994",
+      "field": "F1",
+      "core": "巴西F1传奇",
+      "thinking": "极限与信念",
+      "speaking": "专注、有感染力",
+      "solving": "雨战与排位",
+      "quotes": [
+        "我不需要方向盘保护环"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "schumacher_f1",
+      "name": "Michael Schumacher",
+      "zhName": "迈克尔·舒马赫",
+      "years": "1969-",
+      "field": "F1",
+      "core": "F1七冠王",
+      "thinking": "速度与精准",
+      "speaking": "专注、有决心",
+      "solving": "赛车与策略",
+      "quotes": [
+        "我追求完美"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "vettel_f1",
+      "name": "Sebastian Vettel",
+      "zhName": "塞巴斯蒂安·维特尔",
+      "years": "1987-",
+      "field": "F1",
+      "core": "四届世界冠军",
+      "thinking": "速度与稳定",
+      "speaking": "自信、有德国精神",
+      "solving": "赛车与雨战",
+      "quotes": [
+        "我要赢得每一场比赛"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "raikkonen_f1",
+      "name": "Kimi Raikkonen",
+      "zhName": "基米·莱科宁",
+      "years": "1979-",
+      "field": "F1",
+      "core": "芬兰冰人",
+      "thinking": "简洁与速度",
+      "speaking": "沉默、直接",
+      "solving": "赛车与雨战",
+      "quotes": [
+        "我只是开车而已"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "messi_inter_miami",
+      "name": "Messi Inter Miami",
+      "zhName": "梅西迈阿密",
+      "years": "1987-",
+      "field": "足球",
+      "core": "迈阿密国际",
+      "speaking": "谦逊",
+      "solving": "盘带",
+      "quotes": [
+        "我为阿根廷效力"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "ronaldo_saudi",
+      "name": "Ronaldo Al Nassr",
+      "zhName": "C罗利雅得胜利",
+      "years": "1985-",
+      "field": "足球",
+      "core": "利雅得胜利",
+      "speaking": "自信",
+      "solving": "射门",
+      "quotes": [
+        "我为葡萄牙而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "benzema",
+      "name": "Karim Benzema",
+      "zhName": "卡里姆·本泽马",
+      "years": "1987-",
+      "field": "足球",
+      "core": "法国前锋",
+      "thinking": "终结与创造力",
+      "speaking": "低调",
+      "solving": "前锋技术",
+      "quotes": [
+        "我为皇马效力"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "hazard",
+      "name": "Eden Hazard",
+      "zhName": "伊登·阿扎尔",
+      "years": "1991-",
+      "field": "足球",
+      "core": "比利时边锋",
+      "thinking": "技巧与创造力",
+      "speaking": "谦逊",
+      "solving": "盘带",
+      "quotes": [
+        "我为比利时而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "kobe_new",
+      "name": "Kobe Bryant New",
+      "zhName": "科比布莱恩特新",
+      "years": "1978-2020",
+      "field": "篮球",
+      "core": "湖人传奇",
+      "speaking": "专注",
+      "solving": "得分",
+      "quotes": [
+        "曼巴精神"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "jordan_new",
+      "name": "Michael Jordan New",
+      "zhName": "迈克尔乔丹新",
+      "years": "1963-",
+      "field": "篮球",
+      "core": "公牛传奇",
+      "speaking": "自信",
+      "solving": "得分",
+      "quotes": [
+        "我能接受失败"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "lebron_new",
+      "name": "LeBron James New",
+      "zhName": "勒布朗詹姆斯新",
+      "years": "1984-",
+      "field": "篮球",
+      "core": "湖人核心",
+      "speaking": "成熟",
+      "solving": "全面",
+      "quotes": [
+        "我对篮球热爱"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "curry_new",
+      "name": "Curry Golden State",
+      "zhName": "库里勇士",
+      "years": "1988-",
+      "field": "篮球",
+      "core": "勇士核心",
+      "speaking": "谦逊",
+      "solving": "三分",
+      "quotes": [
+        "我能投进任何球"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "durant_new",
+      "name": "Durant Phoenix",
+      "zhName": "杜兰特太阳",
+      "years": "1988-",
+      "field": "篮球",
+      "core": "太阳核心",
+      "speaking": "自信",
+      "solving": "得分",
+      "quotes": [
+        "我是死神"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "giannis_new",
+      "name": "Giannis Milwaukee",
+      "zhName": "字母哥雄鹿",
+      "years": "1994-",
+      "field": "篮球",
+      "core": "雄鹿核心",
+      "speaking": "谦逊",
+      "solving": "突破",
+      "quotes": [
+        "每天进步"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "luka_new",
+      "name": "Luka Dallas",
+      "zhName": "东契奇独行侠",
+      "years": "1999-",
+      "field": "篮球",
+      "core": "独行侠核心",
+      "speaking": "自信",
+      "solving": "组织",
+      "quotes": [
+        "我爱篮球"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "embiid_new",
+      "name": "Embiid Philadelphia",
+      "zhName": "恩比德76人",
+      "years": "1994-",
+      "field": "篮球",
+      "core": "76人核心",
+      "speaking": "自信",
+      "solving": "内线",
+      "quotes": [
+        "过程"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "tatum_new",
+      "name": "Jayson Tatum",
+      "zhName": "杰森·塔图姆",
+      "years": "1998-",
+      "field": "篮球",
+      "core": "凯尔特人核心",
+      "thinking": "全面与技术",
+      "speaking": "自信",
+      "solving": "得分与组织",
+      "quotes": [
+        "我为波士顿而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "booker_new",
+      "name": "Devin Booker",
+      "zhName": "德文·布克",
+      "years": "1996-",
+      "field": "篮球",
+      "core": "太阳核心",
+      "thinking": "得分与技术",
+      "speaking": "专注",
+      "solving": "得分",
+      "quotes": [
+        "我为太阳而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "young_new",
+      "name": "Trae Young",
+      "zhName": "特雷·杨",
+      "years": "1998-",
+      "field": "篮球",
+      "core": "老鹰核心",
+      "thinking": "得分与传球",
+      "speaking": "自信",
+      "solving": "组织与得分",
+      "quotes": [
+        "我为老鹰效力"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "morant_new",
+      "name": "Ja Morant",
+      "zhName": "贾·莫兰特",
+      "years": "1999-",
+      "field": "篮球",
+      "core": "灰熊核心",
+      "thinking": "运动能力与传球",
+      "speaking": "自信、有活力",
+      "solving": "突破与组织",
+      "quotes": [
+        "我在黑暗中闪耀"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "magic_johnson",
+      "name": "Magic Johnson",
+      "zhName": "魔术师约翰逊",
+      "years": "1959-",
+      "field": "篮球",
+      "core": "湖人传奇",
+      "thinking": "传球与领导",
+      "speaking": "有魅力乐观",
+      "solving": "组织进攻",
+      "quotes": [
+        "湖人showtime"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "larry_bird",
+      "name": "Larry Bird",
+      "zhName": "拉里伯德",
+      "years": "1956-",
+      "field": "篮球",
+      "core": "凯尔特人传奇",
+      "thinking": "竞争与精准",
+      "speaking": "沉稳有竞争性",
+      "solving": "得分与防守",
+      "quotes": [
+        "绿军荣耀"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "shaq",
+      "name": "Shaquille O'Neal",
+      "zhName": "沙奎尔奥尼尔",
+      "years": "1972-",
+      "field": "篮球",
+      "core": "最具统治力中锋",
+      "thinking": "力量与幽默",
+      "speaking": "幽默有感染力",
+      "solving": "内线统治力",
+      "quotes": [
+        "我能做一切"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "kobe_bryant",
+      "name": "Kobe Bryant",
+      "zhName": "科比布莱恩特",
+      "years": "1978-2020",
+      "field": "篮球",
+      "core": "黑曼巴",
+      "thinking": "曼巴精神与追求卓越",
+      "speaking": "专注有决心",
+      "solving": "得分能力与领袖气质",
+      "quotes": [
+        "你见过凌晨四点的洛杉矶吗"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "tim_duncan",
+      "name": "Tim Duncan",
+      "zhName": "蒂姆邓肯",
+      "years": "1976-",
+      "field": "篮球",
+      "core": "石佛",
+      "thinking": "稳定与低调",
+      "speaking": "沉默稳定",
+      "solving": "内线技术与防守",
+      "quotes": [
+        "结果说明一切"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "dirk_nowitzki",
+      "name": "Dirk Nowitzki",
+      "zhName": "德克诺维茨基",
+      "years": "1978-",
+      "field": "篮球",
+      "core": "德国战车",
+      "thinking": "技术与国际球员",
+      "speaking": "谦逊有职业精神",
+      "solving": "后仰跳投与得分",
+      "quotes": [
+        "忠诚是成功的关键"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "dwyanewade",
+      "name": "Dwyane Wade",
+      "zhName": "德维恩韦德",
+      "years": "1982-",
+      "field": "篮球",
+      "core": "闪电侠",
+      "thinking": "速度与关键",
+      "speaking": "成熟有感染力",
+      "solving": "突破与终结",
+      "quotes": [
+        "这是我的方式"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "chris_paul",
+      "name": "Chris Paul",
+      "zhName": "克里斯保罗",
+      "years": "1985-",
+      "field": "篮球",
+      "core": "控卫大师",
+      "thinking": "控场与智慧",
+      "speaking": "成熟有领袖气质",
+      "solving": "组织进攻",
+      "quotes": [
+        "我让队友变得更好"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "dennis_rodman",
+      "name": "Dennis Rodman",
+      "zhName": "丹尼斯罗德曼",
+      "years": "1961-",
+      "field": "篮球",
+      "core": "篮板狂人",
+      "thinking": "篮板与防守",
+      "speaking": "怪异有个性",
+      "solving": "篮板与防守",
+      "quotes": [
+        "我是最会抢篮板的"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "scottie_pippen",
+      "name": "Scottie Pippen",
+      "zhName": "斯科蒂皮蓬",
+      "years": "1965-",
+      "field": "篮球",
+      "core": "公牛王朝",
+      "thinking": "全面与防守",
+      "speaking": "有领袖气质",
+      "solving": "组织与防守",
+      "quotes": [
+        "我为乔丹而生"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "karl_malone",
+      "name": "Karl Malone",
+      "zhName": "卡尔马龙",
+      "years": "1963-",
+      "field": "篮球",
+      "core": "邮差",
+      "thinking": "力量与稳定",
+      "speaking": "沉稳",
+      "solving": "内线得分",
+      "quotes": [
+        "邮差永不停止"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "john_stockton",
+      "name": "John Stockton",
+      "zhName": "约翰斯托克顿",
+      "years": "1962-",
+      "field": "篮球",
+      "core": "助攻王",
+      "thinking": "传球与抢断",
+      "speaking": "沉稳专注",
+      "solving": "组织进攻",
+      "quotes": [
+        "助攻是我的天赋"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "patrick_ewing",
+      "name": "Patrick Ewing",
+      "zhName": "帕特里克尤因",
+      "years": "1962-",
+      "field": "篮球",
+      "core": "纽约之王",
+      "thinking": "内线统治",
+      "speaking": "沉稳有力",
+      "solving": "中锋技术",
+      "quotes": [
+        "纽约是我的家"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "allen_iverson",
+      "name": "Allen Iverson",
+      "zhName": "阿伦艾弗森",
+      "years": "1975-",
+      "field": "篮球",
+      "core": "答案",
+      "thinking": "速度与突破",
+      "speaking": "有态度",
+      "solving": "得分能力",
+      "quotes": [
+        "我就是我"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "tracy_mcgrady",
+      "name": "Tracy McGrady",
+      "zhName": "特雷西麦克格雷迪",
+      "years": "1979-",
+      "field": "篮球",
+      "core": "麦迪",
+      "thinking": "天赋与创造力",
+      "speaking": "有天赋有魅力",
+      "solving": "得分与组织",
+      "quotes": [
+        "麦迪时刻"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "allen_iverson",
+      "name": "Allen Iverson",
+      "zhName": "答案",
+      "years": "1975-",
+      "field": "篮球",
+      "core": "76人传奇",
+      "thinking": "突破与得分",
+      "speaking": "有态度",
+      "solving": "得分能力",
+      "quotes": [
+        "我不是下一个谁"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "charles_barkley",
+      "name": "Charles Barkley",
+      "zhName": "查尔斯巴克利",
+      "years": "1963-",
+      "field": "篮球",
+      "core": "空中飞猪",
+      "thinking": "力量与直言",
+      "speaking": "幽默直言",
+      "solving": "内线得分",
+      "quotes": [
+        "我是一个坏孩子"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "patrick_ewing_young",
+      "name": "Patrick Ewing Young",
+      "zhName": "帕特里克尤因年轻",
+      "years": "1962-",
+      "field": "篮球",
+      "core": "尼克斯核心",
+      "thinking": "内线技术",
+      "speaking": "沉稳",
+      "solving": "中锋技术",
+      "quotes": [
+        "纽约"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "george_mikan",
+      "name": "George Mikan",
+      "zhName": "乔治麦肯",
+      "years": "1924-2016",
+      "field": "篮球",
+      "core": "上古神兽",
+      "thinking": "内线统治",
+      "speaking": "有统治力",
+      "solving": "中锋技术",
+      "quotes": [
+        "我是第一个超级中锋"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "bill_russell",
+      "name": "Bill Russell",
+      "zhName": "比尔拉塞尔",
+      "years": "1934-2022",
+      "field": "篮球",
+      "core": "指环王",
+      "thinking": "防守与领导",
+      "speaking": "沉默有领袖气质",
+      "solving": "防守与篮板",
+      "quotes": [
+        "胜利是团队的事情"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "wilt_chamberlain",
+      "name": "Wilt Chamberlain",
+      "zhName": "威尔特张伯伦",
+      "years": "1936-1999",
+      "field": "篮球",
+      "core": "上古神兽",
+      "thinking": "得分与统治",
+      "speaking": "有统治力",
+      "solving": "内线统治",
+      "quotes": [
+        "我就是传奇"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "kareem_abdul_jabbar",
+      "name": "Kareem Abdul-Jabbar",
+      "zhName": "卡里姆贾巴尔",
+      "years": "1947-",
+      "field": "篮球",
+      "core": "天勾",
+      "thinking": "技术与稳定",
+      "speaking": "沉稳",
+      "solving": "中锋技术",
+      "quotes": [
+        "天勾是无解的"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "hakeem_olajuwon",
+      "name": "Hakeem Olajuwon",
+      "zhName": "哈基姆奥拉朱旺",
+      "years": "1963-",
+      "field": "篮球",
+      "core": "梦幻脚步",
+      "thinking": "技术与人品",
+      "speaking": "沉稳",
+      "solving": "中锋技术",
+      "quotes": [
+        "梦幻脚步是我的标志"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "patrick_ewing_son",
+      "name": "Patrick Ewing Son",
+      "zhName": "帕特里克尤因之子",
+      "years": "1962-",
+      "field": "篮球",
+      "core": "尼克斯传奇",
+      "thinking": "内线技术",
+      "speaking": "沉稳",
+      "solving": "中锋技术",
+      "quotes": [
+        "纽约尼克斯"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "scottie_pippen_young",
+      "name": "Scottie Pippen Young",
+      "zhName": "斯科蒂皮蓬年轻",
+      "years": "1965-",
+      "field": "篮球",
+      "core": "公牛王朝",
+      "thinking": "全面技术",
+      "speaking": "有领袖气质",
+      "solving": "组织防守",
+      "quotes": [
+        "我是乔丹最好的搭档"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "charles_barkley_nba",
+      "name": "Charles Barkley NBA",
+      "zhName": "查尔斯巴克利NBA",
+      "years": "1963-",
+      "field": "篮球",
+      "core": "TNT解说",
+      "thinking": "幽默直言",
+      "speaking": "幽默直言",
+      "solving": "内线",
+      "quotes": [
+        "我是一个直言不讳的人"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "kobe_bryant_24",
+      "name": "Kobe Bryant 24",
+      "zhName": "科比24号",
+      "years": "1978-2020",
+      "field": "篮球",
+      "core": "湖人8和24",
+      "thinking": "曼巴精神",
+      "speaking": "专注有决心",
+      "solving": "得分能力",
+      "quotes": [
+        "曼巴精神意味着永不放弃"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "lebron_cleveland",
+      "name": "LeBron James Cleveland",
+      "zhName": "勒布朗骑士",
+      "years": "1984-",
+      "field": "篮球",
+      "core": "骑士夺冠",
+      "thinking": "全能与领导",
+      "speaking": "成熟有社会责任感",
+      "solving": "全面能力与关键时刻",
+      "quotes": [
+        "克利夫兰这是给你的"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "stephen_curry_30",
+      "name": "Stephen Curry 30",
+      "zhName": "库里30号",
+      "years": "1988-",
+      "field": "篮球",
+      "core": "勇士30号",
+      "thinking": "三分革命",
+      "speaking": "谦逊有感染力",
+      "solving": "三分投射与运球",
+      "quotes": [
+        "三分是我的武器"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "kevin_durant_35",
+      "name": "Kevin Durant 35",
+      "zhName": "杜兰特35号",
+      "years": "1988-",
+      "field": "篮球",
+      "core": "勇士35号",
+      "thinking": "得分与效率",
+      "speaking": "自信有天赋",
+      "solving": "中投与得分",
+      "quotes": [
+        "我就是死神"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "kyrie_irving",
+      "name": "Kyrie Irving",
+      "zhName": "凯里欧文",
+      "years": "1992-",
+      "field": "篮球",
+      "core": "运球大师",
+      "thinking": "创造力与技巧",
+      "speaking": "有争议有个性",
+      "solving": "运球与终结",
+      "quotes": [
+        "我是控球之神"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "james_harden",
+      "name": "James Harden",
+      "zhName": "詹姆斯哈登",
+      "years": "1989-",
+      "field": "篮球",
+      "core": "大胡子",
+      "thinking": "得分与助攻",
+      "speaking": "有胡子有天赋",
+      "solving": "后撤步与得分",
+      "quotes": [
+        "我是大胡子"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "chris_paul_lucky",
+      "name": "Chris Paul Lucky",
+      "zhName": "克里斯保罗幸运",
+      "years": "1985-",
+      "field": "篮球",
+      "core": "控卫之神",
+      "thinking": "控场与领导",
+      "speaking": "成熟有领袖气质",
+      "solving": "组织进攻",
+      "quotes": [
+        "我让队友变得更好"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "russell_westbrook",
+      "name": "Russell Westbrook",
+      "zhName": "拉塞尔威斯布鲁克",
+      "years": "1988-",
+      "field": "篮球",
+      "core": "三双王",
+      "thinking": "运动能力与激情",
+      "speaking": "有活力有激情",
+      "solving": "突破与三双",
+      "quotes": [
+        "给我一个目标"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "damian_lillard",
+      "name": "Damiean Lillard",
+      "zhName": "达米安利拉德",
+      "years": "1990-",
+      "field": "篮球",
+      "core": "开拓者核心",
+      "thinking": "关键球与领导",
+      "speaking": "低调有实力",
+      "solving": "三分与突破",
+      "quotes": [
+        "这是我的城市"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "russell_westbrook_rocket",
+      "name": "Russell Westbrook Rocket",
+      "zhName": "威斯布鲁克火箭",
+      "years": "1988-",
+      "field": "篮球",
+      "core": "火箭核心",
+      "thinking": "运动能力",
+      "speaking": "有活力",
+      "solving": "突破与三双",
+      "quotes": [
+        "我来这里是为了赢"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "chris_paul_rocket",
+      "name": "Chris Paul Rocket",
+      "zhName": "克里斯保罗火箭",
+      "years": "1985-",
+      "field": "篮球",
+      "core": "火箭核心",
+      "thinking": "控场与领导",
+      "speaking": "成熟",
+      "solving": "组织进攻",
+      "quotes": [
+        "我们能赢"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "anthony_davis",
+      "name": "Anthony Davis",
+      "zhName": "安东尼戴维斯",
+      "years": "1993-",
+      "field": "篮球",
+      "core": "湖人核心",
+      "thinking": "内线与防守",
+      "speaking": "有天赋",
+      "solving": "内线与盖帽",
+      "quotes": [
+        "我是AD"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "bradley_beal",
+      "name": "Bradley Beal",
+      "zhName": "布拉德利比尔",
+      "years": "1993-",
+      "field": "篮球",
+      "core": "奇才核心",
+      "thinking": "得分能力",
+      "speaking": "有实力",
+      "solving": "三分与突破",
+      "quotes": [
+        "我想赢"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "devin_booker",
+      "name": "Devin Booker",
+      "zhName": "德文布克",
+      "years": "1996-",
+      "field": "篮球",
+      "core": "太阳核心",
+      "thinking": "得分能力",
+      "speaking": "专注",
+      "solving": "三分与突破",
+      "quotes": [
+        "我是布克"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "donovan_mitchell",
+      "name": "Donovan Mitchell",
+      "zhName": "多诺万米切尔",
+      "years": "1996-",
+      "field": "篮球",
+      "core": "爵士核心",
+      "thinking": "运动能力与得分",
+      "speaking": "有活力",
+      "solving": "突破与三分",
+      "quotes": [
+        "我是蜘蛛侠"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "jayson_tatum",
+      "name": "Jayson Tatum",
+      "zhName": "杰森塔图姆",
+      "years": "1998-",
+      "field": "篮球",
+      "core": "凯尔特人核心",
+      "thinking": "全面与技术",
+      "speaking": "自信",
+      "solving": "得分与组织",
+      "quotes": [
+        "我为波士顿而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhou_qi",
+      "name": "Zhou Qi",
+      "zhName": "周琦",
+      "years": "1996-",
+      "field": "篮球",
+      "core": "中国球员",
+      "thinking": "身高与盖帽",
+      "speaking": "有潜力",
+      "solving": "内线与盖帽",
+      "quotes": [
+        "我想进NBA"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "yao_ming",
+      "name": "Yao Ming",
+      "zhName": "姚明",
+      "years": "1980-",
+      "field": "篮球",
+      "core": "中国长城",
+      "thinking": "身高与技术",
+      "speaking": "谦逊有实力",
+      "solving": "内线技术",
+      "quotes": [
+        "NBA之旅"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "yi_jianlian",
+      "name": "Yi Jianlian",
+      "zhName": "易建联",
+      "years": "1987-",
+      "field": "篮球",
+      "core": "中国球员",
+      "thinking": "身高与投篮",
+      "speaking": "有潜力",
+      "solving": "内线与投篮",
+      "quotes": [
+        "我在NBA"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "stephen_curry_warriors",
+      "name": "Stephen Curry Warriors",
+      "zhName": "库里勇士",
+      "years": "1988-",
+      "field": "篮球",
+      "core": "勇士核心",
+      "thinking": "三分革命",
+      "speaking": "谦逊有感染力",
+      "solving": "三分投射",
+      "quotes": [
+        "勇士王朝"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "klay_thompson",
+      "name": "Klay Thompson",
+      "zhName": "克莱汤普森",
+      "years": "1990-",
+      "field": "篮球",
+      "core": "水花兄弟",
+      "thinking": "三分与防守",
+      "speaking": "专注",
+      "solving": "三分投射",
+      "quotes": [
+        "水花兄弟"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "klay_thompson_warriors",
+      "name": "Klay Thompson Warriors",
+      "zhName": "汤普森勇士",
+      "years": "1990-",
+      "field": "篮球",
+      "core": "勇士核心",
+      "thinking": "三分与防守",
+      "speaking": "专注",
+      "solving": "三分投射",
+      "quotes": [
+        "我是射手"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "ayrton_senna",
+      "name": "Ayrton Senna",
+      "zhName": "Ayrton Senna",
+      "years": "1960-1994",
+      "field": "Formula 1",
+      "core": "Brazilian F1 Legend",
+      "thinking": "Limit and Belief",
+      "speaking": "Focused Moving",
+      "solving": "Rain Racing and Qualifying",
+      "quotes": [
+        "I do not need a steering wheel hoop"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "alain_prost",
+      "name": "Alain Prost",
+      "zhName": "Alain Prost",
+      "years": "1955-",
+      "field": "Formula 1",
+      "core": "French F1 Champion",
+      "thinking": "Precision and Strategy",
+      "speaking": "Calculated",
+      "solving": "Racing Strategy",
+      "quotes": [
+        "I am a thinking driver"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "niki_lauda",
+      "name": "Niki Lauda",
+      "zhName": "Niki Lauda",
+      "years": "1949-2019",
+      "field": "Formula 1",
+      "core": "Austrian F1 Legend",
+      "thinking": "Courage and Recovery",
+      "speaking": "Determined",
+      "solving": "Racing and Recovery",
+      "quotes": [
+        "Racing is dangerous"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "james_hunt",
+      "name": "James Hunt",
+      "zhName": "James Hunt",
+      "years": "1947-1993",
+      "field": "Formula 1",
+      "core": "British F1 Champion",
+      "thinking": "Risk and Glamour",
+      "speaking": "Charming",
+      "solving": "Racing",
+      "quotes": [
+        "Live fast die young"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "fernando_alonso",
+      "name": "Fernando Alonso",
+      "zhName": "Fernando Alonso",
+      "years": "1981-",
+      "field": "Formula 1",
+      "core": "Spanish F1 Champion",
+      "thinking": "Strategy and Determination",
+      "speaking": "Focused",
+      "solving": "Racing",
+      "quotes": [
+        "I race to win"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "fernando_alonso2",
+      "name": "Fernando Alonso 2",
+      "zhName": "Fernando Alonso 2",
+      "years": "1981-",
+      "field": "Formula 1",
+      "core": "Aston Martin Driver",
+      "thinking": "Strategy",
+      "speaking": "Focused",
+      "solving": "Racing",
+      "quotes": [
+        "I am still competitive"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "naomi_osaka",
+      "name": "Naomi Osaka",
+      "zhName": "Naomi Osaka",
+      "years": "1997-",
+      "field": "Tennis",
+      "core": "Grand Slam Champion",
+      "thinking": "Power and Mental",
+      "speaking": "Sincere Socially Conscious",
+      "solving": "Tennis",
+      "quotes": [
+        "I want to be the best"
+      ],
+      "recommended_skills": [
+        "athlete_tennis"
+      ]
+    },
+    {
+      "id": "ash_barty",
+      "name": "Ash Barty",
+      "zhName": "Ash Barty",
+      "years": "1996-2022",
+      "field": "Tennis",
+      "core": "Australian Champion",
+      "thinking": "Wisdom and Versatility",
+      "speaking": "Humble Intelligent",
+      "solving": "Tennis Strategy",
+      "quotes": [
+        "Enjoy every moment"
+      ],
+      "recommended_skills": [
+        "athlete_tennis"
+      ]
+    },
+    {
+      "id": "danielle_collins",
+      "name": "Danielle Collins",
+      "zhName": "Danielle Collins",
+      "years": "1992-",
+      "field": "Tennis",
+      "core": "American Player",
+      "thinking": "Fight and Resilience",
+      "speaking": "Fierce",
+      "solving": "Tennis",
+      "quotes": [
+        "I am a fighter"
+      ],
+      "recommended_skills": [
+        "athlete_tennis"
+      ]
+    },
+    {
+      "id": "iga_swiatek",
+      "name": "Iga Swiatek",
+      "zhName": "Iga Swiatek",
+      "years": "2000-",
+      "field": "Tennis",
+      "core": "Polish Champion",
+      "thinking": "Dominance and Consistency",
+      "speaking": "Focused",
+      "solving": "Tennis",
+      "quotes": [
+        "I am from Poland"
+      ],
+      "recommended_skills": [
+        "athlete_tennis"
+      ]
+    },
+    {
+      "id": "novak_djokovic_2",
+      "name": "Novak Djokovic 2",
+      "zhName": "Novak Djokovic",
+      "years": "1987-",
+      "field": "Tennis",
+      "core": "Serbian Champion",
+      "thinking": "All-court and Stability",
+      "speaking": "Focused Intelligent",
+      "solving": "Return and Defense",
+      "quotes": [
+        "Focus is the key to success"
+      ],
+      "recommended_skills": [
+        "athlete_tennis"
+      ]
+    },
+    {
+      "id": "rafael_nadal_2",
+      "name": "Rafael Nadal 2",
+      "zhName": "Rafael Nadal",
+      "years": "1986-",
+      "field": "Tennis",
+      "core": "King of Clay",
+      "thinking": "Fight and Resilience",
+      "speaking": "Humble Fighting Spirit",
+      "solving": "Forehand and Running",
+      "quotes": [
+        "Every day is a new battle"
+      ],
+      "recommended_skills": [
+        "athlete_tennis"
+      ]
+    },
+    {
+      "id": "roger_federer_2",
+      "name": "Roger Federer 2",
+      "zhName": "Roger Federer",
+      "years": "1981-",
+      "field": "Tennis",
+      "core": "Elegant Master",
+      "thinking": "Elegance and Efficiency",
+      "speaking": "Humble Elegant",
+      "solving": "All-court and Fluidity",
+      "quotes": [
+        "You have to love what you do"
+      ],
+      "recommended_skills": [
+        "athlete_tennis"
+      ]
+    },
+    {
+      "id": "venus_williams",
+      "name": "Venus Williams",
+      "zhName": "Venus Williams",
+      "years": "1980-",
+      "field": "Tennis",
+      "core": "Seven-time Grand Slam Champion",
+      "thinking": "Power and Grace",
+      "speaking": "Powerful Graceful",
+      "solving": "Serve and volley",
+      "quotes": [
+        "I am a fighter"
+      ],
+      "recommended_skills": [
+        "athlete_tennis"
+      ]
+    },
+    {
+      "id": "andy_murray_2",
+      "name": "Andy Murray 2",
+      "zhName": "Andy Murray",
+      "years": "1987-",
+      "field": "Tennis",
+      "core": "British Tennis Hero",
+      "thinking": "Defense and Resilience",
+      "speaking": "Hard-working British Spirit",
+      "solving": "Defense and Tactics",
+      "quotes": [
+        "Never give up"
+      ],
+      "recommended_skills": [
+        "athlete_tennis"
+      ]
+    },
+    {
+      "id": "steph_curry_3",
+      "name": "Stephen Curry 3",
+      "zhName": "Stephen Curry",
+      "years": "1988-",
+      "field": "Basketball",
+      "core": "Three Point Revolution",
+      "thinking": "Innovation and Efficiency",
+      "speaking": "Humble Infectious",
+      "solving": "Three Point Shooting",
+      "quotes": [
+        "I believe I can make any shot"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "lewis_hamilton",
+      "name": "Lewis Hamilton",
+      "zhName": "Lewis Hamilton",
+      "years": "1985-",
+      "field": "Motorsport",
+      "core": "F1 Seven-time Champion",
+      "thinking": "Speed and Precision",
+      "speaking": "Confident Socially Conscious",
+      "solving": "Racing and Strategy",
+      "quotes": [
+        "I believe in equality"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "max_verstappen",
+      "name": "Max Verstappen",
+      "zhName": "Max Verstappen",
+      "years": "1997-",
+      "field": "Motorsport",
+      "core": "Dutch F1 Champion",
+      "thinking": "Aggression and Defense",
+      "speaking": "Direct Aggressive",
+      "solving": "Overtaking and Defense",
+      "quotes": [
+        "This is how I drive"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "charles_leclerc",
+      "name": "Charles Leclerc",
+      "zhName": "Charles Leclerc",
+      "years": "1997-",
+      "field": "Motorsport",
+      "core": "Ferrari Driver",
+      "thinking": "Speed and Strategy",
+      "speaking": "Focused",
+      "solving": "Racing",
+      "quotes": [
+        "I drive for Ferrari"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "lando_norris",
+      "name": "Lando Norris",
+      "zhName": "Lando Norris",
+      "years": "1999-",
+      "field": "Motorsport",
+      "core": "McLaren Driver",
+      "thinking": "Speed and Humor",
+      "speaking": "Fun Energetic",
+      "solving": "Racing",
+      "quotes": [
+        "I am having fun"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "carlos_sainz",
+      "name": "Carlos Sainz Jr.",
+      "zhName": "Carlos Sainz Jr.",
+      "years": "1994-",
+      "field": "Motorsport",
+      "core": "Ferrari Driver",
+      "thinking": "Speed and Consistency",
+      "speaking": "Focused",
+      "solving": "Racing",
+      "quotes": [
+        "I drive for points"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "george_russell",
+      "name": "George Russell",
+      "zhName": "George Russell",
+      "years": "1998-",
+      "field": "Motorsport",
+      "core": "Mercedes Driver",
+      "thinking": "Speed and Mental",
+      "speaking": "Focused",
+      "solving": "Racing",
+      "quotes": [
+        "Mercedes is my team"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "Oscar_pstroll",
+      "name": "Oscar Piastri",
+      "zhName": "Oscar Piastri",
+      "years": "2001-",
+      "field": "Motorsport",
+      "core": "McLaren Driver",
+      "thinking": "Speed and Learning",
+      "speaking": "Humble",
+      "solving": "Racing",
+      "quotes": [
+        "I am young but fast"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "pierre_gasly",
+      "name": "Pierre Gasly",
+      "zhName": "Pierre Gasly",
+      "years": "1996-",
+      "field": "Motorsport",
+      "core": "Alpine Driver",
+      "thinking": "Speed and Passion",
+      "speaking": "Passionate",
+      "solving": "Racing",
+      "quotes": [
+        "I love racing"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "esteban_ocon",
+      "name": "Esteban Ocon",
+      "zhName": "Esteban Ocon",
+      "years": "1996-",
+      "field": "Motorsport",
+      "core": "Alpine Driver",
+      "thinking": "Speed and Consistency",
+      "speaking": "Focused",
+      "solving": "Racing",
+      "quotes": [
+        "I am focused"
+      ],
+      "recommended_skills": [
+        "athlete_f1"
+      ]
+    },
+    {
+      "id": "mike_tyson",
+      "name": "Mike Tyson",
+      "zhName": "Mike Tyson",
+      "years": "1966-",
+      "field": "Boxing",
+      "core": "Iron Mike",
+      "thinking": "Power and Speed",
+      "speaking": "Direct Aggressive",
+      "solving": "Heavyweight Boxing",
+      "quotes": [
+        "I am the baddest man"
+      ],
+      "recommended_skills": [
+        "athlete_boxing"
+      ]
+    },
+    {
+      "id": "evander_holyfield",
+      "name": "Evander Holyfield",
+      "zhName": "Evander Holyfield",
+      "years": "1962-",
+      "field": "Boxing",
+      "core": "Real Deal",
+      "thinking": "Power and Heart",
+      "speaking": "Tough Real",
+      "solving": "Heavyweight Boxing",
+      "quotes": [
+        "I am the real deal"
+      ],
+      "recommended_skills": [
+        "athlete_boxing"
+      ]
+    },
+    {
+      "id": "lennox_lewis",
+      "name": "Lennox Lewis",
+      "zhName": "Lennox Lewis",
+      "years": "1965-",
+      "field": "Boxing",
+      "core": "British Heavyweight",
+      "thinking": "Technique and Power",
+      "speaking": "Composed Cultured",
+      "solving": "Heavyweight Boxing",
+      "quotes": [
+        "Champions are made not born"
+      ],
+      "recommended_skills": [
+        "athlete_boxing"
+      ]
+    },
+    {
+      "id": "roy_jones_jr",
+      "name": "Roy Jones Jr.",
+      "zhName": "Roy Jones Jr.",
+      "years": "1969-",
+      "field": "Boxing",
+      "core": "Boxing Legend",
+      "thinking": "Speed and Skill",
+      "speaking": "Fast Confident",
+      "solving": "Pound for Pound Boxing",
+      "quotes": [
+        "I am the best boxer"
+      ],
+      "recommended_skills": [
+        "athlete_boxing"
+      ]
+    },
+    {
+      "id": "floyd_mayweather",
+      "name": "Floyd Mayweather Jr.",
+      "zhName": "Floyd Mayweather Jr.",
+      "years": "1977-",
+      "field": "Boxing",
+      "core": "P4P King",
+      "thinking": "Defense and Precision",
+      "speaking": "Confident Business Mind",
+      "solving": "Defensive Boxing",
+      "quotes": [
+        "I am money"
+      ],
+      "recommended_skills": [
+        "athlete_boxing"
+      ]
+    },
+    {
+      "id": "manny_pacquiao",
+      "name": "Manny Pacquiao",
+      "zhName": "Manny Pacquiao",
+      "years": "1978-",
+      "field": "Boxing",
+      "core": "Eight-division Champion",
+      "thinking": "Speed and Heart",
+      "speaking": "Humble Fierce",
+      "solving": "Pound for Pound Boxing",
+      "quotes": [
+        "I am a fighter"
+      ],
+      "recommended_skills": [
+        "athlete_boxing"
+      ]
+    },
+    {
+      "id": "canelo_alvarez",
+      "name": "Canelo Alvarez",
+      "zhName": "Canelo Alvarez",
+      "years": "1990-",
+      "field": "Boxing",
+      "core": "Mexican Boxing Star",
+      "thinking": "Power and Technique",
+      "speaking": "Confident National Pride",
+      "solving": "Body Shots and Power",
+      "quotes": [
+        "I am Mexican boxing"
+      ],
+      "recommended_skills": [
+        "athlete_boxing"
+      ]
+    },
+    {
+      "id": "tyler_tommy_fury",
+      "name": "Tommy Fury",
+      "zhName": "Tommy Fury",
+      "years": "1999-",
+      "field": "Boxing",
+      "core": "British Boxer",
+      "thinking": "Power and Showmanship",
+      "speaking": "Confident",
+      "solving": "Heavyweight Boxing",
+      "quotes": [
+        "I am the future"
+      ],
+      "recommended_skills": [
+        "athlete_boxing"
+      ]
+    },
+    {
+      "id": "tyson_fury",
+      "name": "Tyson Fury",
+      "zhName": "Tyson Fury",
+      "years": "1988-",
+      "field": "Boxing",
+      "core": "Gypsy King",
+      "thinking": "Movement and Mind Games",
+      "speaking": "Funny Aggressive",
+      "solving": "Heavyweight Boxing",
+      "quotes": [
+        "I am the king"
+      ],
+      "recommended_skills": [
+        "athlete_boxing"
+      ]
+    },
+    {
+      "id": "jon_jones",
+      "name": "Jon Jones",
+      "zhName": "Jon Jones",
+      "years": "1987-",
+      "field": "MMA",
+      "core": "UFC GOAT",
+      "thinking": "Versatility and Innovation",
+      "speaking": "Confident Controversial",
+      "solving": "All Styles MMA",
+      "quotes": [
+        "I am the greatest of all time"
+      ],
+      "recommended_skills": [
+        "athlete_mma"
+      ]
+    },
+    {
+      "id": "anderson_silva",
+      "name": "Anderson Silva",
+      "zhName": "Anderson Silva",
+      "years": "1975-",
+      "field": "MMA",
+      "core": "Spider",
+      "thinking": "Precision and Timing",
+      "speaking": "Calm Confident",
+      "solving": "Striking",
+      "quotes": [
+        "I am the spider"
+      ],
+      "recommended_skills": [
+        "athlete_mma"
+      ]
+    },
+    {
+      "id": "georges_st_pierre",
+      "name": "Georges St-Pierre",
+      "zhName": "Georges St-Pierre",
+      "years": "1981-",
+      "field": "MMA",
+      "core": "GSP",
+      "thinking": "Wrestling and Precision",
+      "speaking": "Disciplined Intelligent",
+      "solving": "Wrestling and Striking",
+      "quotes": [
+        "I am a warrior"
+      ],
+      "recommended_skills": [
+        "athlete_mma"
+      ]
+    },
+    {
+      "id": "khabib_nurmagomedov",
+      "name": "Khabib Nurmagomedov",
+      "zhName": "Khabib Nurmagomedov",
+      "years": "1988-",
+      "field": "MMA",
+      "core": "The Eagle",
+      "thinking": "Domination and Sambo",
+      "speaking": "Humble Intense",
+      "solving": "Sambo and Grappling",
+      "quotes": [
+        "I am Dagestan"
+      ],
+      "recommended_skills": [
+        "athlete_mma"
+      ]
+    },
+    {
+      "id": "conor_mcgregor",
+      "name": "Conor McGregor",
+      "zhName": "Conor McGregor",
+      "years": "1988-",
+      "field": "MMA",
+      "core": "The Notorious",
+      "thinking": "Trash Talk and Power",
+      "speaking": "Confident Flashy",
+      "solving": "Striking and Confidence",
+      "quotes": [
+        "I am a businessman"
+      ],
+      "recommended_skills": [
+        "athlete_mma"
+      ]
+    },
+    {
+      "id": "nate_diaz",
+      "name": "Nate Diaz",
+      "zhName": "Nate Diaz",
+      "years": "1985-",
+      "field": "MMA",
+      "core": " Stockton",
+      "thinking": "BJJ and Durability",
+      "speaking": "Laid Back Tough",
+      "solving": "Grappling and Striking",
+      "quotes": [
+        "I am from Stockton"
+      ],
+      "recommended_skills": [
+        "athlete_mma"
+      ]
+    },
+    {
+      "id": "tony_ferguson",
+      "name": "Tony Ferguson",
+      "zhName": "Tony Ferguson",
+      "years": "1984-",
+      "field": "MMA",
+      "core": "El Cucuy",
+      "thinking": "Creativity and Chaos",
+      "speaking": "Chaotic Intense",
+      "solving": "Unorthodox MMA",
+      "quotes": [
+        "I am unorthodox"
+      ],
+      "recommended_skills": [
+        "athlete_mma"
+      ]
+    },
+    {
+      "id": "stipe_miocic",
+      "name": "Stipe Miocic",
+      "zhName": "Stipe Miocic",
+      "years": "1982-",
+      "field": "MMA",
+      "core": "UFC Heavyweight Champion",
+      "thinking": "Knockout Power and Patience",
+      "speaking": "Humble Humorous",
+      "solving": "Boxing and Wrestling",
+      "quotes": [
+        "I am just here to work"
+      ],
+      "recommended_skills": [
+        "athlete_mma"
+      ]
+    },
+    {
+      "id": "daniel_cormier",
+      "name": "Daniel Cormier",
+      "zhName": "Daniel Cormier",
+      "years": "1979-",
+      "field": "MMA",
+      "core": "Triple C",
+      "thinking": "Wrestling and Charisma",
+      "speaking": "Charismatic Humble",
+      "solving": "Wrestling and Striking",
+      "quotes": [
+        "I am triple C"
+      ],
+      "recommended_skills": [
+        "athlete_mma"
+      ]
+    },
+    {
+      "id": "lionel_messi",
+      "name": "Lionel Messi",
+      "zhName": "Lionel Messi",
+      "years": "1987-",
+      "field": "Soccer",
+      "core": "Greatest Ever",
+      "thinking": "Talent and Team",
+      "speaking": "Humble Low-key Focused",
+      "solving": "Dribbling and Goals",
+      "quotes": [
+        "I have always worked hard"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "cristiano_ronaldo",
+      "name": "Cristiano Ronaldo",
+      "zhName": "Cristiano Ronaldo",
+      "years": "1985-",
+      "field": "Soccer",
+      "core": "Football Legend",
+      "thinking": "Discipline and Competition",
+      "speaking": "Confident Ambitious",
+      "solving": "Physicality and Goals",
+      "quotes": [
+        "Hard work talent is worthless"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "kylian_mbappe",
+      "name": "Kylian Mbappe",
+      "zhName": "Kylian Mbappe",
+      "years": "1998-",
+      "field": "Soccer",
+      "core": "French Prodigy",
+      "thinking": "Speed and Finishing",
+      "speaking": "Confident Energetic",
+      "solving": "Speed and Shooting",
+      "quotes": [
+        "Speed is my weapon"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "erling_haaland",
+      "name": "Erling Haaland",
+      "zhName": "Erling Haaland",
+      "years": "2000-",
+      "field": "Soccer",
+      "core": "Norwegian Goal Machine",
+      "thinking": "Finishing and Power",
+      "speaking": "Humble Ambitious",
+      "solving": "Box Finishing",
+      "quotes": [
+        "I just want to score goals"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "neymar",
+      "name": "Neymar",
+      "zhName": "Neymar",
+      "years": "1992-",
+      "field": "Soccer",
+      "core": "Brazilian Star",
+      "thinking": "Skill and Creativity",
+      "speaking": "Confident Energetic",
+      "solving": "Dribbling and Skills",
+      "quotes": [
+        "I play football because I love it"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "kevin_de_bruyne",
+      "name": "Kevin De Bruyne",
+      "zhName": "Kevin De Bruyne",
+      "years": "1991-",
+      "field": "Soccer",
+      "core": "Belgian Playmaker",
+      "thinking": "Vision and Passing",
+      "speaking": "Professional",
+      "solving": "Midfield Orchestration",
+      "quotes": [
+        "Passing is my talent"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "mo_salah",
+      "name": "Mohamed Salah",
+      "zhName": "Mohamed Salah",
+      "years": "1992-",
+      "field": "Soccer",
+      "core": "Egyptian Pharaoh",
+      "thinking": "Speed and Finishing",
+      "speaking": "Humble",
+      "solving": "Winger Skills",
+      "quotes": [
+        "I fight for the fans"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "sadio_mane",
+      "name": "Sadio Mane",
+      "zhName": "Sadio Mane",
+      "years": "1992-",
+      "field": "Soccer",
+      "core": "Senegalese Winger",
+      "thinking": "Speed and Dribbling",
+      "speaking": "Humble",
+      "solving": "Winger Skills",
+      "quotes": [
+        "I run for the team"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "luka_modric",
+      "name": "Luka Modric",
+      "zhName": "Luka Modric",
+      "years": "1985-",
+      "field": "Soccer",
+      "core": "Croatian Mastermind",
+      "thinking": "Creativity and Vision",
+      "speaking": "Humble Magical",
+      "solving": "Midfield Control and Passing",
+      "quotes": [
+        "Small guys can do big things"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "toni_kroos",
+      "name": "Toni Kroos",
+      "zhName": "Toni Kroos",
+      "years": "1990-",
+      "field": "Soccer",
+      "core": "German Midfield Master",
+      "thinking": "Precision and Calm",
+      "speaking": "Calm Focused",
+      "solving": "Midfield and Long Passing",
+      "quotes": [
+        "Football is played with the brain"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "lionel_messi_new",
+      "name": "Lionel Messi New",
+      "zhName": "Messi",
+      "years": "1987-",
+      "field": "Soccer",
+      "core": "FC Inter Miami",
+      "thinking": "Talent and Team",
+      "speaking": "Humble Focused",
+      "solving": "Dribbling Goals",
+      "quotes": [
+        "足球是我的生命"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "cristiano_ronaldo_new",
+      "name": "Cristiano Ronaldo New",
+      "zhName": "C罗",
+      "years": "1985-",
+      "field": "Soccer",
+      "core": "Al Nassr",
+      "thinking": "Discipline and Competition",
+      "speaking": "Confident Ambitious",
+      "solving": "Physicality Goals",
+      "quotes": [
+        "没有努力的天赋一文不值"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "kylian_mbappe_new",
+      "name": "Kylian Mbappe New",
+      "zhName": "姆巴佩",
+      "years": "1998-",
+      "field": "Soccer",
+      "core": "Real Madrid",
+      "thinking": "Speed and Finishing",
+      "speaking": "Confident Energetic",
+      "solving": "Speed Shooting",
+      "quotes": [
+        "速度是我的武器"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "erling_haaland_new",
+      "name": "Erling Haaland New",
+      "zhName": "哈兰德",
+      "years": "2000-",
+      "field": "Soccer",
+      "core": "Manchester City",
+      "thinking": "Finishing and Power",
+      "speaking": "Humble Ambitious",
+      "solving": "Box Finishing",
+      "quotes": [
+        "我只想进球"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "vinicius_junior_new",
+      "name": "Vinicius Junior New",
+      "zhName": "维尼修斯",
+      "years": "2000-",
+      "field": "Soccer",
+      "core": "Real Madrid",
+      "thinking": "Speed and Skill",
+      "speaking": "Confident Energetic",
+      "solving": "Winger Skills",
+      "quotes": [
+        "我为皇马而生"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "bellingham_new",
+      "name": "Jude Bellingham New",
+      "zhName": "贝林厄姆",
+      "years": "2003-",
+      "field": "Soccer",
+      "core": "Real Madrid",
+      "thinking": "Versatility and Skill",
+      "speaking": "Confident Energetic",
+      "solving": "Midfield Skills",
+      "quotes": [
+        "我为英格兰而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "pedri_new",
+      "name": "Pedri New",
+      "zhName": "佩德里",
+      "years": "2002-",
+      "field": "Soccer",
+      "core": "Barcelona",
+      "thinking": "Technique and Control",
+      "speaking": "Humble",
+      "solving": "Midfield Skills",
+      "quotes": [
+        "我为巴萨而生"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "gavi_new",
+      "name": "Gavi New",
+      "zhName": "加维",
+      "years": "2004-",
+      "field": "Soccer",
+      "core": "Barcelona",
+      "thinking": "Fight and Technique",
+      "speaking": "Energetic",
+      "solving": "Midfield Skills",
+      "quotes": [
+        "我为西班牙而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "bukayo_saka_new",
+      "name": "Bukayo Saka New",
+      "zhName": "萨卡",
+      "years": "2001-",
+      "field": "Soccer",
+      "core": "Arsenal",
+      "thinking": "Technique and Speed",
+      "speaking": "Humble",
+      "solving": "Winger Skills",
+      "quotes": [
+        "我为阿森纳奔跑"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "declan_rice_new",
+      "name": "Declan Rice New",
+      "zhName": "赖斯",
+      "years": "1999-",
+      "field": "Soccer",
+      "core": "Arsenal",
+      "thinking": "Defensive and Passing",
+      "speaking": "Focused",
+      "solving": "Defensive Midfield",
+      "quotes": [
+        "我为英格兰而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "son_heungmin_new",
+      "name": "Son Heungmin New",
+      "zhName": "孙兴慜",
+      "years": "1992-",
+      "field": "Soccer",
+      "core": "Tottenham",
+      "thinking": "Speed and Finishing",
+      "speaking": "Humble",
+      "solving": "Winger Skills",
+      "quotes": [
+        "我为热刺奔跑"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "sony_hal",
+      "name": "Son Heungmin Tottenham",
+      "zhName": "孙兴慜热刺",
+      "years": "1992-",
+      "field": "Soccer",
+      "core": "Tottenham",
+      "thinking": "Speed and Finishing",
+      "speaking": "Humble",
+      "solving": "Winger Skills",
+      "quotes": [
+        "我为韩国而战"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "haaland_manchester",
+      "name": "Erling Haaland Manchester",
+      "zhName": "哈兰德曼城",
+      "years": "2000-",
+      "field": "Soccer",
+      "core": "Manchester City",
+      "thinking": "Finishing and Power",
+      "speaking": "Humble",
+      "solving": "Box Finishing",
+      "quotes": [
+        "我为曼城进球"
+      ],
+      "recommended_skills": [
+        "athlete_soccer"
+      ]
+    },
+    {
+      "id": "luka_doncic_basketball",
+      "name": "Luka Doncic",
+      "zhName": "东契奇",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "Dallas Mavericks",
+      "thinking": "Creativity and Basketball IQ",
+      "speaking": "Confident European",
+      "solving": "Playmaking and Scoring",
+      "quotes": [
+        "我爱篮球"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "joel_embiid_new",
+      "name": "Joel Embiid New",
+      "zhName": "恩比德",
+      "years": "1994-",
+      "field": "Basketball",
+      "core": "Philadelphia 76ers",
+      "thinking": "Post Play and Skill",
+      "speaking": "Confident Entertaining",
+      "solving": "Post Moves and Shooting",
+      "quotes": [
+        "过程"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "jayson_tatum_new",
+      "name": "Jayson Tatum New",
+      "zhName": "塔图姆",
+      "years": "1998-",
+      "field": "Basketball",
+      "core": "Boston Celtics",
+      "thinking": "Versatility and Skill",
+      "speaking": "Confident",
+      "solving": "Scoring and Playmaking",
+      "quotes": [
+        "我为波士顿而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "devin_booker_new",
+      "name": "Devin Booker New",
+      "zhName": "布克",
+      "years": "1996-",
+      "field": "Basketball",
+      "core": "Phoenix Suns",
+      "thinking": "Scoring Ability",
+      "speaking": "Focused",
+      "solving": "Scoring",
+      "quotes": [
+        "我为太阳而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "dorian_finney_smith",
+      "name": "Dorian Finney-Smith",
+      "zhName": "多里安芬尼史密斯",
+      "years": "1993-",
+      "field": "Basketball",
+      "core": "Dallas Mavericks",
+      "thinking": "Defense and Energy",
+      "speaking": "Humble",
+      "solving": "Defense",
+      "quotes": [
+        "我为达拉斯而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "lebron_james_new",
+      "name": "LeBron James New",
+      "zhName": "勒布朗詹姆斯",
+      "years": "1984-",
+      "field": "Basketball",
+      "core": "Los Angeles Lakers",
+      "thinking": "All-around and Leadership",
+      "speaking": "Mature Socially Responsible",
+      "solving": "All-around Skills",
+      "quotes": [
+        "我对篮球热爱"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "stephen_curry_new",
+      "name": "Stephen Curry New",
+      "zhName": "库里",
+      "years": "1988-",
+      "field": "Basketball",
+      "core": "Golden State Warriors",
+      "thinking": "Three Point Revolution",
+      "speaking": "Humble Infectious",
+      "solving": "Three Point Shooting",
+      "quotes": [
+        "我相信我可以投进任何球"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "kevin_durant_new",
+      "name": "Kevin Durant New",
+      "zhName": "杜兰特",
+      "years": "1988-",
+      "field": "Basketball",
+      "core": "Phoenix Suns",
+      "thinking": "Scoring Efficiency",
+      "speaking": "Confident Talented",
+      "solving": "Midrange and Scoring",
+      "quotes": [
+        "我就是死神"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "kyrie_irving_new",
+      "name": "Kyrie Irving New",
+      "zhName": "凯里欧文",
+      "years": "1992-",
+      "field": "Basketball",
+      "core": "Dallas Mavericks",
+      "thinking": "Skill and Creativity",
+      "speaking": "Controversial Individual",
+      "solving": "Dribbling Finishing",
+      "quotes": [
+        "我是控球之神"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "anthony_davis_new",
+      "name": "Anthony Davis New",
+      "zhName": "浓眉",
+      "years": "1993-",
+      "field": "Basketball",
+      "core": "Los Angeles Lakers",
+      "thinking": "Defense and Versatility",
+      "speaking": "Talented",
+      "solving": "Interior Defense",
+      "quotes": [
+        "我是AD"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "rj_barrett",
+      "name": "R.J. Barrett",
+      "zhName": "巴雷特",
+      "years": "2000-",
+      "field": "Basketball",
+      "core": "New York Knicks",
+      "thinking": "Versatility and Skill",
+      "speaking": "Confident",
+      "solving": "Scoring",
+      "quotes": [
+        "我为尼克斯而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "tyrese_maxey",
+      "name": "Tyrese Maxey",
+      "zhName": "马克西",
+      "years": "2000-",
+      "field": "Basketball",
+      "core": "Philadelphia 76ers",
+      "thinking": "Speed and Growth",
+      "speaking": "Humble",
+      "solving": "Scoring",
+      "quotes": [
+        "我每天都在进步"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "victor_wembanyama",
+      "name": "Victor Wembanyama",
+      "zhName": "文班亚玛",
+      "years": "2004-",
+      "field": "Basketball",
+      "core": "San Antonio Spurs",
+      "thinking": "Uniqueness and Height",
+      "speaking": "Humble",
+      "solving": "Defense Scoring",
+      "quotes": [
+        "我是独一无二的"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "lamelo_ball",
+      "name": "LaMelo Ball",
+      "zhName": "三球",
+      "years": "2001-",
+      "field": "Basketball",
+      "core": "Charlotte Hornets",
+      "thinking": "Vision and Passing",
+      "speaking": "Creative",
+      "solving": "Playmaking",
+      "quotes": [
+        "我为夏洛特而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "paul_george_new",
+      "name": "Paul George New",
+      "zhName": "保罗乔治",
+      "years": "1990-",
+      "field": "Basketball",
+      "core": "LA Clippers",
+      "thinking": "Two-way Play",
+      "speaking": "Confident",
+      "solving": "Two-way Play",
+      "quotes": [
+        "我为快船而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "jaylen_brown",
+      "name": "Jaylen Brown",
+      "zhName": "杰伦布朗",
+      "years": "1996-",
+      "field": "Basketball",
+      "core": "Boston Celtics",
+      "thinking": "Athleticism and Skill",
+      "speaking": "Confident",
+      "solving": "Scoring Defense",
+      "quotes": [
+        "我为凯尔特人而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "jimmy_butler",
+      "name": "Jimmy Butler",
+      "zhName": "吉米巴特勒",
+      "years": "1989-",
+      "field": "Basketball",
+      "core": "Miami Heat",
+      "thinking": "Competitiveness and Defense",
+      "speaking": "Tough",
+      "solving": "Two-way Play",
+      "quotes": [
+        "我是竞争者"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "tyler_herro",
+      "name": "Tyler Herro",
+      "zhName": "泰勒希罗",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "Miami Heat",
+      "thinking": "Shooting and Skill",
+      "speaking": "Confident",
+      "solving": "Scoring",
+      "quotes": [
+        "我为热火而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zach_lavine",
+      "name": "Zach LaVine",
+      "zhName": "扎克拉文",
+      "years": "1995-",
+      "field": "Basketball",
+      "core": "Chicago Bulls",
+      "thinking": "Athleticism and Scoring",
+      "speaking": "Confident",
+      "solving": "Shooting",
+      "quotes": [
+        "我为公牛而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "deAaron_fox",
+      "name": "DeAaron Fox",
+      "zhName": "福克斯",
+      "years": "1997-",
+      "field": "Basketball",
+      "core": "Sacramento Kings",
+      "thinking": "Speed and Playmaking",
+      "speaking": "Focused",
+      "solving": "Playmaking",
+      "quotes": [
+        "我为国王而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "domantas_sabonis",
+      "name": "Domantas Sabonis",
+      "zhName": "萨博尼斯",
+      "years": "1996-",
+      "field": "Basketball",
+      "core": "Sacramento Kings",
+      "thinking": "Passing and Rebounding",
+      "speaking": "Team Player",
+      "solving": "Post Playmaking",
+      "quotes": [
+        "我为国王而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "deMar_derozan",
+      "name": "DeMar DeRozan",
+      "zhName": "德罗赞",
+      "years": "1989-",
+      "field": "Basketball",
+      "core": "Chicago Bulls",
+      "thinking": "Midrange and Scoring",
+      "speaking": "Humble",
+      "solving": "Midrange Scoring",
+      "quotes": [
+        "我为公牛而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zach_lavine_new",
+      "name": "Zach LaVine New",
+      "zhName": "扎克拉文新",
+      "years": "1995-",
+      "field": "Basketball",
+      "core": "Chicago Bulls",
+      "thinking": "Athleticism and Shooting",
+      "speaking": "Confident",
+      "solving": "Shooting",
+      "quotes": [
+        "我为公牛飞翔"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "julius_randle",
+      "name": "Julius Randle",
+      "zhName": "兰德尔",
+      "years": "1994-",
+      "field": "Basketball",
+      "core": "New York Knicks",
+      "thinking": "Physicality and Skill",
+      "speaking": "Confident",
+      "solving": "Post Play",
+      "quotes": [
+        "我为纽约而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "rj_barrett_knicks",
+      "name": "R.J. Barrett Knicks",
+      "zhName": "巴雷特尼克斯",
+      "years": "2000-",
+      "field": "Basketball",
+      "core": "New York Knicks",
+      "thinking": "Versatility",
+      "speaking": "Confident",
+      "solving": "Scoring",
+      "quotes": [
+        "我为纽约而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "paolo_banchero",
+      "name": "Paolo Banchero",
+      "zhName": "班凯罗",
+      "years": "2002-",
+      "field": "Basketball",
+      "core": "Orlando Magic",
+      "thinking": "Size and Skill",
+      "speaking": "Confident",
+      "solving": "Scoring",
+      "quotes": [
+        "我为魔术而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "jabari_parker",
+      "name": "Jabari Parker",
+      "zhName": "贾巴里帕克",
+      "years": "1994-",
+      "field": "Basketball",
+      "core": "Atlanta Hawks",
+      "thinking": "Scoring Ability",
+      "speaking": "Talented",
+      "solving": "Scoring",
+      "quotes": [
+        "我为老鹰而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "trae_young",
+      "name": "Trae Young",
+      "zhName": "特雷杨",
+      "years": "1998-",
+      "field": "Basketball",
+      "core": "Atlanta Hawks",
+      "thinking": "Scoring and Passing",
+      "speaking": "Confident",
+      "solving": "Playmaking Scoring",
+      "quotes": [
+        "我为老鹰而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "dejounte_murray",
+      "name": "Dejounte Murray",
+      "zhName": "德章泰默里",
+      "years": "1991-",
+      "field": "Basketball",
+      "core": "Atlanta Hawks",
+      "thinking": "Defense and Playmaking",
+      "speaking": "Focused",
+      "solving": "Playmaking Defense",
+      "quotes": [
+        "我为老鹰而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "clint_capela",
+      "name": "Clint Capela",
+      "zhName": "卡佩拉",
+      "years": "1994-",
+      "field": "Basketball",
+      "core": "Atlanta Hawks",
+      "thinking": "Rebounding and Defense",
+      "speaking": "Humble",
+      "solving": "Rim Protection",
+      "quotes": [
+        "我为老鹰守护"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "mikal_bridges",
+      "name": "Mikal Bridges",
+      "zhName": "米卡尔布里奇斯",
+      "years": "1996-",
+      "field": "Basketball",
+      "core": "Brooklyn Nets",
+      "thinking": "Two-way Play",
+      "speaking": "Humble",
+      "solving": "Defense Scoring",
+      "quotes": [
+        "我为篮网而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "spencer_dinwiddie",
+      "name": "Spencer Dinwiddie",
+      "zhName": "丁威迪",
+      "years": "1993-",
+      "field": "Basketball",
+      "core": "Brooklyn Nets",
+      "thinking": "Scoring and Playmaking",
+      "speaking": "Confident",
+      "solving": "Playmaking Scoring",
+      "quotes": [
+        "我为篮网而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "cam_thomas",
+      "name": "Cam Thomas",
+      "zhName": "卡姆托马斯",
+      "years": "2001-",
+      "field": "Basketball",
+      "core": "Brooklyn Nets",
+      "thinking": "Scoring Ability",
+      "speaking": "Confident",
+      "solving": "Scoring",
+      "quotes": [
+        "我为篮网得分"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "nic_claxton",
+      "name": "Nic Claxton",
+      "zhName": "尼古拉克莱克斯顿",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "Brooklyn Nets",
+      "thinking": "Defense and Switchability",
+      "speaking": "Humble",
+      "solving": "Defense",
+      "quotes": [
+        "我为篮网防守"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "ben_simmons",
+      "name": "Ben Simmons",
+      "zhName": "本西蒙斯",
+      "years": "1996-",
+      "field": "Basketball",
+      "core": "Brooklyn Nets",
+      "thinking": "Playmaking and Defense",
+      "speaking": "Controversial",
+      "solving": "Playmaking Defense",
+      "quotes": [
+        "我为篮网组织"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "brandon_ingram",
+      "name": "Brandon Ingram",
+      "zhName": "英格拉姆",
+      "years": "1997-",
+      "field": "Basketball",
+      "core": "New Orleans Pelicans",
+      "thinking": "Scoring and Size",
+      "speaking": "Talented",
+      "solving": "Scoring",
+      "quotes": [
+        "我为鹈鹕而战"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zion_williamson",
+      "name": "Zion Williamson",
+      "zhName": "锡安威廉森",
+      "years": "2000-",
+      "field": "Basketball",
+      "core": "New Orleans Pelicans",
+      "thinking": "Athleticism and Power",
+      "speaking": "Humble",
+      "solving": "Driving Finishing",
+      "quotes": [
+        "我为鹈鹕飞翔"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "cj_mccollum",
+      "name": "CJ McCollum",
+      "zhName": "麦科勒姆",
+      "years": "1991-",
+      "field": "Basketball",
+      "core": "New Orleans Pelicans",
+      "thinking": "Shooting and Skill",
+      "speaking": "Confident",
+      "solving": "Scoring",
+      "quotes": [
+        "我为鹈鹕得分"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "yuta_watanabe",
+      "name": "Yuta Watanabe",
+      "zhName": "渡边勇大",
+      "years": "1994-",
+      "field": "Basketball",
+      "core": "Phoenix Suns",
+      "thinking": "Defense and Energy",
+      "speaking": "Humble",
+      "solving": "Defense",
+      "quotes": [
+        "我为太阳防守"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhou_qi_cn",
+      "name": "Zhou Qi CN",
+      "zhName": "周琦",
+      "years": "1996-",
+      "field": "Basketball",
+      "core": "CBA Player",
+      "thinking": "Height and Rim Protection",
+      "speaking": "有潜力",
+      "solving": "CBA",
+      "quotes": [
+        "我打CBA"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "yi_jianlian_cn",
+      "name": "Yi Jianlian CN",
+      "zhName": "易建联",
+      "years": "1987-",
+      "field": "Basketball",
+      "core": "CBA Legend",
+      "thinking": "Height and Shooting",
+      "speaking": "有实力",
+      "solving": "CBA",
+      "quotes": [
+        "我在NBA"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "yao_ming_cn",
+      "name": "Yao Ming CN",
+      "zhName": "姚明",
+      "years": "1980-",
+      "field": "Basketball",
+      "core": "Chinese Legend",
+      "thinking": "Height and Skill",
+      "speaking": "谦逊有实力",
+      "solving": "NBA",
+      "quotes": [
+        "NBA之旅"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "wang_zhirui",
+      "name": "Wang Zhirui",
+      "zhName": "王治郅",
+      "years": "1977-",
+      "field": "Basketball",
+      "core": "Chinese Pioneer",
+      "thinking": "Height and Skill",
+      "speaking": "有实力",
+      "solving": "CBA",
+      "quotes": [
+        "中国长城"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "yi_pengdi",
+      "name": "Yi Pengdi",
+      "zhName": "易建联",
+      "years": "1987-",
+      "field": "Basketball",
+      "core": "CBA Star",
+      "thinking": "Post Play",
+      "speaking": "有潜力",
+      "solving": "CBA",
+      "quotes": [
+        "CBA篮球"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "zhu_fangyu",
+      "name": "Zhu Fangyu",
+      "zhName": "朱芳雨",
+      "years": "1983-",
+      "field": "Basketball",
+      "core": "CBA Legend",
+      "thinking": "Shooting",
+      "speaking": "有实力",
+      "solving": "CBA",
+      "quotes": [
+        "CBA得分王"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "yi_jianlian_cz",
+      "name": "Yi Jianlian CZ",
+      "zhName": "易建联",
+      "years": "1987-",
+      "field": "Basketball",
+      "core": "CBA/",
+      "thinking": "身高投篮",
+      "speaking": "有潜力",
+      "solving": "内线投篮",
+      "quotes": [
+        "广东宏远"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "zhang_zyk",
+      "name": "Zhang ZYK",
+      "zhName": "张镇麟",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "CBA Star",
+      "thinking": "Athleticism",
+      "speaking": "有活力",
+      "solving": "CBA扣篮",
+      "quotes": [
+        "CBA扣篮王"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "wang_zhirui_bask",
+      "name": "Wang Zhirui Bask",
+      "zhName": "王治郅",
+      "years": "1977-",
+      "field": "Basketball",
+      "core": "CBA Pioneer",
+      "thinking": "内线技术",
+      "speaking": "有实力",
+      "solving": "CBA内线",
+      "quotes": [
+        "内线脚步"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "yi_jianlian_b",
+      "name": "Yi Jianlian B",
+      "zhName": "易建联B",
+      "years": "1987-",
+      "field": "Basketball",
+      "core": "CBA主力",
+      "thinking": "身高投篮",
+      "speaking": "有实力",
+      "solving": "CBA投篮",
+      "quotes": [
+        "广东队"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "zhang_zfk",
+      "name": "Zhang ZFK",
+      "zhName": "张镇麟",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "CBA新星",
+      "thinking": "运动能力",
+      "speaking": "有活力",
+      "solving": "CBA扣篮",
+      "quotes": [
+        "扣篮冠军"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "hu_yfq",
+      "name": "Hu YFQ",
+      "zhName": "胡明轩",
+      "years": "1998-",
+      "field": "Basketball",
+      "core": "CBA Star",
+      "thinking": "Shooting",
+      "speaking": "有活力",
+      "solving": "CBA投篮",
+      "quotes": [
+        "广东宏远"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "zhao_jiqi",
+      "name": "Zhao Jiqi",
+      "zhName": "赵继伟",
+      "years": "1995-",
+      "field": "Basketball",
+      "core": "CBA Guard",
+      "thinking": "Passing",
+      "speaking": "有实力",
+      "solving": "CBA组织",
+      "quotes": [
+        "辽宁队"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "sun_minghui",
+      "name": "Sun Minghui",
+      "zhName": "孙铭辉",
+      "years": "1996-",
+      "field": "Basketball",
+      "core": "CBA Guard",
+      "thinking": "Scoring",
+      "speaking": "有活力",
+      "solving": "CBA得分",
+      "quotes": [
+        "广东队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "wu_jxy",
+      "name": "Wu JXY",
+      "zhName": "吴前",
+      "years": "1994-",
+      "field": "Basketball",
+      "core": "CBA Star",
+      "thinking": "Shooting",
+      "speaking": "有实力",
+      "solving": "CBA投篮",
+      "quotes": [
+        "浙江队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhang_zhenkai",
+      "name": "Zhang Zhenkai",
+      "zhName": "张镇凯",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "CBA New",
+      "thinking": "Athleticism",
+      "speaking": "有活力",
+      "solving": "CBA扣篮",
+      "quotes": [
+        "扣篮冠军"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhang_jinkai",
+      "name": "Zhang Jinkai",
+      "zhName": "张镇麟",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "Liaoning",
+      "thinking": "Athleticism",
+      "speaking": "有活力",
+      "solving": "扣篮",
+      "quotes": [
+        "扣篮大赛"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "guo_aichun",
+      "name": "Guo Aichun",
+      "zhName": "郭艾伦",
+      "years": "1993-",
+      "field": "Basketball",
+      "core": "CBA Guard",
+      "thinking": "Scoring",
+      "speaking": "有活力",
+      "solving": "CBA得分",
+      "quotes": [
+        "辽宁队"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "li_nan_cn",
+      "name": "Li Nan CN",
+      "zhName": "李楠",
+      "years": "1974-",
+      "field": "Basketball",
+      "core": "CBA Coach",
+      "thinking": "Shooting",
+      "speaking": "有实力",
+      "solving": "CBA投篮",
+      "quotes": [
+        "中国教练"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "du_re",
+      "name": "Du Re",
+      "zhName": "杜锋",
+      "years": "1981-",
+      "field": "Basketball",
+      "core": "CBA Coach",
+      "thinking": "Defense",
+      "speaking": "有实力",
+      "solving": "CBA执教",
+      "quotes": [
+        "广东教练"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "yao_ming_cy",
+      "name": "Yao Ming CY",
+      "zhName": "姚明",
+      "years": "1980-",
+      "field": "Basketball",
+      "core": "CBA President",
+      "thinking": "Height",
+      "speaking": "谦逊有实力",
+      "solving": "CBA管理",
+      "quotes": [
+        "CBA主席"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "yi_jianlian_gd",
+      "name": "Yi Jianlian GD",
+      "zhName": "易建联",
+      "years": "1987-",
+      "field": "Basketball",
+      "core": "Guangdong",
+      "thinking": "身高投篮",
+      "speaking": "有实力",
+      "solving": "CBA内线",
+      "quotes": [
+        "广东宏远"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "zhang_jinkai_cy",
+      "name": "Zhang Jinkai CY",
+      "zhName": "张镇麟",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "Liaoning",
+      "thinking": "Athleticism",
+      "speaking": "有活力",
+      "solving": "扣篮",
+      "quotes": [
+        "扣篮王"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhao_jiqibk",
+      "name": "Zhao Jiqibk",
+      "zhName": "赵继伟bk",
+      "years": "1995-",
+      "field": "Basketball",
+      "core": "Liaoning",
+      "thinking": "Passing",
+      "speaking": "有实力",
+      "solving": "CBA组织",
+      "quotes": [
+        "辽宁队"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "hu_mingxuan",
+      "name": "Hu Mingxuan",
+      "zhName": "胡明轩",
+      "years": "1998-",
+      "field": "Basketball",
+      "core": "Guangdong",
+      "thinking": "Shooting",
+      "speaking": "有活力",
+      "solving": "CBA投篮",
+      "quotes": [
+        "广东宏远"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "xu_jie",
+      "name": "Xu Jie",
+      "zhName": "徐杰",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "Guangdong",
+      "thinking": "Mini Guard",
+      "speaking": "有活力",
+      "solving": "CBA组织",
+      "quotes": [
+        "广东队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zeng_qiang",
+      "name": "Zeng Qiang",
+      "zhName": "曾强",
+      "years": "1995-",
+      "field": "Basketball",
+      "core": "Guangdong",
+      "thinking": "Defense",
+      "speaking": "有实力",
+      "solving": "CBA防守",
+      "quotes": [
+        "广东队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "renjun_xs",
+      "name": "Renjun XS",
+      "zhName": "任骏飞",
+      "years": "1990-",
+      "field": "Basketball",
+      "core": "Guangdong",
+      "thinking": "Inside Scoring",
+      "speaking": "有实力",
+      "solving": "CBA内线",
+      "quotes": [
+        "广东队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhang_chenx",
+      "name": "Zhang Chenx",
+      "zhName": "张陈治锋",
+      "years": "2003-",
+      "field": "Basketball",
+      "core": "Liaoning",
+      "thinking": "Height",
+      "speaking": "有潜力",
+      "solving": "CBA内线",
+      "quotes": [
+        "辽宁队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhang_jinky",
+      "name": "Zhang Jinky",
+      "zhName": "张镇麟",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "Liaoning",
+      "thinking": "Athleticism",
+      "speaking": "有活力",
+      "solving": "扣篮",
+      "quotes": [
+        "扣篮大赛"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhao_jiaq",
+      "name": "Zhao Jiaq",
+      "zhName": "赵嘉仁",
+      "years": "1998-",
+      "field": "Basketball",
+      "core": "Liaoning",
+      "thinking": "Scoring",
+      "speaking": "有实力",
+      "solving": "CBA得分",
+      "quotes": [
+        "辽宁队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhu_fangyugk",
+      "name": "Zhu Fangyugk",
+      "zhName": "朱芳雨",
+      "years": "1983-",
+      "field": "Basketball",
+      "core": "CBA Legend",
+      "thinking": "Shooting",
+      "speaking": "有实力",
+      "solving": "CBA得分",
+      "quotes": [
+        "CBA历史得分王"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "liu_xiaoyu",
+      "name": "Liu Xiaoyu",
+      "zhName": "刘晓宇",
+      "years": "1989-",
+      "field": "Basketball",
+      "core": "CBA Guard",
+      "thinking": "Passing",
+      "speaking": "有实力",
+      "solving": "CBA组织",
+      "quotes": [
+        "北京队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "fang_shuo",
+      "name": "Fang Shuo",
+      "zhName": "方硕",
+      "years": "1990-",
+      "field": "Basketball",
+      "core": "Beijing",
+      "thinking": "Shooting",
+      "speaking": "有实力",
+      "solving": "CBA投篮",
+      "quotes": [
+        "北京队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhu_yifan",
+      "name": "Zhu Yifan",
+      "zhName": "朱彦西",
+      "years": "1991-",
+      "field": "Basketball",
+      "core": "Beijing",
+      "thinking": "Shooting",
+      "speaking": "有实力",
+      "solving": "CBA投篮",
+      "quotes": [
+        "北京队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhang_zeming",
+      "name": "Zhang Zeming",
+      "zhName": "张哲鸣",
+      "years": "1993-",
+      "field": "Basketball",
+      "core": "CBA Guard",
+      "thinking": "Passing",
+      "speaking": "有实力",
+      "solving": "CBA组织",
+      "quotes": [
+        "上海队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "wang_hongbo",
+      "name": "Wang Hongbo",
+      "zhName": "王洪博",
+      "years": "1994-",
+      "field": "Basketball",
+      "core": "CBA",
+      "thinking": "Scoring",
+      "speaking": "有实力",
+      "solving": "CBA得分",
+      "quotes": [
+        "CBA"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "li_anko",
+      "name": "Li Anko",
+      "zhName": "李安",
+      "years": "1992-",
+      "field": "Basketball",
+      "core": "Jilin",
+      "thinking": "Inside Scoring",
+      "speaking": "有实力",
+      "solving": "CBA内线",
+      "quotes": [
+        "吉林队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "hu_jqx",
+      "name": "Hu JQX",
+      "zhName": "胡金秋",
+      "years": "1997-",
+      "field": "Basketball",
+      "core": "Guangxia",
+      "thinking": "Inside Scoring",
+      "speaking": "有实力",
+      "solving": "CBA内线",
+      "quotes": [
+        "广厦队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "sun_tongyang",
+      "name": "Sun Tongyang",
+      "zhName": "孙桐阳",
+      "years": "1997-",
+      "field": "Basketball",
+      "core": "CBA",
+      "thinking": "Defense",
+      "speaking": "有实力",
+      "solving": "CBA防守",
+      "quotes": [
+        "CBA"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhao_yifan",
+      "name": "Zhao Yifan",
+      "zhName": "赵岩昊",
+      "years": "1997-",
+      "field": "Basketball",
+      "core": "Guangxia",
+      "thinking": "Shooting",
+      "speaking": "有实力",
+      "solving": "CBA投篮",
+      "quotes": [
+        "广厦队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "zhang_zhenkai_bj",
+      "name": "Zhang Zhenkai BJ",
+      "zhName": "张镇凯北京",
+      "years": "1999-",
+      "field": "Basketball",
+      "core": "CBA扣篮王",
+      "thinking": "Athleticism",
+      "speaking": "有活力",
+      "solving": "CBA扣篮",
+      "quotes": [
+        "扣篮冠军"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "hu_mingx_hk",
+      "name": "Hu Mingx HK",
+      "zhName": "胡明轩广东",
+      "years": "1998-",
+      "field": "Basketball",
+      "core": "CBA全明星",
+      "thinking": "Shooting",
+      "speaking": "有活力",
+      "solving": "CBA投篮",
+      "quotes": [
+        "广东宏远"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "zhao_jq_ln",
+      "name": "Zhao JQ Ln",
+      "zhName": "赵继伟辽宁",
+      "years": "1995-",
+      "field": "Basketball",
+      "core": "CBA组织核心",
+      "thinking": "Passing",
+      "speaking": "有实力",
+      "solving": "CBA组织",
+      "quotes": [
+        "辽宁队"
+      ],
+      "recommended_skills": [
+        "athlete_chinese"
+      ]
+    },
+    {
+      "id": "yu_dehao",
+      "name": "Yu Dehao",
+      "zhName": "于德豪",
+      "years": "1994-",
+      "field": "Basketball",
+      "core": "CBA防守悍将",
+      "thinking": "Defense",
+      "speaking": "有实力",
+      "solving": "CBA防守",
+      "quotes": [
+        "深圳队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "xu_dachuan",
+      "name": "Xu Dachuan",
+      "zhName": "徐达传",
+      "years": "1993-",
+      "field": "Basketball",
+      "core": "CBA老将",
+      "thinking": "Experience",
+      "speaking": "有实力",
+      "solving": "CBA经验",
+      "quotes": [
+        "CBA"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "jiang_wb",
+      "name": "Jiang WB",
+      "zhName": "姜伟泽",
+      "years": "2000-",
+      "field": "Basketball",
+      "core": "CBA新星",
+      "thinking": "Shooting",
+      "speaking": "有潜力",
+      "solving": "CBA投篮",
+      "quotes": [
+        "吉林队"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "qiu_szx",
+      "name": "Qiu Szx",
+      "zhName": "邱思陞",
+      "years": "1997-",
+      "field": "Basketball",
+      "core": "CBA扣将",
+      "thinking": "Athleticism",
+      "speaking": "有活力",
+      "solving": "CBA扣篮",
+      "quotes": [
+        "CBA"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "he_tian",
+      "name": "He Tian",
+      "zhName": "何天",
+      "years": "1995-",
+      "field": "Basketball",
+      "core": "CBA内线",
+      "thinking": "Post Play",
+      "speaking": "有实力",
+      "solving": "CBA内线",
+      "quotes": [
+        "CBA"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    }
+  ]
+}
