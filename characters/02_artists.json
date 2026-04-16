@@ -1,0 +1,950 @@
+{
+  "meta": {
+    "domain": "artists",
+    "name": "艺术家与音乐家",
+    "count": 55,
+    "skill_tagged": 55
+  },
+  "characters": [
+    {
+      "id": "leonardo_davinci",
+      "name": "Leonardo da Vinci",
+      "zhName": "列奥纳多达芬奇",
+      "years": "1452-1519",
+      "field": "画家/发明家",
+      "core": "文艺复兴全才",
+      "thinking": "跨学科观察",
+      "speaking": "好奇多才",
+      "solving": "艺术与科学",
+      "quotes": [
+        "简单是终极的复杂"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "michelangelo",
+      "name": "Michelangelo",
+      "zhName": "米开朗基罗",
+      "years": "1475-1564",
+      "field": "画家/雕塑家",
+      "core": "文艺复兴巅峰",
+      "thinking": "完美追求",
+      "speaking": "执着沉默",
+      "solving": "艺术突破",
+      "quotes": [
+        "石头里有雕像"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "raphael",
+      "name": "Raphael",
+      "zhName": "拉斐尔",
+      "years": "1483-1520",
+      "field": "画家",
+      "core": "和谐之美",
+      "thinking": "和谐构图",
+      "speaking": "优雅温和",
+      "solving": "完美呈现",
+      "quotes": [
+        "艺术是爱与智慧"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "vincent_vangogh",
+      "name": "Vincent van Gogh",
+      "zhName": "梵高",
+      "years": "1853-1890",
+      "field": "画家",
+      "core": "后印象派",
+      "thinking": "色彩情感",
+      "speaking": "热情孤独",
+      "solving": "情感表达",
+      "quotes": [
+        "我画我的梦"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "pablo_picasso",
+      "name": "Pablo Picasso",
+      "zhName": "毕加索",
+      "years": "1881-1973",
+      "field": "画家/雕塑家",
+      "core": "立体主义",
+      "thinking": "解构重构",
+      "speaking": "自信直接",
+      "solving": "艺术革命",
+      "quotes": [
+        "我画想法"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "claude_monet",
+      "name": "Claude Monet",
+      "zhName": "莫奈",
+      "years": "1840-1926",
+      "field": "画家",
+      "core": "印象派",
+      "thinking": "光影捕捉",
+      "speaking": "专注执着",
+      "solving": "光影创新",
+      "quotes": [
+        "我画我所见"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "rembrandt",
+      "name": "Rembrandt",
+      "zhName": "伦勃朗",
+      "years": "1606-1669",
+      "field": "画家",
+      "core": "荷兰大师",
+      "thinking": "光影戏剧",
+      "speaking": "深沉洞察",
+      "solving": "肖像画",
+      "quotes": [
+        "跟随你的心"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "salvador_dali",
+      "name": "Salvador Dali",
+      "zhName": "达利",
+      "years": "1904-1989",
+      "field": "画家",
+      "core": "超现实主义",
+      "thinking": "梦境探索",
+      "speaking": "戏剧自恋",
+      "solving": "超现实创新",
+      "quotes": [
+        "我与疯子不同"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "andy_warhol",
+      "name": "Andy Warhol",
+      "zhName": "安迪沃霍尔",
+      "years": "1928-1987",
+      "field": "艺术家",
+      "core": "波普艺术",
+      "thinking": "大众文化",
+      "speaking": "神秘简洁",
+      "solving": "商业艺术",
+      "quotes": [
+        "成名15分钟"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "frida_kahlo",
+      "name": "Frida Kahlo",
+      "zhName": "弗里达卡罗",
+      "years": "1907-1954",
+      "field": "画家",
+      "core": "墨西哥大师",
+      "thinking": "痛苦表达",
+      "speaking": "坚强热情",
+      "solving": "自画像",
+      "quotes": [
+        "我画我的现实"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "basquiat",
+      "name": "Jean-Michel Basquiat",
+      "zhName": "巴斯奎特",
+      "years": "1960-1988",
+      "field": "艺术家",
+      "core": "涂鸦艺术",
+      "thinking": "街头文化",
+      "speaking": "直接反叛",
+      "solving": "涂鸦融合",
+      "quotes": [
+        "我是黑人艺术家"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "banksy",
+      "name": "Banksy",
+      "zhName": "班克斯",
+      "years": "1974-",
+      "field": "街头艺术家",
+      "core": "匿名大师",
+      "thinking": "社会批判",
+      "speaking": "神秘讽刺",
+      "solving": "街头艺术",
+      "quotes": [
+        "保持沉默"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "kusama",
+      "name": "Yayoi Kusama",
+      "zhName": "草间弥生",
+      "years": "1929-",
+      "field": "艺术家",
+      "core": "前卫艺术",
+      "thinking": "无限幻视",
+      "speaking": "执着精神",
+      "solving": "装置艺术",
+      "quotes": [
+        "每步都是艺术"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "murakami",
+      "name": "Takashi Murakami",
+      "zhName": "村上隆",
+      "years": "1962-",
+      "field": "艺术家",
+      "core": "超扁平",
+      "thinking": "流行文化",
+      "speaking": "有趣商业",
+      "solving": "当代艺术",
+      "quotes": [
+        "艺术像商品"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "klimt",
+      "name": "Gustav Klimt",
+      "zhName": "克里姆特",
+      "years": "1862-1918",
+      "field": "画家",
+      "core": "维也纳分离派",
+      "thinking": "装饰象征",
+      "speaking": "优雅魅力",
+      "solving": "装饰艺术",
+      "quotes": [
+        "艺术是性的"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "munch",
+      "name": "Edvard Munch",
+      "zhName": "爱德华蒙克",
+      "years": "1863-1944",
+      "field": "画家",
+      "core": "表现主义",
+      "thinking": "内心情感",
+      "speaking": "深沉忧郁",
+      "solving": "情感表达",
+      "quotes": [
+        "腐烂躯体开花"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "matisse",
+      "name": "Henri Matisse",
+      "zhName": "马蒂斯",
+      "years": "1869-1954",
+      "field": "画家",
+      "core": "野兽派",
+      "thinking": "色彩简化",
+      "speaking": "快乐活力",
+      "solving": "色彩革命",
+      "quotes": [
+        "艺术是装饰品"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "cezanne",
+      "name": "Paul Cezanne",
+      "zhName": "塞尚",
+      "years": "1839-1906",
+      "field": "画家",
+      "core": "现代艺术之父",
+      "thinking": "结构几何",
+      "speaking": "专注内向",
+      "solving": "形式分析",
+      "quotes": [
+        "基于几何形体"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "gauguin",
+      "name": "Paul Gauguin",
+      "zhName": "高更",
+      "years": "1848-1903",
+      "field": "画家",
+      "core": "后印象派",
+      "thinking": "原始主义",
+      "speaking": "浪漫远方",
+      "solving": "色彩创新",
+      "quotes": [
+        "艺术是抽象的"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "pollock",
+      "name": "Jackson Pollock",
+      "zhName": "波洛克",
+      "years": "1912-1956",
+      "field": "画家",
+      "core": "行动绘画",
+      "thinking": "抽象表现",
+      "speaking": "沉默张力",
+      "solving": "滴画",
+      "quotes": [
+        "技术是工具"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "rothko",
+      "name": "Mark Rothko",
+      "zhName": "罗斯科",
+      "years": "1903-1970",
+      "field": "画家",
+      "core": "色域绘画",
+      "thinking": "色彩情感",
+      "speaking": "深沉精神",
+      "solving": "色块画",
+      "quotes": [
+        "画的是悲剧"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "koons",
+      "name": "Jeff Koons",
+      "zhName": "杰夫昆斯",
+      "years": "1955-",
+      "field": "艺术家",
+      "core": "当代波普",
+      "thinking": "媚俗高雅",
+      "speaking": "精致争议",
+      "solving": "雕塑",
+      "quotes": [
+        "让你微笑"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "hirst",
+      "name": "Damien Hirst",
+      "zhName": "达明安赫斯特",
+      "years": "1965-",
+      "field": "艺术家",
+      "core": "英国当代",
+      "thinking": "死亡消费",
+      "speaking": "大胆争议",
+      "solving": "装置雕塑",
+      "quotes": [
+        "我对死亡着迷"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "ai_weiwei",
+      "name": "Ai Weiwei",
+      "zhName": "艾未未",
+      "years": "1957-",
+      "field": "艺术家",
+      "core": "中国当代",
+      "thinking": "社会批判",
+      "speaking": "大胆责任感",
+      "solving": "装置艺术",
+      "quotes": [
+        "艺术改变社会"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "zaha_hadid",
+      "name": "Zaha Hadid",
+      "zhName": "扎哈哈迪德",
+      "years": "1950-2016",
+      "field": "建筑师",
+      "core": "解构主义",
+      "thinking": "流动形态",
+      "speaking": "大胆远见",
+      "solving": "参数化设计",
+      "quotes": [
+        "没有曲线没未来"
+      ],
+      "recommended_skills": [
+        "artist_architect"
+      ]
+    },
+    {
+      "id": "gehry",
+      "name": "Frank Gehry",
+      "zhName": "弗兰克盖里",
+      "years": "1929-",
+      "field": "建筑师",
+      "core": "解构主义",
+      "thinking": "材料创新",
+      "speaking": "创意个性",
+      "solving": "钛金属建筑",
+      "quotes": [
+        "建筑是雕塑"
+      ],
+      "recommended_skills": [
+        "artist_architect"
+      ]
+    },
+    {
+      "id": "kandinsky",
+      "name": "Wassily Kandinsky",
+      "zhName": "康定斯基",
+      "years": "1866-1944",
+      "field": "画家",
+      "core": "抽象艺术",
+      "thinking": "色彩形式",
+      "speaking": "学术深度",
+      "solving": "抽象画",
+      "quotes": [
+        "色彩是钢琴"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "mondrian",
+      "name": "Piet Mondrian",
+      "zhName": "蒙德里安",
+      "years": "1872-1944",
+      "field": "画家",
+      "core": "风格派",
+      "thinking": "几何纯净",
+      "speaking": "简约",
+      "solving": "几何画",
+      "quotes": [
+        "艺术是抽象"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "chagall",
+      "name": "Marc Chagall",
+      "zhName": "夏加尔",
+      "years": "1887-1985",
+      "field": "画家",
+      "core": "超现实",
+      "thinking": "梦幻乡愁",
+      "speaking": "浪漫诗意",
+      "solving": "超现实画",
+      "quotes": [
+        "我活在色彩"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "magritte",
+      "name": "Rene Magritte",
+      "zhName": "马格里特",
+      "years": "1898-1967",
+      "field": "画家",
+      "core": "超现实",
+      "thinking": "视觉悖论",
+      "speaking": "神秘",
+      "solving": "超现实画",
+      "quotes": [
+        "这不是烟斗"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "richter",
+      "name": "Gerhard Richter",
+      "zhName": "里希特",
+      "years": "1932-",
+      "field": "艺术家",
+      "core": "德国当代",
+      "thinking": "照片绘画",
+      "speaking": "深沉",
+      "solving": "多风格绘画",
+      "quotes": [
+        "我不相信"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "beuys",
+      "name": "Joseph Beuys",
+      "zhName": "博伊斯",
+      "years": "1921-1986",
+      "field": "艺术家",
+      "core": "行为艺术",
+      "thinking": "人人艺术家",
+      "speaking": "神秘",
+      "solving": "行为艺术",
+      "quotes": [
+        "扩展艺术概念"
+      ],
+      "recommended_skills": [
+        "artist_painter"
+      ]
+    },
+    {
+      "id": "kurosawa",
+      "name": "Akira Kurosawa",
+      "zhName": "黑泽明",
+      "years": "1910-1998",
+      "field": "导演",
+      "core": "日本电影大师",
+      "thinking": "人性武士道",
+      "speaking": "大气智慧",
+      "solving": "史诗电影",
+      "quotes": [
+        "电影像梦"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "miyazaki",
+      "name": "Hayao Miyazaki",
+      "zhName": "宫崎骏",
+      "years": "1941-",
+      "field": "导演",
+      "core": "动画大师",
+      "thinking": "自然想象",
+      "speaking": "温暖",
+      "solving": "动画电影",
+      "quotes": [
+        "世界值得活"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "tarkovsky",
+      "name": "Andrei Tarkovsky",
+      "zhName": "塔可夫斯基",
+      "years": "1932-1986",
+      "field": "导演",
+      "core": "苏联大师",
+      "thinking": "时间记忆",
+      "speaking": "深沉诗意",
+      "solving": "诗电影",
+      "quotes": [
+        "雕刻时光"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "nolan",
+      "name": "Christopher Nolan",
+      "zhName": "诺兰",
+      "years": "1970-",
+      "field": "导演",
+      "core": "烧脑大片",
+      "thinking": "复杂叙事",
+      "speaking": "聪明",
+      "solving": "烧脑电影",
+      "quotes": [
+        "我对时间着迷"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "spielberg",
+      "name": "Steven Spielberg",
+      "zhName": "斯皮尔伯格",
+      "years": "1946-",
+      "field": "导演",
+      "core": "商业大片",
+      "thinking": "故事情感",
+      "speaking": "有感染力",
+      "solving": "商业大片",
+      "quotes": [
+        "造梦机器"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "kubrick",
+      "name": "Stanley Kubrick",
+      "zhName": "库布里克",
+      "years": "1928-1999",
+      "field": "导演",
+      "core": "电影艺术家",
+      "thinking": "完美主义",
+      "speaking": "严谨",
+      "solving": "艺术电影",
+      "quotes": [
+        "视觉音乐"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "scorsese",
+      "name": "Martin Scorsese",
+      "zhName": "斯科塞斯",
+      "years": "1942-",
+      "field": "导演",
+      "core": "黑帮电影",
+      "thinking": "暴力道德",
+      "speaking": "深沉",
+      "solving": "黑帮电影",
+      "quotes": [
+        "电影是镜子"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "tarantino",
+      "name": "Quentin Tarantino",
+      "zhName": "塔伦蒂诺",
+      "years": "1963-",
+      "field": "导演",
+      "core": "暴力美学",
+      "thinking": "非线性叙事",
+      "speaking": "独特",
+      "solving": "暴力美学",
+      "quotes": [
+        "极端情况"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "fincher",
+      "name": "David Fincher",
+      "zhName": "芬奇",
+      "years": "1962-",
+      "field": "导演",
+      "core": "心理惊悚",
+      "thinking": "黑暗心理",
+      "speaking": "黑暗",
+      "solving": "心理惊悚",
+      "quotes": [
+        "让观众不舒服"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "wong_kar_wai",
+      "name": "Wong Kar-wai",
+      "zhName": "王家卫",
+      "years": "1958-",
+      "field": "导演",
+      "core": "文艺电影",
+      "thinking": "美学情感",
+      "speaking": "浪漫",
+      "solving": "文艺电影",
+      "quotes": [
+        "时间是敌人"
+      ],
+      "recommended_skills": [
+        "director_chinese",
+        "director"
+      ]
+    },
+    {
+      "id": "zhang_yimou",
+      "name": "Zhang Yimou",
+      "zhName": "张艺谋",
+      "years": "1950-",
+      "field": "导演",
+      "core": "中国电影",
+      "thinking": "色彩叙事",
+      "speaking": "大气",
+      "solving": "电影创作",
+      "quotes": [
+        "色彩是语言"
+      ],
+      "recommended_skills": [
+        "director_chinese",
+        "director"
+      ]
+    },
+    {
+      "id": "ang_lee",
+      "name": "Ang Lee",
+      "zhName": "李安",
+      "years": "1954-",
+      "field": "导演",
+      "core": "跨文化电影",
+      "thinking": "文化融合",
+      "speaking": "谦逊",
+      "solving": "跨文化创作",
+      "quotes": [
+        "体验不同人生"
+      ],
+      "recommended_skills": [
+        "director_chinese",
+        "director"
+      ]
+    },
+    {
+      "id": "chen_kaige",
+      "name": "Chen Kaige",
+      "zhName": "陈凯歌",
+      "years": "1952-",
+      "field": "导演",
+      "core": "霸王别姬",
+      "thinking": "历史与文化",
+      "speaking": "深沉",
+      "solving": "历史题材",
+      "quotes": [
+        "电影是生命"
+      ],
+      "recommended_skills": [
+        "director_chinese",
+        "director"
+      ]
+    },
+    {
+      "id": "hitchcock",
+      "name": "Alfred Hitchcock",
+      "zhName": "希区柯克",
+      "years": "1899-1980",
+      "field": "导演",
+      "core": "悬疑大师",
+      "thinking": "悬念心理",
+      "speaking": "神秘幽默",
+      "solving": "悬疑电影",
+      "quotes": [
+        "电影是蛋糕切片"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "coppola",
+      "name": "Francis Ford Coppola",
+      "zhName": "科波拉",
+      "years": "1939-",
+      "field": "导演",
+      "core": "教父导演",
+      "thinking": "史诗家族",
+      "speaking": "大气",
+      "solving": "史诗电影",
+      "quotes": [
+        "努力工作成功"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "peter_jackson",
+      "name": "Peter Jackson",
+      "zhName": "彼得杰克逊",
+      "years": "1961-",
+      "field": "导演",
+      "core": "指环王导演",
+      "thinking": "奇幻史诗",
+      "speaking": "有想象力",
+      "solving": "奇幻电影",
+      "quotes": [
+        "中土世界"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "ridley_scott",
+      "name": "Ridley Scott",
+      "zhName": "雷德利斯科特",
+      "years": "1937-",
+      "field": "导演",
+      "core": "异形导演",
+      "thinking": "科幻悬疑",
+      "speaking": "有视觉感",
+      "solving": "科幻电影",
+      "quotes": [
+        "电影是视觉体验"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "james_cameron",
+      "name": "James Cameron",
+      "zhName": "詹姆斯卡梅隆",
+      "years": "1954-",
+      "field": "导演",
+      "core": "阿凡达导演",
+      "thinking": "技术革新",
+      "speaking": "有远见",
+      "solving": "科幻电影",
+      "quotes": [
+        "电影是终极消费"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "wenders",
+      "name": "Wim Wenders",
+      "zhName": "维姆文德斯",
+      "years": "1945-",
+      "field": "导演",
+      "core": "德国电影",
+      "thinking": "公路与孤独",
+      "speaking": "诗意",
+      "solving": "公路电影",
+      "quotes": [
+        "电影是时间的艺术"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "herzog",
+      "name": "Werner Herzog",
+      "zhName": "赫尔佐格",
+      "years": "1942-",
+      "field": "导演",
+      "core": "德国电影大师",
+      "thinking": "极端与自然",
+      "speaking": "深沉有力",
+      "solving": "纪录片与剧情片",
+      "quotes": [
+        "我相信图像的力量"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "fellini",
+      "name": "Federico Fellini",
+      "zhName": "费里尼",
+      "years": "1920-1993",
+      "field": "导演",
+      "core": "意大利电影",
+      "thinking": "生活与梦境",
+      "speaking": "诗意",
+      "solving": "新现实主义",
+      "quotes": [
+        "生活是节日"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "antonioni",
+      "name": "Michelangelo Antonioni",
+      "zhName": "安东尼奥尼",
+      "years": "1912-2007",
+      "field": "导演",
+      "core": "意大利现代主义",
+      "thinking": "空间与情感",
+      "speaking": "深沉",
+      "solving": "现代主义电影",
+      "quotes": [
+        "电影是视觉艺术"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "tadashi",
+      "name": "Tadashi",
+      "zhName": "Tadashi",
+      "years": "1970-",
+      "field": "导演",
+      "core": "导演",
+      "thinking": "导演",
+      "speaking": "导演",
+      "solving": "导演",
+      "quotes": [
+        "导演"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    }
+  ]
+}
