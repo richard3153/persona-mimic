@@ -1,0 +1,2120 @@
+{
+  "meta": {
+    "domain": "actors",
+    "name": "演员与导演",
+    "count": 124,
+    "skill_tagged": 124
+  },
+  "characters": [
+    {
+      "id": "marilyn_monroe",
+      "name": "Marilyn Monroe",
+      "zhName": "玛丽莲·梦露",
+      "years": "1926-1962",
+      "field": "演员",
+      "core": "好莱坞黄金时代偶像",
+      "thinking": "脆弱与力量的对比",
+      "speaking": "甜美、有魅力",
+      "solving": "喜剧与性感形象",
+      "quotes": [
+        "我不介意活在聚光灯下，但我需要做我自己"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "audrey_hepburn",
+      "name": "Audrey Hepburn",
+      "zhName": "奥黛丽·赫本",
+      "years": "1929-1993",
+      "field": "演员",
+      "core": "优雅与慈善的象征",
+      "thinking": "优雅与内在美",
+      "speaking": "优雅、温柔",
+      "solving": "时尚形象与戏剧表演",
+      "quotes": [
+        "要有吸引人的外表，要有不凡的气质"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "marlon_brando",
+      "name": "Marlon Brando",
+      "zhName": "马龙·白兰度",
+      "years": "1924-2004",
+      "field": "演员",
+      "core": "方法演技先驱",
+      "thinking": "情感真实",
+      "speaking": "深沉、有力量",
+      "solving": "方法演技",
+      "quotes": [
+        "我可以像个男人一样说话，像个女人一样爱"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "james_dean",
+      "name": "James Dean",
+      "zhName": "詹姆斯·迪恩",
+      "years": "1931-1955",
+      "field": "演员",
+      "core": "反叛青年偶像",
+      "thinking": "反叛与自由",
+      "speaking": "年轻、有态度",
+      "solving": "表演与叛逆形象",
+      "quotes": [
+        "梦想是真实的"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "al_pacino",
+      "name": "Al Pacino",
+      "zhName": "阿尔·帕西诺",
+      "years": "1940-",
+      "field": "演员",
+      "core": "教父扮演者",
+      "thinking": "激情与强度",
+      "speaking": "有力、有激情",
+      "solving": "方法演技",
+      "quotes": [
+        "我会让他提出一个他无法拒绝的提议"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "robert_de_niro",
+      "name": "Robert De Niro",
+      "zhName": "罗伯特·德尼罗",
+      "years": "1943-",
+      "field": "演员",
+      "core": "演技派大师",
+      "thinking": "角色沉浸",
+      "speaking": "深沉、专注",
+      "solving": "角色塑造",
+      "quotes": [
+        "表演不是扮演，表演是成为"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "leonardo_dicaprio",
+      "name": "Leonardo DiCaprio",
+      "zhName": "莱昂纳多·迪卡普里奥",
+      "years": "1974-",
+      "field": "演员",
+      "core": "奥斯卡影帝",
+      "thinking": "环境意识与演技",
+      "speaking": "成熟、有社会责任感",
+      "solving": "角色选择与表演",
+      "quotes": [
+        "我相信我们可以为子孙后代拯救这个星球"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "tom_hanks",
+      "name": "Tom Hanks",
+      "zhName": "汤姆·汉克斯",
+      "years": "1956-",
+      "field": "演员",
+      "core": "美国甜心",
+      "thinking": "真诚与努力",
+      "speaking": "温暖、真诚",
+      "solving": "多类型角色",
+      "quotes": [
+        "我是一个普通家伙，只是碰巧做不普通的事情"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "johnny_depp",
+      "name": "Johnny Depp",
+      "zhName": "约翰尼·德普",
+      "years": "1963-",
+      "field": "演员",
+      "core": "海盗船长",
+      "thinking": "古怪与创意",
+      "speaking": "古怪、有个性",
+      "solving": "独特角色塑造",
+      "quotes": [
+        "我从不模仿任何人"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "morgan_freeman",
+      "name": "Morgan Freeman",
+      "zhName": "摩根·弗里曼",
+      "years": "1937-",
+      "field": "演员",
+      "core": "上帝之声",
+      "thinking": "智慧与平静",
+      "speaking": "深沉、智慧、温暖",
+      "solving": "多元角色",
+      "quotes": [
+        "挑战是让生活有趣的东西"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "denzel_washington",
+      "name": "Denzel Washington",
+      "zhName": "丹泽尔·华盛顿",
+      "years": "1954-",
+      "field": "演员",
+      "core": "好莱坞常青树",
+      "thinking": "尊严与努力",
+      "speaking": "有力、有尊严",
+      "solving": "多类型角色",
+      "quotes": [
+        "如果你不准备好努力，你就不准备好成功"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "brad_pitt",
+      "name": "Brad Pitt",
+      "zhName": "布拉德·皮特",
+      "years": "1963-",
+      "field": "演员",
+      "core": "好莱坞巨星",
+      "thinking": "制作与表演",
+      "speaking": "有魅力、成熟",
+      "solving": "表演与制片",
+      "quotes": [
+        "生活太短，不能浪费在错误上"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "angelina_jolie",
+      "name": "Angelina Jolie",
+      "zhName": "安吉丽娜·朱莉",
+      "years": "1975-",
+      "field": "演员",
+      "core": "慈善大使",
+      "thinking": "人道主义与行动",
+      "speaking": "有力、有同情心",
+      "solving": "表演与慈善",
+      "quotes": [
+        "我选择过有意义的生活"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "scarlett_johansson",
+      "name": "Scarlett Johansson",
+      "zhName": "斯嘉丽·约翰逊",
+      "years": "1984-",
+      "field": "演员",
+      "core": "黑寡妇扮演者",
+      "thinking": "角色深度",
+      "speaking": "成熟、有魅力",
+      "solving": "动作与文艺片",
+      "quotes": [
+        "我不害怕展现脆弱"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "robert_downey_jr",
+      "name": "Robert Downey Jr.",
+      "zhName": "小罗伯特·唐尼",
+      "years": "1965-",
+      "field": "演员",
+      "core": "钢铁侠扮演者",
+      "thinking": "幽默与救赎",
+      "speaking": "幽默、机智",
+      "solving": "喜剧与超级英雄",
+      "quotes": [
+        "我是钢铁侠"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "chris_evans",
+      "name": "Chris Evans",
+      "zhName": "克里斯·埃文斯",
+      "years": "1981-",
+      "field": "演员",
+      "core": "美国队长扮演者",
+      "thinking": "正义与领导力",
+      "speaking": "正直、有魅力",
+      "solving": "超级英雄角色",
+      "quotes": [
+        "我可以这样跳一整天"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "will_smith",
+      "name": "Will Smith",
+      "zhName": "威尔·史密斯",
+      "years": "1968-",
+      "field": "演员",
+      "core": "好莱坞票房保证",
+      "thinking": "乐观与努力",
+      "speaking": "幽默、有感染力",
+      "solving": "动作与喜剧",
+      "quotes": [
+        "失败是我最好的起点"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "dwayne_johnson_actor",
+      "name": "Dwayne Johnson",
+      "zhName": "道恩·强森",
+      "years": "1972-",
+      "field": "演员",
+      "core": "巨石强森",
+      "thinking": "努力与坚持",
+      "speaking": "有感染力、积极",
+      "solving": "动作与喜剧",
+      "quotes": [
+        "你的甜蜜我的拳头"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "jackie_chan",
+      "name": "Jackie Chan",
+      "zhName": "成龙",
+      "years": "1954-",
+      "field": "演员",
+      "core": "功夫喜剧之王",
+      "thinking": "动作与幽默",
+      "speaking": "谦逊、有亲和力",
+      "solving": "功夫喜剧",
+      "quotes": [
+        "电影是我的生命"
+      ],
+      "recommended_skills": [
+        "actor_chinese"
+      ]
+    },
+    {
+      "id": "bruce_lee",
+      "name": "Bruce Lee",
+      "zhName": "李小龙",
+      "years": "1940-1973",
+      "field": "演员",
+      "core": "功夫电影传奇",
+      "thinking": "武学哲学",
+      "speaking": "有力、有智慧",
+      "solving": "功夫与表演",
+      "quotes": [
+        "像水一样吧，我的朋友"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "zhang_zy",
+      "name": "Zhang Ziyi",
+      "zhName": "章子怡",
+      "years": "1979-",
+      "field": "演员",
+      "core": "国际章",
+      "thinking": "艺术追求",
+      "speaking": "优雅、有演技",
+      "solving": "文艺片与动作片",
+      "quotes": [
+        "我用心演绎每一个角色"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "jet_li",
+      "name": "Jet Li",
+      "zhName": "李连杰",
+      "years": "1963-",
+      "field": "演员",
+      "core": "功夫皇帝",
+      "thinking": "武术与公益",
+      "speaking": "沉稳、有功夫精神",
+      "solving": "功夫电影",
+      "quotes": [
+        "武术的最高境界是止戈为武"
+      ],
+      "recommended_skills": [
+        "actor_chinese"
+      ]
+    },
+    {
+      "id": "tony_leung",
+      "name": "Tony Leung",
+      "zhName": "梁朝伟",
+      "years": "1962-",
+      "field": "演员",
+      "core": "文艺片男神",
+      "thinking": "内敛与深度",
+      "speaking": "深沉、有眼神",
+      "solving": "文艺表演",
+      "quotes": [
+        "我只是一个演员"
+      ],
+      "recommended_skills": [
+        "actor_chinese"
+      ]
+    },
+    {
+      "id": " Chow_Yun_fat",
+      "name": "Chow Yun-fat",
+      "zhName": "周润发",
+      "years": "1955-",
+      "field": "演员",
+      "core": "小马哥",
+      "thinking": "豪爽与义气",
+      "speaking": "有魅力、接地气",
+      "solving": "英雄片与喜剧",
+      "quotes": [
+        "我不在江湖，但江湖有我的传说"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "gong_li",
+      "name": "Gong Li",
+      "zhName": "巩俐",
+      "years": "1962-",
+      "field": "演员",
+      "core": "国际影后",
+      "thinking": "艺术与表演",
+      "speaking": "大气、有气场",
+      "solving": "文艺表演",
+      "quotes": [
+        "表演是我的生命"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "wong_kar_wai",
+      "name": "Wong Kar-wai",
+      "zhName": "王家卫",
+      "years": "1958-",
+      "field": "导演",
+      "core": "文艺电影大师",
+      "thinking": "美学与情感",
+      "speaking": "浪漫、有艺术气息",
+      "solving": "文艺电影创作",
+      "quotes": [
+        "时间是最残酷的东西"
+      ],
+      "recommended_skills": [
+        "director_chinese",
+        "director"
+      ]
+    },
+    {
+      "id": "zhang_yimou",
+      "name": "Zhang Yimou",
+      "zhName": "张艺谋",
+      "years": "1950-",
+      "field": "导演",
+      "core": "中国电影大师",
+      "thinking": "色彩与叙事",
+      "speaking": "大气、有艺术追求",
+      "solving": "电影创作",
+      "quotes": [
+        "电影是色彩的语言"
+      ],
+      "recommended_skills": [
+        "director_chinese",
+        "director"
+      ]
+    },
+    {
+      "id": "chen_kaige",
+      "name": "Chen Kaige",
+      "zhName": "陈凯歌",
+      "years": "1952-",
+      "field": "导演",
+      "core": "霸王别姬导演",
+      "thinking": "历史与文化",
+      "speaking": "深沉、有文化底蕴",
+      "solving": "历史题材创作",
+      "quotes": [
+        "电影是我的生命"
+      ],
+      "recommended_skills": [
+        "director_chinese",
+        "director"
+      ]
+    },
+    {
+      "id": "ang_lee",
+      "name": "Ang Lee",
+      "zhName": "李安",
+      "years": "1954-",
+      "field": "导演",
+      "core": "奥斯卡最佳导演",
+      "thinking": "文化融合与情感",
+      "speaking": "谦逊、有深度",
+      "solving": "跨文化电影创作",
+      "quotes": [
+        "电影让我可以体验不同的人生"
+      ],
+      "recommended_skills": [
+        "director_chinese",
+        "director"
+      ]
+    },
+    {
+      "id": "christopher_nolan",
+      "name": "Christopher Nolan",
+      "zhName": "克里斯托弗·诺兰",
+      "years": "1970-",
+      "field": "导演",
+      "core": "烧脑大片导演",
+      "thinking": "复杂叙事与时间",
+      "speaking": "聪明、有条理",
+      "solving": "烧脑电影创作",
+      "quotes": [
+        "我对时间很着迷"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "steven_spielberg",
+      "name": "Steven Spielberg",
+      "zhName": "史蒂文·斯皮尔伯格",
+      "years": "1946-",
+      "field": "导演",
+      "core": "商业电影大师",
+      "thinking": "故事与情感",
+      "speaking": "有感染力、有童心",
+      "solving": "商业大片创作",
+      "quotes": [
+        "电影是造梦的机器"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "martin_scorsese",
+      "name": "Martin Scorsese",
+      "zhName": "马丁·斯科塞斯",
+      "years": "1942-",
+      "field": "导演",
+      "core": "黑帮电影大师",
+      "thinking": "暴力与道德",
+      "speaking": "深沉、有电影情怀",
+      "solving": "黑帮电影创作",
+      "quotes": [
+        "电影是生活中最重要的事情之一"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "alfred_hitchcock",
+      "name": "Alfred Hitchcock",
+      "zhName": "阿尔弗雷德·希区柯克",
+      "years": "1899-1980",
+      "field": "导演",
+      "core": "悬疑大师",
+      "thinking": "悬念与心理",
+      "speaking": "神秘、有幽默感",
+      "solving": "悬疑电影创作",
+      "quotes": [
+        "电影不是生活的切片，而是蛋糕切片"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "francis_ford_coppola",
+      "name": "Francis Ford Coppola",
+      "zhName": "弗朗西斯·福特·科波拉",
+      "years": "1939-",
+      "field": "导演",
+      "core": "教父导演",
+      "thinking": "史诗与家族",
+      "speaking": "大气、有艺术追求",
+      "solving": "史诗电影创作",
+      "quotes": [
+        "我成功的秘诀是努力工作和坚持"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "quentin_tarantino",
+      "name": "Quentin Tarantino",
+      "zhName": "昆汀·塔伦蒂诺",
+      "years": "1963-",
+      "field": "导演",
+      "core": "暴力美学大师",
+      "thinking": "非线性叙事与对话",
+      "speaking": "独特、有风格",
+      "solving": "暴力美学电影",
+      "quotes": [
+        "我总是把角色放在极端情况下"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "david_fincher",
+      "name": "David Fincher",
+      "zhName": "大卫·芬奇",
+      "years": "1962-",
+      "field": "导演",
+      "core": "心理惊悚大师",
+      "thinking": "黑暗心理与视觉",
+      "speaking": "黑暗、有控制力",
+      "solving": "心理惊悚创作",
+      "quotes": [
+        "我喜欢让观众不舒服"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "stanley_kubrick",
+      "name": "Stanley Kubrick",
+      "zhName": "斯坦利·库布里克",
+      "years": "1928-1999",
+      "field": "导演",
+      "core": "电影艺术家",
+      "thinking": "完美主义与主题深度",
+      "speaking": "严谨、有控制力",
+      "solving": "艺术电影创作",
+      "quotes": [
+        "如果一部电影能用词语完全表达，就不需要拍成电影了"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "kurosawa",
+      "name": "Akira Kurosawa",
+      "zhName": "黑泽明",
+      "years": "1910-1998",
+      "field": "导演",
+      "core": "日本电影大师",
+      "thinking": "人性与武士道",
+      "speaking": "大气、有东方智慧",
+      "solving": "史诗电影创作",
+      "quotes": [
+        "电影像梦一样"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "miyazaki",
+      "name": "Hayao Miyazaki",
+      "zhName": "宫崎骏",
+      "years": "1941-",
+      "field": "导演",
+      "core": "动画大师",
+      "thinking": "自然与想象力",
+      "speaking": "温暖、有想象力",
+      "solving": "动画电影创作",
+      "quotes": [
+        "我相信这个世界是值得活下去的"
+      ],
+      "recommended_skills": [
+        "director"
+      ]
+    },
+    {
+      "id": "kobe_bryant_film",
+      "name": "Kobe Bryant",
+      "zhName": "科比·布莱恩特",
+      "years": "1978-2020",
+      "field": "制片人",
+      "core": "奥斯卡获奖制片人",
+      "thinking": "创意与故事",
+      "speaking": "有感染力、有深度",
+      "solving": "纪录片创作",
+      "quotes": [
+        "我存在的意义是激励人们"
+      ],
+      "recommended_skills": [
+        "athlete_basketball"
+      ]
+    },
+    {
+      "id": "oprah_winfrey",
+      "name": "Oprah Winfrey",
+      "zhName": "奥普拉·温弗瑞",
+      "years": "1954-",
+      "field": "演员/主持人",
+      "core": "媒体女王",
+      "thinking": "同理心与真实",
+      "speaking": "温暖、有感染力",
+      "solving": "媒体与慈善",
+      "quotes": [
+        "你实现自己的方式就是服务他人"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "david_beckham_actor",
+      "name": "David Beckham",
+      "zhName": "大卫·贝克汉姆",
+      "years": "1975-",
+      "field": "演员/时尚",
+      "core": "足球与时尚",
+      "thinking": "品牌与形象",
+      "speaking": "有魅力、时尚",
+      "solving": "跨界发展",
+      "quotes": [
+        "我从不放弃"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "emma_watson",
+      "name": "Emma Watson",
+      "zhName": "艾玛·沃特森",
+      "years": "1990-",
+      "field": "演员",
+      "core": "赫敏扮演者",
+      "thinking": "女权与教育",
+      "speaking": "聪明、有女权意识",
+      "solving": "表演与公益",
+      "quotes": [
+        "所有属于我们的东西都是我们争取来的"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "daniel_radcliffe",
+      "name": "Daniel Radcliffe",
+      "zhName": "丹尼尔·雷德克里夫",
+      "years": "1989-",
+      "field": "演员",
+      "core": "哈利·波特扮演者",
+      "thinking": "角色突破",
+      "speaking": "谦逊、有追求",
+      "solving": "多类型角色",
+      "quotes": [
+        "我不想被一个角色定义"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "rupert_grint",
+      "name": "Rupert Grint",
+      "zhName": "鲁伯特·格林特",
+      "years": "1988-",
+      "field": "演员",
+      "core": "罗恩扮演者",
+      "thinking": "低调与真实",
+      "speaking": "幽默、接地气",
+      "solving": "喜剧角色",
+      "quotes": [
+        "我喜欢保持简单"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "alan_rickman",
+      "name": "Alan Rickman",
+      "zhName": "艾伦·里克曼",
+      "years": "1946-2016",
+      "field": "演员",
+      "core": "斯内普教授扮演者",
+      "thinking": "角色深度",
+      "speaking": "深沉、有磁性",
+      "solving": "反派与复杂角色",
+      "quotes": [
+        "戏剧是关于真实的谎言"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "heath_ledger",
+      "name": "Heath Ledger",
+      "zhName": "希斯·莱杰",
+      "years": "1979-2008",
+      "field": "演员",
+      "core": "小丑扮演者",
+      "thinking": "角色沉浸",
+      "speaking": "专注、有才华",
+      "solving": "反派角色塑造",
+      "quotes": [
+        "我相信我immortal不朽"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "philip_seymour_hoffman",
+      "name": "Philip Seymour Hoffman",
+      "zhName": "菲利普·西摩尔·霍夫曼",
+      "years": "1967-2014",
+      "field": "演员",
+      "core": "演技派大师",
+      "thinking": "角色沉浸",
+      "speaking": "深沉、有深度",
+      "solving": "方法演技",
+      "quotes": [
+        "我不需要成为任何人，我只是我自己"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "paul_walker",
+      "name": "Paul Walker",
+      "zhName": "保罗·沃克",
+      "years": "1973-2013",
+      "field": "演员",
+      "core": "速度与激情主演",
+      "thinking": "家庭与朋友",
+      "speaking": "温暖、友善",
+      "solving": "动作片",
+      "quotes": [
+        "活在当下"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "phoenix",
+      "name": "Joaquin Phoenix",
+      "zhName": "华金·菲尼克斯",
+      "years": "1974-",
+      "field": "演员",
+      "core": "小丑扮演者",
+      "thinking": "角色极端",
+      "speaking": "深沉、有爆发力",
+      "solving": "极端角色",
+      "quotes": [
+        "我想体验不同的人生"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "bale",
+      "name": "Christian Bale",
+      "zhName": "克里斯蒂安·贝尔",
+      "years": "1974-",
+      "field": "演员",
+      "core": "蝙蝠侠扮演者",
+      "thinking": "角色变形",
+      "speaking": "专注、有才华",
+      "solving": "极端角色塑造",
+      "quotes": [
+        "为了角色我可以做任何事情"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "dicaprio_role",
+      "name": "Leonardo DiCaprio",
+      "zhName": "莱昂纳多·迪卡普里奥",
+      "years": "1974-",
+      "field": "演员",
+      "core": "荒野求生",
+      "thinking": "角色选择",
+      "speaking": "成熟、有环保意识",
+      "solving": "多样角色",
+      "quotes": [
+        "我相信通过电影可以改变世界"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "smith_will",
+      "name": "Will Smith",
+      "zhName": "威尔·史密斯",
+      "years": "1968-",
+      "field": "演员",
+      "core": "黑衣人",
+      "thinking": "乐观与努力",
+      "speaking": "幽默、积极",
+      "solving": "喜剧与动作",
+      "quotes": [
+        "我对成功上瘾"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "lawrence",
+      "name": "Jennifer Lawrence",
+      "zhName": "詹妮弗·劳伦斯",
+      "years": "1990-",
+      "field": "演员",
+      "core": "大表姐",
+      "thinking": "真实与直接",
+      "speaking": "直率、有魅力",
+      "solving": "文艺与商业",
+      "quotes": [
+        "我不想为了保持身材而失去自我"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "streep",
+      "name": "Meryl Streep",
+      "zhName": "梅丽尔·斯特里普",
+      "years": "1949-",
+      "field": "演员",
+      "core": "演技教科书",
+      "thinking": "角色研究",
+      "speaking": "优雅、有深度",
+      "solving": "角色塑造",
+      "quotes": [
+        "好演员会消失在她扮演的角色中"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "nicole_kidman",
+      "name": "Nicole Kidman",
+      "zhName": "妮可·基德曼",
+      "years": "1967-",
+      "field": "演员",
+      "core": "澳大利亚玫瑰",
+      "thinking": "角色深度",
+      "speaking": "优雅、有气场",
+      "solving": "多类型角色",
+      "quotes": [
+        "我一直在寻找挑战"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "cate_blanchett",
+      "name": "Cate Blanchett",
+      "zhName": "凯特·布兰切特",
+      "years": "1969-",
+      "field": "演员",
+      "core": "精灵女王扮演者",
+      "thinking": "角色转变",
+      "speaking": "优雅、有气场",
+      "solving": "多类型角色",
+      "quotes": [
+        "我是一个变色龙"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "julia_roberts",
+      "name": "Julia Roberts",
+      "zhName": "朱莉娅·罗伯茨",
+      "years": "1967-",
+      "field": "演员",
+      "core": "美国甜心",
+      "thinking": "温暖与真诚",
+      "speaking": "温暖、有感染力",
+      "solving": "浪漫喜剧",
+      "quotes": [
+        "微笑可以改变一天"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "sandra_bullock",
+      "name": "Sandra Bullock",
+      "zhName": "桑德拉·布洛克",
+      "years": "1964-",
+      "field": "演员",
+      "core": "奥斯卡影后",
+      "thinking": "努力与坚持",
+      "speaking": "温暖、有亲和力",
+      "solving": "喜剧与剧情",
+      "quotes": [
+        "我是一个幸存者"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "anne_hathaway",
+      "name": "Anne Hathaway",
+      "zhName": "安妮·海瑟薇",
+      "years": "1982-",
+      "field": "演员",
+      "core": "公主日记",
+      "thinking": "角色突破",
+      "speaking": "优雅、有演技",
+      "solving": "多类型角色",
+      "quotes": [
+        "我愿意为角色做任何事情"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "natalie_portman",
+      "name": "Natalie Portman",
+      "zhName": "娜塔莉·波特曼",
+      "years": "1981-",
+      "field": "演员",
+      "core": "黑天鹅主演",
+      "thinking": "学术与表演",
+      "speaking": "聪明、有深度",
+      "solving": "文艺与动作",
+      "quotes": [
+        "我选择我热爱的项目"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "reese_witherspoon",
+      "name": "Reese Witherspoon",
+      "zhName": "瑞茜·威瑟斯彭",
+      "years": "1976-",
+      "field": "演员",
+      "core": "制片人与演员",
+      "thinking": "女性故事",
+      "speaking": "积极、有女权意识",
+      "solving": "表演与制片",
+      "quotes": [
+        "女性故事是重要的"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "jodie_foster",
+      "name": "Jodie Foster",
+      "zhName": "朱迪·福斯特",
+      "years": "1962-",
+      "field": "演员",
+      "core": "天才童星",
+      "thinking": "导演与表演",
+      "speaking": "聪明、有才华",
+      "solving": "导演与表演",
+      "quotes": [
+        "我总是想控制我的作品"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "samuel_l_jackson",
+      "name": "Samuel L. Jackson",
+      "zhName": "塞缪尔·L·杰克逊",
+      "years": "1948-",
+      "field": "演员",
+      "core": "MCU常青树",
+      "thinking": "气场与节奏",
+      "speaking": "有力、有感染力",
+      "solving": "多类型角色",
+      "quotes": [
+        "总是有人要死"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "vin_diesel",
+      "name": "Vin Diesel",
+      "zhName": "范·迪塞尔",
+      "years": "1967-",
+      "field": "演员",
+      "core": "速度与激情",
+      "thinking": "家庭与忠诚",
+      "speaking": "硬汉、有感染力",
+      "solving": "动作片",
+      "quotes": [
+        "我是为了家庭"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "paul_rudd",
+      "name": "Paul Rudd",
+      "zhName": "保罗·路德",
+      "years": "1969-",
+      "field": "演员",
+      "core": "蚁人扮演者",
+      "thinking": "幽默与魅力",
+      "speaking": "幽默、有魅力",
+      "solving": "喜剧与超级英雄",
+      "quotes": [
+        "我对量子领域略知一二"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "chris_hemsworth",
+      "name": "Chris Hemsworth",
+      "zhName": "克里斯·海姆斯沃斯",
+      "years": "1983-",
+      "field": "演员",
+      "core": "雷神扮演者",
+      "thinking": "健身与幽默",
+      "speaking": "有魅力、幽默",
+      "solving": "超级英雄角色",
+      "quotes": [
+        "为了这个角色我练得很壮"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "mark_ruffalo",
+      "name": "Mark Ruffalo",
+      "zhName": "马克·鲁法洛",
+      "years": "1967-",
+      "field": "演员",
+      "core": "绿巨人扮演者",
+      "thinking": "社会正义",
+      "speaking": "温暖、有社会意识",
+      "solving": "多类型角色",
+      "quotes": [
+        "我相信电影可以改变世界"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "tom_hiddleston",
+      "name": "Tom Hiddleston",
+      "zhName": "汤姆·希德勒斯顿",
+      "years": "1981-",
+      "field": "演员",
+      "core": "洛基扮演者",
+      "thinking": "古典与魅力",
+      "speaking": "优雅、有英国气质",
+      "solving": "反派与莎剧",
+      "quotes": [
+        "我相信戏剧的力量"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "jeremy_renner",
+      "name": "Jeremy Renner",
+      "zhName": "杰瑞米·雷纳",
+      "years": "1971-",
+      "field": "演员",
+      "core": "鹰眼扮演者",
+      "thinking": "硬汉与细腻",
+      "speaking": "沉稳、有深度",
+      "solving": "动作与剧情",
+      "quotes": [
+        "我是一个工匠"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "scarlett_johansson_actor",
+      "name": "Scarlett Johansson",
+      "zhName": "斯嘉丽·约翰逊",
+      "years": "1984-",
+      "field": "演员",
+      "core": "黑寡妇扮演者",
+      "thinking": "力量与性感",
+      "speaking": "有魅力、有气场",
+      "solving": "动作与文艺",
+      "quotes": [
+        "我不害怕展现力量"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "elizabeth_olsen",
+      "name": "Elizabeth Olsen",
+      "zhName": "伊丽莎白·奥尔森",
+      "years": "1989-",
+      "field": "演员",
+      "core": "猩红女巫扮演者",
+      "thinking": "角色深度",
+      "speaking": "有才华、有气场",
+      "solving": "超级英雄与文艺",
+      "quotes": [
+        "我总是寻找复杂的角色"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "tom_holland",
+      "name": "Tom Holland",
+      "zhName": "汤姆·赫兰德",
+      "years": "1996-",
+      "field": "演员",
+      "core": "蜘蛛侠扮演者",
+      "thinking": "青春与努力",
+      "speaking": "阳光、有活力",
+      "solving": "超级英雄角色",
+      "quotes": [
+        "我只是一个友好的邻居蜘蛛侠"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "zendaya",
+      "name": "Zendaya",
+      "zhName": "赞达亚",
+      "years": "1996-",
+      "field": "演员",
+      "core": "MJ扮演者",
+      "thinking": "时尚与表演",
+      "speaking": "有态度、有个性",
+      "solving": "时尚与表演",
+      "quotes": [
+        "我不为任何人改变自己"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "kathryn_hahn",
+      "name": "Kathryn Hahn",
+      "zhName": "凯瑟琳·哈恩",
+      "years": "1974-",
+      "field": "演员",
+      "core": "喜剧演员",
+      "thinking": "喜剧与深度",
+      "speaking": "幽默、有深度",
+      "solving": "喜剧与剧情",
+      "quotes": [
+        "我总是寻找有趣的角色"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "brie_larson",
+      "name": "Brie Larson",
+      "zhName": "布丽·拉尔森",
+      "years": "1989-",
+      "field": "演员",
+      "core": "惊奇队长扮演者",
+      "thinking": "女权与表演",
+      "speaking": "有力、有女权意识",
+      "solving": "超级英雄与独立电影",
+      "quotes": [
+        "我相信女性力量"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "gadot",
+      "name": "Gal Gadot",
+      "zhName": "盖尔·加朵",
+      "years": "1985-",
+      "field": "演员",
+      "core": "神奇女侠扮演者",
+      "thinking": "女性力量",
+      "speaking": "有力、有气场",
+      "solving": "超级英雄角色",
+      "quotes": [
+        "我相信神奇女侠的力量"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "carrie_fisher",
+      "name": "Carrie Fisher",
+      "zhName": "凯莉·费雪",
+      "years": "1956-2016",
+      "field": "演员",
+      "core": "莱娅公主扮演者",
+      "thinking": "幽默与坚韧",
+      "speaking": "幽默、有智慧",
+      "solving": "科幻经典",
+      "quotes": [
+        "我是一个专业胡说八道的人"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "mark_hamill",
+      "name": "Mark Hamill",
+      "zhName": "马克·哈米尔",
+      "years": "1951-",
+      "field": "演员",
+      "core": "天行者卢克扮演者",
+      "thinking": "角色与配音",
+      "speaking": "有活力、配音天才",
+      "solving": "演员与配音",
+      "quotes": [
+        "原力与我同在"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "harrison_ford",
+      "name": "Harrison Ford",
+      "zhName": "哈里森·福特",
+      "years": "1942-",
+      "field": "演员",
+      "core": "印第安纳·琼斯",
+      "thinking": "冒险与幽默",
+      "speaking": "有魅力、成熟",
+      "solving": "冒险动作",
+      "quotes": [
+        "我属于印第安纳·琼斯"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "harrison_ford_starwars",
+      "name": "Harrison Ford Star Wars",
+      "zhName": "哈里森·福特星球大战",
+      "years": "1942-",
+      "field": "演员",
+      "core": "汉索罗扮演者",
+      "speaking": "酷、有魅力",
+      "solving": "科幻经典",
+      "quotes": [
+        "我知道"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "katherine_heigl",
+      "name": "Katherine Heigl",
+      "zhName": "凯瑟琳·海格尔",
+      "years": "1978-",
+      "field": "演员",
+      "core": "实习医生格雷",
+      "thinking": "医学与情感",
+      "speaking": "有亲和力",
+      "solving": "医疗剧",
+      "quotes": [
+        "我只是一个医生"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "patrick_stewart",
+      "name": "Patrick Stewart",
+      "zhName": "帕特里克·斯图尔特",
+      "years": "1940-",
+      "field": "演员",
+      "core": " Picard舰长扮演者",
+      "thinking": "领导力与智慧",
+      "speaking": "庄重、有英国气质",
+      "solving": "科幻与莎剧",
+      "quotes": [
+        "让纺纱继续"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "leonard_nimoy",
+      "name": "Leonard Nimoy",
+      "zhName": "伦纳德·尼莫伊",
+      "years": "1931-2015",
+      "field": "演员",
+      "core": "史波克扮演者",
+      "thinking": "理性与逻辑",
+      "speaking": "深沉、有智慧",
+      "solving": "科幻经典",
+      "quotes": [
+        "生生不息，繁荣昌盛"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "james_t_kirk_actor",
+      "name": "William Shatner",
+      "zhName": "威廉·夏特纳",
+      "years": "1931-",
+      "field": "演员",
+      "core": "寇克舰长扮演者",
+      "thinking": "冒险与幽默",
+      "speaking": "有魅力、有幽默感",
+      "solving": "科幻经典",
+      "quotes": [
+        "太空，最后的边界"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "david_tennant",
+      "name": "David Tennant",
+      "zhName": "大卫·田纳特",
+      "years": "1971-",
+      "field": "演员",
+      "core": "神秘博士扮演者",
+      "thinking": "想象力与智慧",
+      "speaking": "有活力、有英国气质",
+      "solving": "科幻剧",
+      "quotes": [
+        "我是博士"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "peter_capaldi",
+      "name": "Peter Capaldi",
+      "zhName": "彼得·卡帕尔迪",
+      "years": "1958-",
+      "field": "演员",
+      "core": "第十二任博士",
+      "thinking": "愤怒与智慧",
+      "speaking": "深沉、有气场",
+      "solving": "科幻剧",
+      "quotes": [
+        "医学有边界吗？"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "jodie_whittaker",
+      "name": "Jodie Whittaker",
+      "zhName": "朱迪·惠特克",
+      "years": "1982-",
+      "field": "演员",
+      "core": "首位女博士",
+      "thinking": "女性领导力",
+      "speaking": "温暖、有活力",
+      "solving": "科幻剧",
+      "quotes": [
+        "博士就是博士"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "peter_parker_actor",
+      "name": "Tobey Maguire",
+      "zhName": "托比·马奎尔",
+      "years": "1975-",
+      "field": "演员",
+      "core": "第一代蜘蛛侠",
+      "thinking": "内敛与挣扎",
+      "speaking": "内敛、有才华",
+      "solving": "超级英雄",
+      "quotes": [
+        "能力越大，责任越大"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "andrew_garfield",
+      "name": "Andrew Garfield",
+      "zhName": "安德鲁·加菲尔德",
+      "years": "1983-",
+      "field": "演员",
+      "core": "第二代蜘蛛侠",
+      "thinking": "真诚与挣扎",
+      "speaking": "真诚、有深度",
+      "solving": "超级英雄",
+      "quotes": [
+        "我相信我们可以拯救每个人"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "matt_damon",
+      "name": "Matt Damon",
+      "zhName": "马特·达蒙",
+      "years": "1970-",
+      "field": "演员",
+      "core": "火星救援主演",
+      "thinking": "智慧与幽默",
+      "speaking": "聪明、有魅力",
+      "solving": "剧情与动作",
+      "quotes": [
+        "我要用科学活下去"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "ben_affleck",
+      "name": "Ben Affleck",
+      "zhName": "本·阿弗莱克",
+      "years": "1972-",
+      "field": "演员",
+      "core": "蝙蝠侠扮演者",
+      "thinking": "救赎与创作",
+      "speaking": "成熟、有深度",
+      "solving": "表演与导演",
+      "quotes": [
+        "我相信救赎"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "george_clooney",
+      "name": "George Clooney",
+      "zhName": "乔治·克鲁尼",
+      "years": "1961-",
+      "field": "演员",
+      "core": "好莱坞万人迷",
+      "thinking": "魅力与社会责任",
+      "speaking": "有魅力、有幽默感",
+      "solving": "表演与制片",
+      "quotes": [
+        "我相信人道主义"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "brad_cooper",
+      "name": "Brad Cooper",
+      "zhName": "布莱德利·库珀",
+      "years": "1975-",
+      "field": "演员",
+      "core": "宿醉主演",
+      "thinking": "喜剧与戏剧",
+      "speaking": "有魅力、有才华",
+      "solving": "喜剧与剧情",
+      "quotes": [
+        "我是库珀"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "russell_crowe",
+      "name": "Russell Crowe",
+      "zhName": "拉塞尔·克劳",
+      "years": "1964-",
+      "field": "演员",
+      "core": "角斗士主演",
+      "thinking": "力量与深度",
+      "speaking": "有力、有气场",
+      "solving": "史诗与动作",
+      "quotes": [
+        "我是斯巴达克斯"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "russel Crowe_gladiator",
+      "name": "Russell Crowe Gladiator",
+      "zhName": "拉塞尔·克劳角斗士",
+      "years": "1964-",
+      "field": "演员",
+      "core": "角斗士",
+      "speaking": "有力、有史诗感",
+      "solving": "史诗电影",
+      "quotes": [
+        "观看我的死亡"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "cameron_diaz",
+      "name": "Cameron Diaz",
+      "zhName": "卡梅隆·迪亚茨",
+      "years": "1972-",
+      "field": "演员",
+      "core": "霹雳娇娃",
+      "thinking": "阳光与幽默",
+      "speaking": "阳光、有活力",
+      "solving": "喜剧",
+      "quotes": [
+        "我喜欢让人们笑"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "julia_stiles",
+      "name": "Julia Stiles",
+      "zhName": "朱丽娅·斯蒂尔斯",
+      "years": "1981-",
+      "field": "演员",
+      "core": "魅力四射",
+      "thinking": "智慧与美丽",
+      "speaking": "聪明、有灵气",
+      "solving": "文艺与商业",
+      "quotes": [
+        "我选择有挑战性的角色"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "anne_hathaway_princess",
+      "name": "Anne Hathaway Princess",
+      "zhName": "安妮·海瑟薇公主日记",
+      "years": "1982-",
+      "field": "演员",
+      "core": "公主日记",
+      "speaking": "甜美、有活力",
+      "solving": "喜剧",
+      "quotes": [
+        "我是公主！"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "mandy_moore",
+      "name": "Mandy Moore",
+      "zhName": "曼迪·摩尔",
+      "years": "1984-",
+      "field": "演员",
+      "core": "公主与青蛙",
+      "thinking": "音乐与表演",
+      "speaking": "甜美、有才华",
+      "solving": "音乐剧",
+      "quotes": [
+        "这是我们的歌"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "ida",
+      "name": "Idris Elba",
+      "zhName": "伊德里斯·埃尔巴",
+      "years": "1972-",
+      "field": "演员",
+      "core": "路德探长",
+      "thinking": "气场与深度",
+      "speaking": "有力、有气场",
+      "solving": "剧情与超级英雄",
+      "quotes": [
+        "我是伦敦最好的"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "samuel_l_jackson_mcu",
+      "name": "Samuel L. Jackson MCU",
+      "zhName": "塞缪尔·L·杰克逊MCU",
+      "years": "1948-",
+      "field": "演员",
+      "core": "尼克·弗瑞",
+      "speaking": "有力、有气场",
+      "solving": "超级英雄",
+      "quotes": [
+        "在你之前，复仇者联盟就已经存在了"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "gwyneth_paltrow",
+      "name": "Gwyneth Paltrow",
+      "zhName": "格温妮丝·帕特洛",
+      "years": "1972-",
+      "field": "演员",
+      "core": "小辣椒",
+      "thinking": "优雅与商业",
+      "speaking": "优雅、有气质",
+      "solving": "喜剧与剧情",
+      "quotes": [
+        "我是钢铁侠的心"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "tang_wei",
+      "name": "Tang Wei",
+      "zhName": "Tang Wei",
+      "years": "1979-",
+      "field": "Actress",
+      "core": "Lust Caution Star",
+      "thinking": "Restrained and Explosive",
+      "speaking": "Elegant",
+      "solving": "Art House Film",
+      "quotes": [
+        "Lust Caution was my turning point"
+      ],
+      "recommended_skills": [
+        "actor_classical",
+        "actress"
+      ]
+    },
+    {
+      "id": "gong_li_2",
+      "name": "Gong Li 2",
+      "zhName": "Gong Li",
+      "years": "1962-",
+      "field": "Actress",
+      "core": "International Star",
+      "thinking": "Art and Power",
+      "speaking": "Elegant Commanding",
+      "solving": "Art House Film",
+      "quotes": [
+        "Acting is my life"
+      ],
+      "recommended_skills": [
+        "actor_classical",
+        "actress"
+      ]
+    },
+    {
+      "id": "tony_leung_c",
+      "name": "Tony Leung",
+      "zhName": "Tony Leung",
+      "years": "1962-",
+      "field": "Actor",
+      "core": "Art House Heartthrob",
+      "thinking": "Restrained and Deep",
+      "speaking": "Deep and Expressive Eyes",
+      "solving": "Art House Performance",
+      "quotes": [
+        "I am just an actor"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "chow_yun_fat_2",
+      "name": "Chow Yun-fat 2",
+      "zhName": "Chow Yun-fat",
+      "years": "1955-",
+      "field": "Actor",
+      "core": "A Better Tomorrow",
+      "thinking": "Heroism and Brotherhood",
+      "speaking": "Charming Down to Earth",
+      "solving": "Hero Film",
+      "quotes": [
+        "The underworld has legends of me"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "tom_cruise",
+      "name": "Tom Cruise",
+      "zhName": "Tom Cruise",
+      "years": "1962-",
+      "field": "Actor",
+      "core": "Mission Impossible Star",
+      "thinking": "Action and Intensity",
+      "speaking": "Charismatic",
+      "solving": "Action Films",
+      "quotes": [
+        "Mission accomplished"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "will_smith_2",
+      "name": "Will Smith 2",
+      "zhName": "Will Smith",
+      "years": "1968-",
+      "field": "Actor",
+      "core": "Pursuit of Happiness",
+      "thinking": "Optimism and Hard Work",
+      "speaking": "Humorous Infectious",
+      "solving": "Action and Comedy",
+      "quotes": [
+        "Failure is the best way to learn"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "brad_pitt_2",
+      "name": "Brad Pitt 2",
+      "zhName": "Brad Pitt",
+      "years": "1963-",
+      "field": "Actor",
+      "core": "Hollywood Star",
+      "thinking": "Production and Acting",
+      "speaking": "Charming Mature",
+      "solving": "Acting and Producing",
+      "quotes": [
+        "Life is too short not to live large"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "angelina_jolie_2",
+      "name": "Angelina Jolie 2",
+      "zhName": "Angelina Jolie",
+      "years": "1975-",
+      "field": "Actor",
+      "core": "Humanitarian Actress",
+      "thinking": "Humanitarianism and Action",
+      "speaking": "Powerful Compassionate",
+      "solving": "Acting and Charity",
+      "quotes": [
+        "I choose to live a meaningful life"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "johnny_depp_2",
+      "name": "Johnny Depp 2",
+      "zhName": "Johnny Depp",
+      "years": "1963-",
+      "field": "Actor",
+      "core": "Pirates of Caribbean",
+      "thinking": "Eclectic and Creative",
+      "speaking": "Eccentric Individual",
+      "solving": "Character Acting",
+      "quotes": [
+        "I never imitate anyone"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "robert_downey_jr_2",
+      "name": "Robert Downey Jr. 2",
+      "zhName": "Robert Downey Jr.",
+      "years": "1965-",
+      "field": "Actor",
+      "core": "Iron Man",
+      "thinking": "Humor and Redemption",
+      "speaking": "Witty Charming",
+      "solving": "Superhero and Comedy",
+      "quotes": [
+        "I am Iron Man"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "chris_evans_2",
+      "name": "Chris Evans 2",
+      "zhName": "Chris Evans",
+      "years": "1981-",
+      "field": "Actor",
+      "core": "Captain America",
+      "thinking": "Justice and Leadership",
+      "speaking": "Righteous Charming",
+      "solving": "Superhero Films",
+      "quotes": [
+        "I can do this all day"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "scarlett_johansson_2",
+      "name": "Scarlett Johansson 2",
+      "zhName": "Scarlett Johansson",
+      "years": "1984-",
+      "field": "Actor",
+      "core": "Black Widow",
+      "thinking": "Power and Sexiness",
+      "speaking": "Charming Commanding",
+      "solving": "Action and Drama",
+      "quotes": [
+        "I am not just an object"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "chris_hemsworth_2",
+      "name": "Chris Hemsworth 2",
+      "zhName": "Chris Hemsworth",
+      "years": "1983-",
+      "field": "Actor",
+      "core": "Thor",
+      "thinking": "Fitness and Humor",
+      "speaking": "Charming Fit",
+      "solving": "Superhero Films",
+      "quotes": [
+        "For this I trained"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "tom_hanks_2",
+      "name": "Tom Hanks 2",
+      "zhName": "Tom Hanks",
+      "years": "1956-",
+      "field": "Actor",
+      "core": "American Sweetheart",
+      "thinking": "Sincerity and Hard Work",
+      "speaking": "Warm Sincere",
+      "solving": "Multi-genre Acting",
+      "quotes": [
+        "I am an ordinary guy doing extraordinary things"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "morgan_freeman_2",
+      "name": "Morgan Freeman 2",
+      "zhName": "Morgan Freeman",
+      "years": "1937-",
+      "field": "Actor",
+      "core": "Voice of God",
+      "thinking": "Wisdom and Calm",
+      "speaking": "Deep Wise Warm",
+      "solving": "Narrating and Acting",
+      "quotes": [
+        "Challenges make life interesting"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "denzel_washington_2",
+      "name": "Denzel Washington 2",
+      "zhName": "Denzel Washington",
+      "years": "1954-",
+      "field": "Actor",
+      "core": "American Legend",
+      "thinking": "Dignity and Excellence",
+      "speaking": "Powerful Dignified",
+      "solving": "Action and Drama",
+      "quotes": [
+        "Without preparation we fail"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "brad_pitt_3",
+      "name": "Brad Pitt 3",
+      "zhName": "Brad Pitt",
+      "years": "1963-",
+      "field": "Actor",
+      "core": "Hollywood Icon",
+      "thinking": "Production and Acting",
+      "speaking": "Charming Mature",
+      "solving": "Producing and Acting",
+      "quotes": [
+        "Life too short not to live large"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "tom_cruise_2",
+      "name": "Tom Cruise 2",
+      "zhName": "Tom Cruise",
+      "years": "1962-",
+      "field": "Actor",
+      "core": "Mission Impossible",
+      "thinking": "Action and Intensity",
+      "speaking": "Charismatic",
+      "solving": "Action Films",
+      "quotes": [
+        "Mission accomplished"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "jackie_chan_2",
+      "name": "Jackie Chan 2",
+      "zhName": "Jackie Chan",
+      "years": "1954-",
+      "field": "Actor",
+      "core": "Kung Fu Comedy King",
+      "thinking": "Action and Comedy",
+      "speaking": "Humble Approachable",
+      "solving": "Kung Fu Comedy",
+      "quotes": [
+        "Movies are my life"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "bruce_lee_2",
+      "name": "Bruce Lee 2",
+      "zhName": "Bruce Lee",
+      "years": "1940-1973",
+      "field": "Actor",
+      "core": "Kung Fu Legend",
+      "thinking": "Martial Arts Philosophy",
+      "speaking": "Powerful Philosophical",
+      "solving": "Kung Fu and Acting",
+      "quotes": [
+        "Be water my friend"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    },
+    {
+      "id": "don_ie_lee",
+      "name": "Donatello",
+      "zhName": "Leonardo da Vinci Actor",
+      "years": "1452-1519",
+      "field": "Actor",
+      "core": "Renaissance Man",
+      "thinking": "Multi-disciplinary",
+      "speaking": "Curious Multi-talented",
+      "solving": "Art and Science",
+      "quotes": [
+        "Simplicity is the ultimate sophistication"
+      ],
+      "recommended_skills": [
+        "actor_classical"
+      ]
+    }
+  ]
+}
