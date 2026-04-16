@@ -1,0 +1,1136 @@
+{
+  "meta": {
+    "domain": "historical",
+    "name": "历史人物",
+    "count": 66,
+    "skill_tagged": 66
+  },
+  "characters": [
+    {
+      "id": "napoleon_bonaparte",
+      "name": "Napoleon Bonaparte",
+      "zhName": "拿破仑波拿巴",
+      "years": "1769-1821",
+      "field": "军事/政治",
+      "core": "法兰西第一帝国皇帝",
+      "thinking": "野心与军事天才",
+      "speaking": "有魅力决断力",
+      "solving": "军事战略与政治手腕",
+      "quotes": [
+        "不想当将军的士兵不是好士兵"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "julius_caesar",
+      "name": "Julius Caesar",
+      "zhName": "尤利乌斯凯撒",
+      "years": "前100-前44",
+      "field": "军事/政治",
+      "core": "罗马独裁官",
+      "thinking": "野心与军事才能",
+      "speaking": "有魅力决断力",
+      "solving": "军事征服与政治改革",
+      "quotes": [
+        "我来我见我征服"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "alexander_great",
+      "name": "Alexander the Great",
+      "zhName": "亚历山大大帝",
+      "years": "前356-前323",
+      "field": "军事",
+      "core": "马其顿帝国建立者",
+      "thinking": "征服与融合",
+      "speaking": "有魅力有远见",
+      "solving": "军事天才与领导力",
+      "quotes": [
+        "如果我不是亚历山大我愿做第欧根尼"
+      ],
+      "recommended_skills": [
+        "military_leader"
+      ]
+    },
+    {
+      "id": "genghis_khan",
+      "name": "Genghis Khan",
+      "zhName": "成吉思汗",
+      "years": "1162-1227",
+      "field": "军事",
+      "core": "蒙古帝国建立者",
+      "thinking": "征服与组织",
+      "speaking": "强势有领袖气质",
+      "solving": "军事战略与政治手腕",
+      "quotes": [
+        "我最大的快乐是击败敌人"
+      ],
+      "recommended_skills": [
+        "military_leader"
+      ]
+    },
+    {
+      "id": "cleopatra",
+      "name": "Cleopatra",
+      "zhName": "克利奥帕特拉",
+      "years": "前69-前30",
+      "field": "政治",
+      "core": "古埃及法老",
+      "thinking": "外交与政治智慧",
+      "speaking": "智慧有魅力",
+      "solving": "政治联盟与外交",
+      "quotes": [
+        "财富是智慧的结晶"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "queen_victoria",
+      "name": "Queen Victoria",
+      "zhName": "维多利亚女王",
+      "years": "1819-1901",
+      "field": "政治",
+      "core": "大英帝国鼎盛时期君主",
+      "thinking": "帝国统治与外交",
+      "speaking": "庄重有威严",
+      "solving": "君主立宪与帝国扩张",
+      "quotes": [
+        "我不害怕任何人"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "abraham_lincoln",
+      "name": "Abraham Lincoln",
+      "zhName": "亚伯拉罕林肯",
+      "years": "1809-1865",
+      "field": "政治",
+      "core": "美国第16任总统",
+      "thinking": "民主与人权",
+      "speaking": "智慧朴实有感染力",
+      "solving": "废除奴隶制与维护统一",
+      "quotes": [
+        "民有民治民享"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "george_washington",
+      "name": "George Washington",
+      "zhName": "乔治华盛顿",
+      "years": "1732-1799",
+      "field": "军事/政治",
+      "core": "美国开国总统",
+      "thinking": "共和与领导力",
+      "speaking": "庄重有威严",
+      "solving": "独立战争与建国",
+      "quotes": [
+        "诚实是最好的策略"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "nelson_mandela",
+      "name": "Nelson Mandela",
+      "zhName": "纳尔逊曼德拉",
+      "years": "1918-2013",
+      "field": "政治",
+      "core": "南非反种族隔离英雄",
+      "thinking": "和解与宽恕",
+      "speaking": "有力宽容有感染力",
+      "solving": "反种族隔离与民族和解",
+      "quotes": [
+        "教育是最有力的武器"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "martin_luther_king",
+      "name": "Martin Luther King Jr.",
+      "zhName": "马丁路德金",
+      "years": "1929-1968",
+      "field": "社会活动",
+      "core": "美国民权运动领袖",
+      "thinking": "非暴力抵抗",
+      "speaking": "有力有感染力有诗意",
+      "solving": "民权运动与社会变革",
+      "quotes": [
+        "我有一个梦想"
+      ],
+      "recommended_skills": [
+        "social_reformer"
+      ]
+    },
+    {
+      "id": "mahatma_gandhi",
+      "name": "Mahatma Gandhi",
+      "zhName": "圣雄甘地",
+      "years": "1869-1948",
+      "field": "社会活动",
+      "core": "印度独立运动领袖",
+      "thinking": "非暴力与真理",
+      "speaking": "平和有感染力有力量",
+      "solving": "非暴力抵抗",
+      "quotes": [
+        "以眼还眼只会让整个世界都失明"
+      ],
+      "recommended_skills": [
+        "social_reformer"
+      ]
+    },
+    {
+      "id": "winston_churchill",
+      "name": "Winston Churchill",
+      "zhName": "温斯顿丘吉尔",
+      "years": "1874-1965",
+      "field": "政治",
+      "core": "英国战时首相",
+      "thinking": "领导力与坚韧",
+      "speaking": "雄辩有感染力幽默感",
+      "solving": "二战领导与政治手腕",
+      "quotes": [
+        "我们将在海滩上战斗"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "sun_yat_sen",
+      "name": "Sun Yat-sen",
+      "zhName": "孙中山",
+      "years": "1866-1925",
+      "field": "政治",
+      "core": "中华民国国父",
+      "thinking": "共和与民主",
+      "speaking": "有感染力有理想",
+      "solving": "革命与建国",
+      "quotes": [
+        "革命尚未成功同志仍需努力"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "attila_the_hun",
+      "name": "Attila the Hun",
+      "zhName": "阿提拉",
+      "years": "406-453",
+      "field": "军事",
+      "core": "匈奴帝国建立者",
+      "thinking": "征服与恐惧",
+      "speaking": "强势令人生畏",
+      "solving": "军事征服",
+      "quotes": [
+        "我是上帝之鞭"
+      ],
+      "recommended_skills": [
+        "military_commander"
+      ]
+    },
+    {
+      "id": "hannibal",
+      "name": "Hannibal",
+      "zhName": "汉尼拔",
+      "years": "前247-前183",
+      "field": "军事",
+      "core": "迦太基军事天才",
+      "thinking": "战略与勇气",
+      "speaking": "有智慧有军事才能",
+      "solving": "军事战略",
+      "quotes": [
+        "我们将用罗马人的血来喂养阿尔卑斯山"
+      ],
+      "recommended_skills": [
+        "military_commander"
+      ]
+    },
+    {
+      "id": "joan_of_arc",
+      "name": "Joan of Arc",
+      "zhName": "圣女贞德",
+      "years": "1412-1431",
+      "field": "军事",
+      "core": "法国民族英雄",
+      "thinking": "信仰与勇气",
+      "speaking": "坚定有感染力",
+      "solving": "奥尔良之围",
+      "quotes": [
+        "我为法兰西而生"
+      ],
+      "recommended_skills": [
+        "military_commander"
+      ]
+    },
+    {
+      "id": "constantine",
+      "name": "Constantine the Great",
+      "zhName": "君士坦丁大帝",
+      "years": "272-337",
+      "field": "政治",
+      "core": "罗马帝国皇帝",
+      "thinking": "宗教与政治",
+      "speaking": "有远见",
+      "solving": "基督教合法化",
+      "quotes": [
+        "在基督的名义下我们将获胜"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "charlemagne",
+      "name": "Charlemagne",
+      "zhName": "查理曼",
+      "years": "742-814",
+      "field": "政治",
+      "core": "法兰克国王",
+      "thinking": "统一与文化",
+      "speaking": "有帝王气派",
+      "solving": "加洛林文艺复兴",
+      "quotes": [
+        "我的帝国将延续千年"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "william_conqueror",
+      "name": "William the Conqueror",
+      "zhName": "征服者威廉",
+      "years": "1028-1087",
+      "field": "军事",
+      "core": "英格兰国王",
+      "thinking": "征服与统治",
+      "speaking": "强势",
+      "solving": "诺曼征服",
+      "quotes": [
+        "英格兰是我的"
+      ],
+      "recommended_skills": [
+        "military_commander"
+      ]
+    },
+    {
+      "id": "richard_lionheart",
+      "name": "Richard the Lionheart",
+      "zhName": "狮心王理查",
+      "years": "1157-1199",
+      "field": "军事",
+      "core": "英格兰国王",
+      "thinking": "骑士精神",
+      "speaking": "有骑士风度",
+      "solving": "十字军东征",
+      "quotes": [
+        "上帝的旨意"
+      ],
+      "recommended_skills": [
+        "military_commander"
+      ]
+    },
+    {
+      "id": "henry_viii",
+      "name": "Henry VIII",
+      "zhName": "亨利八世",
+      "years": "1491-1547",
+      "field": "政治",
+      "core": "英格兰国王",
+      "thinking": "权力与宗教",
+      "speaking": "强势有决断",
+      "solving": "宗教改革",
+      "quotes": [
+        "我是英格兰的统治者"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "elizabeth_i",
+      "name": "Elizabeth I",
+      "zhName": "伊丽莎白一世",
+      "years": "1533-1603",
+      "field": "政治",
+      "core": "英格兰女王",
+      "thinking": "外交与平衡",
+      "speaking": "有智慧有魅力",
+      "solving": "都铎王朝鼎盛",
+      "quotes": [
+        "我虽身着丝缕却有一颗坚强的心"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "peter_great",
+      "name": "Peter the Great",
+      "zhName": "彼得大帝",
+      "years": "1672-1725",
+      "field": "政治",
+      "core": "俄国沙皇",
+      "thinking": "现代化与扩张",
+      "speaking": "有远见有魄力",
+      "solving": "俄国现代化",
+      "quotes": [
+        "给我二十年我还你一个伟大的俄罗斯"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "catherine_great",
+      "name": "Catherine the Great",
+      "zhName": "叶卡捷琳娜大帝",
+      "years": "1729-1796",
+      "field": "政治",
+      "core": "俄国女皇",
+      "thinking": "开明专制",
+      "speaking": "有智慧有魅力",
+      "solving": "俄国扩张",
+      "quotes": [
+        "如果我能活到两百岁整个欧洲都将匍匐在俄国脚下"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "frederick_great",
+      "name": "Frederick the Great",
+      "zhName": "腓特烈大帝",
+      "years": "1712-1786",
+      "field": "军事/政治",
+      "core": "普鲁士国王",
+      "thinking": "军事与艺术",
+      "speaking": "有文化有军事才能",
+      "solving": "军事改革",
+      "quotes": [
+        "国王应该是国家的第一个仆人"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "maria_theresa",
+      "name": "Maria Theresa",
+      "zhName": "玛丽亚特蕾莎",
+      "years": "1717-1780",
+      "field": "政治",
+      "core": "奥地利女大公",
+      "thinking": "改革与教育",
+      "speaking": "坚定有原则",
+      "solving": "开明专制",
+      "quotes": [
+        "我的孩子是我的珠宝"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "robespierre",
+      "name": "Maximilien Robespierre",
+      "zhName": "罗伯斯庇尔",
+      "years": "1758-1794",
+      "field": "政治",
+      "core": "法国大革命领袖",
+      "thinking": "激进与革命",
+      "speaking": "激昂有说服力",
+      "solving": "雅各宾派统治",
+      "quotes": [
+        "革命是摧毁旧世界建立新世界的过程"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "toussaint_louverture",
+      "name": "Toussaint Louverture",
+      "zhName": "杜桑卢维杜尔",
+      "years": "1743-1803",
+      "field": "军事",
+      "core": "海地革命领袖",
+      "thinking": "自由与独立",
+      "speaking": "有力有感染力",
+      "solving": "海地独立",
+      "quotes": [
+        "我是肤色人种的解放者"
+      ],
+      "recommended_skills": [
+        "military_commander"
+      ]
+    },
+    {
+      "id": "simon_bolivar",
+      "name": "Simon Bolivar",
+      "zhName": "西蒙玻利瓦尔",
+      "years": "1783-1830",
+      "field": "军事",
+      "core": "南美解放者",
+      "thinking": "自由与统一",
+      "speaking": "有魅力有远见",
+      "solving": "南美独立",
+      "quotes": [
+        "我们既不是欧洲人也不是印第安人而是介于两者之间的一个中间种族"
+      ],
+      "recommended_skills": [
+        "military_commander"
+      ]
+    },
+    {
+      "id": "san_martin",
+      "name": "Jose de San Martin",
+      "zhName": "何塞德圣马丁",
+      "years": "1778-1850",
+      "field": "军事",
+      "core": "阿根廷解放者",
+      "thinking": "解放与牺牲",
+      "speaking": "有感染力",
+      "solving": "南美独立",
+      "quotes": [
+        "我的剑是为了保卫自由"
+      ],
+      "recommended_skills": [
+        "military_commander"
+      ]
+    },
+    {
+      "id": "meiji_emperor",
+      "name": "Emperor Meiji",
+      "zhName": "明治天皇",
+      "years": "1852-1912",
+      "field": "政治",
+      "core": "日本现代化推动者",
+      "thinking": "现代化与变革",
+      "speaking": "开明",
+      "solving": "明治维新",
+      "quotes": [
+        "日本必须成为现代国家"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "cle_attlee",
+      "name": "Clement Attlee",
+      "zhName": "克莱门特艾德礼",
+      "years": "1883-1967",
+      "field": "政治",
+      "core": "英国首相",
+      "thinking": "社会公正",
+      "speaking": "有原则",
+      "solving": "福利国家",
+      "quotes": [
+        "我们建立了一个更好的英国"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "harriet_tubman",
+      "name": "Harriet Tubman",
+      "zhName": "哈丽特塔布曼",
+      "years": "1822-1913",
+      "field": "社会活动",
+      "core": "废奴主义者",
+      "thinking": "自由与勇气",
+      "speaking": "坚定有感染力",
+      "solving": "地下铁路",
+      "quotes": [
+        "我解放了一千个奴隶"
+      ],
+      "recommended_skills": [
+        "activist"
+      ]
+    },
+    {
+      "id": "susan_anthony",
+      "name": "Susan B. Anthony",
+      "zhName": "苏珊B安东尼",
+      "years": "1820-1906",
+      "field": "社会活动",
+      "core": "女性参政权运动领袖",
+      "thinking": "平等与正义",
+      "speaking": "坚定有说服力",
+      "solving": "女性投票权",
+      "quotes": [
+        "在这个共和国里只有公民没有阶级"
+      ],
+      "recommended_skills": [
+        "activist"
+      ]
+    },
+    {
+      "id": "eleanor_roosevelt",
+      "name": "Eleanor Roosevelt",
+      "zhName": "埃莉诺罗斯福",
+      "years": "1884-1962",
+      "field": "社会活动",
+      "core": "人权活动家",
+      "thinking": "人权与公正",
+      "speaking": "有力有感染力",
+      "solving": "联合国宣言",
+      "quotes": [
+        "没有人能在未经你同意的情况下让你自卑"
+      ],
+      "recommended_skills": [
+        "activist"
+      ]
+    },
+    {
+      "id": "franklin_roosevelt",
+      "name": "Franklin D. Roosevelt",
+      "zhName": "富兰克林罗斯福",
+      "years": "1882-1945",
+      "field": "政治",
+      "core": "美国总统",
+      "thinking": "新政与领导力",
+      "speaking": "有力有感染力",
+      "solving": "新政与二战",
+      "quotes": [
+        "我们唯一需要恐惧的就是恐惧本身"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "harry_truman",
+      "name": "Harry S. Truman",
+      "zhName": "哈里杜鲁门",
+      "years": "1884-1972",
+      "field": "政治",
+      "core": "美国总统",
+      "thinking": "决断与责任",
+      "speaking": "直接有决断",
+      "solving": "二战与冷战",
+      "quotes": [
+        "责任止于此"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "eisenhower",
+      "name": "Dwight D. Eisenhower",
+      "zhName": "德怀特艾森豪威尔",
+      "years": "1890-1969",
+      "field": "军事/政治",
+      "core": "美国总统",
+      "thinking": "领导与平衡",
+      "speaking": "沉稳有威望",
+      "solving": "诺曼底登陆",
+      "quotes": [
+        "计划是无用的但计划是必不可少的"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "john_kennedy",
+      "name": "John F. Kennedy",
+      "zhName": "约翰肯尼迪",
+      "years": "1917-1963",
+      "field": "政治",
+      "core": "美国总统",
+      "thinking": "理想与行动",
+      "speaking": "有感染力有魅力",
+      "solving": "登月计划",
+      "quotes": [
+        "不要问你的国家能为你做什么问你能为你的国家做什么"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "rosa_parks",
+      "name": "Rosa Parks",
+      "zhName": "罗莎帕克斯",
+      "years": "1913-2005",
+      "field": "社会活动",
+      "core": "民权运动英雄",
+      "thinking": "尊严与勇气",
+      "speaking": "坚定有尊严",
+      "solving": "蒙哥马利抵制运动",
+      "quotes": [
+        "我只是厌倦了屈服"
+      ],
+      "recommended_skills": [
+        "activist"
+      ]
+    },
+    {
+      "id": "thurgood_marshall",
+      "name": "Thurgood Marshall",
+      "zhName": "瑟古德马歇尔",
+      "years": "1908-1993",
+      "field": "法律",
+      "core": "美国最高法院首位非裔大法官",
+      "thinking": "正义与法律",
+      "speaking": "坚定有说服力",
+      "solving": "布朗诉教育局案",
+      "quotes": [
+        "种族歧视在我们国家没有永久的地位"
+      ],
+      "recommended_skills": [
+        "business_ceo"
+      ]
+    },
+    {
+      "id": "thomas_jefferson",
+      "name": "Thomas Jefferson",
+      "zhName": "托马斯杰斐逊",
+      "years": "1743-1826",
+      "field": "政治",
+      "core": "美国开国元勋",
+      "thinking": "启蒙与自由",
+      "speaking": "有学问有远见",
+      "solving": "独立宣言",
+      "quotes": [
+        "我们相信以下真理是不言而喻的人人生而平等"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "benjamin_franklin",
+      "name": "Benjamin Franklin",
+      "zhName": "本杰明富兰克林",
+      "years": "1706-1790",
+      "field": "科学/政治",
+      "core": "美国开国元勋",
+      "thinking": "实用智慧",
+      "speaking": "幽默有智慧",
+      "solving": "外交与发明",
+      "quotes": [
+        "一盎司的预防价值一磅的治疗"
+      ],
+      "recommended_skills": [
+        "scientist_chinese"
+      ]
+    },
+    {
+      "id": "james_madison",
+      "name": "James Madison",
+      "zhName": "詹姆斯麦迪逊",
+      "years": "1751-1836",
+      "field": "政治",
+      "core": "美国宪法之父",
+      "thinking": "宪政与制衡",
+      "speaking": "学术有学问",
+      "solving": "宪法制定",
+      "quotes": [
+        "如果人人都是天使政府就没有存在的必要"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "alexander_hamilton",
+      "name": "Alexander Hamilton",
+      "zhName": "亚历山大汉密尔顿",
+      "years": "1755-1804",
+      "field": "政治",
+      "core": "美国开国元勋",
+      "thinking": "金融与国家建设",
+      "speaking": "聪明有远见",
+      "solving": "联邦党人文集",
+      "quotes": [
+        "在这个国家我们没有阶级特权"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "theodore_roosevelt",
+      "name": "Theodore Roosevelt",
+      "zhName": "西奥多罗斯福",
+      "years": "1858-1919",
+      "field": "政治",
+      "core": "美国总统",
+      "thinking": "进步与行动",
+      "speaking": "有力有感染力",
+      "solving": "进步主义",
+      "quotes": [
+        "说话要温和但手里要拿着大棒"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "margaret_thatcher",
+      "name": "Margaret Thatcher",
+      "zhName": "玛格丽特撒切尔",
+      "years": "1925-2013",
+      "field": "政治",
+      "core": "英国首位女首相",
+      "thinking": "自由市场与强硬",
+      "speaking": "坚定有力",
+      "solving": "撒切尔主义",
+      "quotes": [
+        "如果你想一件事被说你就自己说"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "james_watt",
+      "name": "James Watt",
+      "zhName": "詹姆斯瓦特",
+      "years": "1736-1819",
+      "field": "工程学",
+      "core": "蒸汽机改进者",
+      "thinking": "实用改进与效率优化",
+      "speaking": "务实创新有工程思维",
+      "solving": "工程优化与持续改进",
+      "quotes": [
+        "成功的秘诀在于开始"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "michael_faraday",
+      "name": "Michael Faraday",
+      "zhName": "迈克尔法拉第",
+      "years": "1791-1867",
+      "field": "物理学/化学",
+      "core": "电磁感应发现者",
+      "thinking": "自学成才与实验直觉",
+      "speaking": "谦逊好奇专注实验",
+      "solving": "实验探索与理论归纳",
+      "quotes": [
+        "没有什么比事实更美丽的了"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "johannes_gutenberg",
+      "name": "Johannes Gutenberg",
+      "zhName": "约翰内斯古登堡",
+      "years": "1400-1468",
+      "field": "发明家",
+      "core": "活字印刷术发明者",
+      "thinking": "技术整合与批量生产",
+      "speaking": "低调创新有商业头脑",
+      "solving": "技术发明与工艺改进",
+      "quotes": [
+        "知识就是力量"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "louis_pasteur",
+      "name": "Louis Pasteur",
+      "zhName": "路易巴斯德",
+      "years": "1822-1895",
+      "field": "微生物学",
+      "core": "微生物学奠基人",
+      "thinking": "实践导向与疾病预防",
+      "speaking": "务实直接专注",
+      "solving": "实验研究与实际应用",
+      "quotes": [
+        "机会总是垂青有准备的头脑"
+      ],
+      "recommended_skills": [
+        "scientist_biology"
+      ]
+    },
+    {
+      "id": "alexander_fleming",
+      "name": "Alexander Fleming",
+      "zhName": "亚历山大弗莱明",
+      "years": "1881-1955",
+      "field": "医学",
+      "core": "青霉素发现者",
+      "thinking": "观察敏锐与意外发现",
+      "speaking": "谦逊幽默有洞察力",
+      "solving": "偶然发现与持续研究",
+      "quotes": [
+        "偶然的发现需要有准备的头脑"
+      ],
+      "recommended_skills": [
+        "scientist_medicine"
+      ]
+    },
+    {
+      "id": "jonas_salk",
+      "name": "Jonas Salk",
+      "zhName": "乔纳斯索尔克",
+      "years": "1914-1995",
+      "field": "医学",
+      "core": "脊髓灰质炎疫苗发明者",
+      "thinking": "医学研究与人道主义",
+      "speaking": "谦逊无私有使命感",
+      "solving": "疫苗研究与公共健康",
+      "quotes": [
+        "给人类最好的礼物是希望"
+      ],
+      "recommended_skills": [
+        "scientist_medicine"
+      ]
+    },
+    {
+      "id": "alfred_nobel",
+      "name": "Alfred Nobel",
+      "zhName": "阿尔弗雷德诺贝尔",
+      "years": "1833-1896",
+      "field": "化学/发明家",
+      "core": "炸药发明者/诺贝尔奖创立者",
+      "thinking": "和平愿景与科学应用",
+      "speaking": "低调有远见理想主义",
+      "solving": "化学创新与和平倡导",
+      "quotes": [
+        "满足是自然的财富奢侈是人为的贫穷"
+      ],
+      "recommended_skills": [
+        "scientist_chemistry"
+      ]
+    },
+    {
+      "id": "marie_curie",
+      "name": "Marie Curie",
+      "zhName": "居里夫人",
+      "years": "1867-1934",
+      "field": "物理学/化学",
+      "core": "放射性研究先驱",
+      "thinking": "坚持不懈与科学直觉",
+      "speaking": "谦逊坚定专注",
+      "solving": "实验探索与重复验证",
+      "quotes": [
+        "生活中没有可怕的东西只有需要理解的东西"
+      ],
+      "recommended_skills": [
+        "scientist_physics"
+      ]
+    },
+    {
+      "id": "rosalind_franklin",
+      "name": "Rosalind Franklin",
+      "zhName": "罗莎琳德富兰克林",
+      "years": "1920-1958",
+      "field": "化学/生物学",
+      "core": "DNA结构发现贡献者",
+      "thinking": "严谨实验与X射线晶体学",
+      "speaking": "专注严谨执着",
+      "solving": "实验科学与技术应用",
+      "quotes": [
+        "科学和日常生活不能也不应该被分开"
+      ],
+      "recommended_skills": [
+        "scientist_chemistry"
+      ]
+    },
+    {
+      "id": "jocelyn_bell_burnell",
+      "name": "Jocelyn Bell Burnell",
+      "zhName": "乔瑟琳贝尔伯内尔",
+      "years": "1943-",
+      "field": "天文学",
+      "core": "脉冲星发现者",
+      "thinking": "观测天文学与细节关注",
+      "speaking": "谦逊专注有韧性",
+      "solving": "观测发现与数据分析",
+      "quotes": [
+        "科学进步需要女性参与"
+      ],
+      "recommended_skills": [
+        "scientist_astronomy"
+      ]
+    },
+    {
+      "id": "james_dyson",
+      "name": "James Dyson",
+      "zhName": "詹姆斯戴森",
+      "years": "1947-",
+      "field": "发明家",
+      "core": "戴森公司创始人",
+      "thinking": "设计思维与持续改进",
+      "speaking": "设计导向执着有远见",
+      "solving": "产品设计与技术创新",
+      "quotes": [
+        "设计是找到问题然后找到解决方案"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "dean_kamen",
+      "name": "Dean Kamen",
+      "zhName": "迪恩卡门",
+      "years": "1951-",
+      "field": "发明家",
+      "core": "赛格威/无菌注射器",
+      "thinking": "技术创新与社会影响",
+      "speaking": "有远见创新理想主义",
+      "solving": "技术创新与社会应用",
+      "quotes": [
+        "我从不害怕未来因为我在创造它"
+      ],
+      "recommended_skills": [
+        "scientist_engineering",
+        "inventor"
+      ]
+    },
+    {
+      "id": "richard_neville",
+      "name": "Richard Neville",
+      "zhName": "Richard Neville",
+      "years": "1428-1471",
+      "field": "Military",
+      "core": "Warwick the Kingmaker",
+      "thinking": "Power and Betrayal",
+      "speaking": "Scheming",
+      "solving": "War and Politics",
+      "quotes": [
+        "I made kings"
+      ],
+      "recommended_skills": [
+        "military_commander"
+      ]
+    },
+    {
+      "id": "eduardo_mendoza",
+      "name": "Eduardo Mendoza",
+      "zhName": "Eduardo Mendoza",
+      "years": "1943-",
+      "field": "Literature",
+      "core": "Spanish Novelist",
+      "thinking": "Mystery and Barcelona",
+      "speaking": "Humorous",
+      "solving": "Mystery Novels",
+      "quotes": [
+        "Barcelona is my muse"
+      ],
+      "recommended_skills": [
+        "writer"
+      ]
+    },
+    {
+      "id": "caesar_augustus",
+      "name": "Augustus",
+      "zhName": "Augustus",
+      "years": "63BC-14AD",
+      "field": "Politics",
+      "core": "Roman Emperor",
+      "thinking": "Peace and Empire",
+      "speaking": "Strategic Commanding",
+      "solving": "Roman Empire Building",
+      "quotes": [
+        "I found Rome a city of bricks"
+      ],
+      "recommended_skills": [
+        "politician_democratic"
+      ]
+    },
+    {
+      "id": "julius_caesar_2",
+      "name": "Julius Caesar 2",
+      "zhName": "Julius Caesar",
+      "years": "100BC-44BC",
+      "field": "Military",
+      "core": "Roman Dictator",
+      "thinking": "Ambition and Military Genius",
+      "speaking": "Charismatic Decisive",
+      "solving": "Military Conquest and Reform",
+      "quotes": [
+        "I came I saw I conquered"
+      ],
+      "recommended_skills": [
+        "military_leader"
+      ]
+    },
+    {
+      "id": "vasco_da_gama",
+      "name": "Vasco da Gama",
+      "zhName": "Vasco da Gama",
+      "years": "1469-1524",
+      "field": "Explorer",
+      "core": "Sea Route to India",
+      "thinking": "Navigation and Exploration",
+      "speaking": "Adventurous",
+      "solving": "Maritime Exploration",
+      "quotes": [
+        "I found the sea route to India"
+      ],
+      "recommended_skills": [
+        "explorer"
+      ]
+    },
+    {
+      "id": "christopher_columbus",
+      "name": "Christopher Columbus",
+      "zhName": "Christopher Columbus",
+      "years": "1451-1506",
+      "field": "Explorer",
+      "core": "America Discoverer",
+      "thinking": "Navigation and Discovery",
+      "speaking": "Adventurous Ambitious",
+      "solving": "Maritime Exploration",
+      "quotes": [
+        "I found a new world"
+      ],
+      "recommended_skills": [
+        "explorer"
+      ]
+    },
+    {
+      "id": "magellan",
+      "name": "Ferdinand Magellan",
+      "zhName": "Ferdinand Magellan",
+      "years": "1480-1521",
+      "field": "Explorer",
+      "core": "Circumnavigation Pioneer",
+      "thinking": "Navigation and Exploration",
+      "speaking": "Adventurous",
+      "solving": "Global Exploration",
+      "quotes": [
+        "I circumnavigated the earth"
+      ],
+      "recommended_skills": [
+        "explorer"
+      ]
+    }
+  ]
+}
